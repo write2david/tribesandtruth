@@ -14,9 +14,9 @@ Or maybe you've been curious about the Mennonites, or pictures from Christian hi
 :::
 
 
-## First Things First...
+## Beginning Questions
 
-1. <mark>Why would Christian women wear head coverings?</mark>  **It's taught in the New Testament.  Sure, this topic probably hasn't come up lately in your pastor's sermon. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
+1. <mark>Why would Christian women wear head coverings?</mark>  **This practice is taught in the New Testament.  Sure, that topic probably hasn't come up lately in your pastor's sermon. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
 
 2. <mark>This seems like a random topic.</mark> **The Apostle Paul actually spends half of a decent-length chapter explaining the practice of head covering, including 5 specific reasons for the practice.**
 
@@ -26,11 +26,11 @@ Or maybe you've been curious about the Mennonites, or pictures from Christian hi
 
 5. <mark>A piece of cloth isn't really that important.</mark>  **True, compared to many other truths in Scripture. But, biblically, it's not about the piece of cloth anyway.  A _symbol_ (like a wedding ring) is something physical that points to spiritual truths. Most Christians are used to other symbolic practices like baptism and the Lord's Supper.**
 
-## So what next?...
+## Let Scripture Speak
 
-- Read the passage (click the "next" arrow below)
+- This website isn't trying to invent anything new.  Instead, we urge you to read what the Bible says about head covering (click the "next" arrow below)
 
-- Understand the passage better (keep clicking "next" or jump to the menu on the left)
+- You'll probably still have questions. Keep keep clicking "next" at the bottom (or jump to the menu on the left) to learn more.
 
-- Apply what the passage says (God's Word has good direction, because it's from God!)
+- Don't forget the most important part: **apply** what the passage says. God's Word has good direction, because it's from God!
 
