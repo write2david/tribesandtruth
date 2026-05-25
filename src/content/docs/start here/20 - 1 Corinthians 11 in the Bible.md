@@ -5,6 +5,21 @@ sidebar:
   label: Head covering in the New Testament
 ---
 
+###  Where in the Bible?
+
+Some people assume that the practice of head covering was only in the Old Testament.
+
+However, the Old Testament doesn't prescribe (command) head covering as much as it describes head covering (partly for cultural reasons).
+
+Instead, the Christian practice of head covering is documented by the Apostle Paul in the New Testament.
+
+He devoted a half-chapter to explaining the practice, the principles, and the reasons.
+
+### Here it is...
+
+**Below is what God inspired Paul to write, as found in 1 Corinthians 11.**
+
+===
 
 2 Now I praise you because you remember me in everything and hold firmly to the traditions, just as I delivered them to you.
 
