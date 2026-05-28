@@ -10,7 +10,7 @@ Have you read 1 Corinthians 11 and started wondering what it means?
 
 Or maybe you've been curious about why Mennonite ladies often wear a head covering?
 
-Or perhaps you've seen pictures from throughout Christian history where the women had some type of garment on their heads?
+Or perhaps you've seen pictures from Christian history where the women had some type of garment on their heads?
 
 **If you're looking for answers, you've come to the right place.**
 :::
@@ -18,7 +18,7 @@ Or perhaps you've seen pictures from throughout Christian history where the wome
 
 ## Beginning Questions
 
-1. <mark>Why would Christian women wear head coverings?</mark>  **This practice is taught in the New Testament.  Sure, that topic probably hasn't come up lately in your pastor's sermon. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
+1. <mark>Why would any woman decide to wear a head covering?</mark>  **This practice is taught in the New Testament.  Sure, that topic probably hasn't come up lately in your pastor's sermons. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
 
 2. <mark>Nowadays, head covering seems like a random topic.</mark> **The Apostle Paul actually spends half of a chapter explaining head covering, including 5 specific reasons for the practice.**
 
