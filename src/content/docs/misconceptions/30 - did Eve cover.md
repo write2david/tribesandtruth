@@ -3,9 +3,9 @@ title: Did Eve wear a covering?
 description: If head covering is based on gender roles established at Creation, then did Eve wear a head covering?
 sidebar:
   label: Did Eve wear a covering?
-  badge: 
-	text: In progress
-	variant: caution
+badge: 
+  text: In progress
+  variant: caution
 ---
 
 :::tip[Overview]{icon="sun"}
