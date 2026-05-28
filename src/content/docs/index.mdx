@@ -1,22 +1,44 @@
 ---
 title: Head Covering Answers
-description: Find your answers to your questions about Christian head covering
-#template: splash # Remove or comment out this line to display the site sidebar on this page.
-hero:
-  tagline: Find your answers to your questions about Christian head covering
-  image:
-    file: ../../assets/houston.webp
-  actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+description: Answers to your questions about Christian head covering
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+banner:
+  content: |
+    We just launched something cool!
+    <a href="https://example.com">Check it out</a>
+#hero:
+#  tagline: Answers to your questions about Christian head covering
+#  image:
+#    file: ../../assets/houston.webp
+#  actions:
+#    - text: Example Guide
+#      link: /guides/example/
+#      icon: right-arrow
+#    - text: Read the Starlight docs
+#      link: https://starlight.astro.build
+#      icon: external
+#      variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+
+
+<CardGrid>
+	<Card title="Update content" icon="pencil">
+		Edit `src/content/docs/index.mdx` to see this page change.
+	</Card>
+	<Card title="Change page layout" icon="document">
+		Delete `template: splash` in `src/content/docs/index.mdx` to display a
+		sidebar on this page.
+	</Card>
+	<Card title="Add new content" icon="add-document">
+		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	</Card>
+	<Card title="Configure your site" icon="setting">
+		Edit your `sidebar` and other config in `astro.config.mjs`.
+	</Card>
+</CardGrid>
+
 
 
 Many people are confused when they read about head covering in 1 Corinthians 11!
@@ -35,7 +57,7 @@ To give feedback or provide assistance, send a message to "Head Covering for Eva
 **Lefthand menu:**  General curiosity? Browse all the topics 
 
 
-## Get started with these top questions...
+## Top Questions
 
 Is HC for today? 
 Long hair = head covering?
@@ -54,21 +76,3 @@ Found the answer you're looking for? Share the link with a friend (or print out 
 
 - Trying to picture what Christian head covering looks like? **You'll find inspiring styles & people on our Instagram page.**
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
-</CardGrid>
