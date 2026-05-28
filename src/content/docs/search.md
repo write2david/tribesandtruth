@@ -12,38 +12,39 @@ lastUpdated: false
 </div>
 
 <script is:inline>
-  function triggerSearch() {
-    // 1. Locate Starlight's native search button component
-    const nativeSearchButton = document.querySelector('button[data-open-modal="search"]');
-    
-    if (nativeSearchButton) {
-      // 2. Automatically trigger the modal open animation
-      nativeSearchButton.click();
+  (function () {
+    // Set a recurring check to find Starlight's search elements
+    const searchWatchdog = setInterval(() => {
+      const nativeSearchButton = document.querySelector('button[data-open-modal="search"]');
       
-      // 3. Look for a search query (?q=something) in the URL
+      // If the button isn't loaded yet, do nothing and wait for the next tick
+      if (!nativeSearchButton) return;
+
+      // Found it! Kill the loop immediately so it doesn't run infinitely
+      clearInterval(searchWatchdog);
+
+      // 1. Click the button to pop open the modal
+      nativeSearchButton.click();
+
+      // 2. Extract any deep-linked queries (?q=something)
       const urlParams = new URLSearchParams(window.location.search);
       const searchQuery = urlParams.get('q');
-      
+
       if (searchQuery) {
-        // Wait a brief split-second for the modal overlay to finish rendering
+        // Wait a brief frame for the modal transition to finish, then inject text
         setTimeout(() => {
           const searchInput = document.querySelector('#starlight__search input');
           if (searchInput) {
             searchInput.value = searchQuery;
             searchInput.dispatchEvent(new Event('input', { bubbles: true }));
           }
-        }, 150);
+        }, 100);
       }
-    }
-  }
+    }, 50); // Checks every 50 milliseconds
 
-  // Safety Gate: If the browser is already finished or interactive, run it immediately
-  if (document.readyState === 'interactive' || document.readyState === 'complete') {
-    triggerSearch();
-  } else {
-    // Otherwise, wait for the DOM layout to finish mounting
-    document.addEventListener('DOMContentLoaded', triggerSearch);
-  }
+    // Safety fallback: Automatically clear interval after 5 seconds if anything breaks
+    setTimeout(() => clearInterval(searchWatchdog), 5000);
+  })();
 </script>
 
 <style>
