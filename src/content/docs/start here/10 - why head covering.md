@@ -6,11 +6,13 @@ sidebar:
 ---
 
 :::tip[Overview]{icon="sun"}
-Are you surprised to find a website about *Christian* head covering?
+Have you read 1 Corinthians 11 and started wondering what it means?
 
-Or maybe you've been curious about the Mennonites, or pictures from Christian history, or your own reading of 1 Corinthians?
+Or maybe you've been curious about why Mennonite ladies often wear a head covering?
 
-**Either way, you've come to the right place...**
+Or perhaps you've seen pictures from throughout Christian history where the women had some type of garment on their heads?
+
+**If you're looking for answers, you've come to the right place.**
 :::
 
 
@@ -18,9 +20,9 @@ Or maybe you've been curious about the Mennonites, or pictures from Christian hi
 
 1. <mark>Why would Christian women wear head coverings?</mark>  **This practice is taught in the New Testament.  Sure, that topic probably hasn't come up lately in your pastor's sermon. But God's instructions about head covering are [worth a read](/20---1-corinthians-11-in-the-bible/).**
 
-2. <mark>This seems like a random topic.</mark> **The Apostle Paul actually spends half of a chapter explaining head covering, including 5 specific reasons for the practice.**
+2. <mark>Nowadays, head covering seems like a random topic.</mark> **The Apostle Paul actually spends half of a chapter explaining head covering, including 5 specific reasons for the practice.**
 
-3. <mark>It must be just a local custom for a unique situation in the Bible, right?</mark>  **Scripture actually provides *universal reasons* for head covering, as well as describing the *universal practice* of head covering (before some churches stopped practicing it.)**
+3. <mark>It must be just a local custom for a unique situation in the Bible, right?</mark>  **The Bible actually provides *universal reasons* for head covering, as well as describing the *universal practice* of head covering (before some churches stopped practicing it.)**
 
 4. <mark>But it was just an ancient practice that died out with ancient culture, right?</mark>  **Time to check the history books! It's well-documented that Christianity has been practicing head covering for 2000 years, and that it generally went out-of-favor only within the last 150 years.**
 

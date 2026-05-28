@@ -15,23 +15,22 @@ Super-quick answers to the top questions (with options to dig deeper)...
 :::
 
 
-### What are the reasons for head covering?
+## What are the reasons for head covering?
 - Main answers
 - Click to learn more
 
-### Is head covering for today?
+## Is head covering for today?
 - Main answers
 - Click to learn more
 
-### Does "long hair" count as a head covering?
+## Does "long hair" count as a head covering?
 - Main answers
 - Click to learn more
 
-### Where to buy?
+## Where to buy?
 - Main answers
 - Click to learn more
 
-### When to wear one?
+## When to wear one?
 - Main answers
 - Click to learn more
-
