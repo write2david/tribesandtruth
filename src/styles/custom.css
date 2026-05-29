@@ -26,6 +26,20 @@
 	filter: drop-shadow(0 0 3rem var(--overlay-blurple));
 }
 
+
+mark {
+  /* Change the background to a softer, theme-friendly color */
+  background-color: var(--sl-color-text-accent); 
+  
+  /* Make sure the text color stays readable */
+  color: var(--sl-color-bg); 
+  
+  /* Optional: Add a little padding and rounded corners for a cleaner look */
+  padding: 0.1em 0.3em;
+  border-radius: 0.25rem;
+}
+
+
 /* Change the footnote return icon */
 
 .data-footnote-backref {
