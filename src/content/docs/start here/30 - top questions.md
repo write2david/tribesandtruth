@@ -6,31 +6,28 @@ sidebar:
 ---
 
 :::tip[Overview]{icon="sun"}
-Super-quick answers to the top questions (with options to dig deeper)...
-1. What are the reasons for head covering?
-2. Is head covering for today?
-3. Does "long hair" count as a head covering?
-4. Where to buy?
-5. When to wear one?
+Not very familiar with 1 Corinthians 11?
+Not sure where to start with Christian head covering? 
+Check out these five super-common questions...
 :::
 
 
-## What are the reasons for head covering?
+## 1. What are the reasons for head covering?
 - Main answers
 - Click to learn more
 
-## Is head covering for today?
+## 2. Is head covering for today?
 - Main answers
 - Click to learn more
 
-## Does "long hair" count as a head covering?
+## 3. Does "long hair" count as a head covering?
 - Main answers
 - Click to learn more
 
-## Where to buy?
+## 4. Where to buy?
 - Main answers
 - Click to learn more
 
-## When to wear one?
+## 5. When to wear one?
 - Main answers
 - Click to learn more
