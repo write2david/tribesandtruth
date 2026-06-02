@@ -17,9 +17,9 @@ sidebar:
 
 ## Answer
   
-##### » God does not instruct women to conceal all their hair.[^3]
-##### » Therefore, it is legalism to require women to conceal their hair.
-##### » Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
+1.  God does not instruct women to conceal all their hair.[^3]
+2. Therefore, it is legalism to require women to conceal their hair.
+3. Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
 
 <br>
 
