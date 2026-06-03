@@ -1,21 +1,21 @@
 ---
-title: Where can I buy head coverings?
-description: Online and physical stores to purchase head coverings.
+title: What if I face resistance from others?
+description: Responding when people disagree with the decision to wear a head covering.
 sidebar:
-  label: What if I'm Single?
+  label: How to handle pushback?
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.
+draft: false
 ---
-
 
 :::tip[Overview]{icon="sun"}
 - Text goes here
-- also address divorced, widowed, and those looking for a covering-supportive spouse
 :::
 
 ## Answer
   
-1.  Text goes here
+1. Text goes here
+2. include: lack of support from church & family & spouse, give options for online support
 
 <br>
 

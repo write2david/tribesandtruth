@@ -1,8 +1,8 @@
 ---
-title: Where can I buy head coverings?
-description: Online and physical stores to purchase head coverings.
+title: Can men wear hats in church?
+description: Considering the command for men not to wear a head covering
 sidebar:
-  label: What if I'm Single?
+  label: What about men and hats?
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.
 ---
@@ -10,7 +10,6 @@ banner:
 
 :::tip[Overview]{icon="sun"}
 - Text goes here
-- also address divorced, widowed, and those looking for a covering-supportive spouse
 :::
 
 ## Answer
