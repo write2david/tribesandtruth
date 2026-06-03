@@ -1,3 +1,7 @@
+/* START THE ADJUSTMENT OF THE BACKGROUND COLOR TO SHOW A PURPLE GRADIENT */
+
+
+
 :root {
 	--purple-hsl: 255, 60%, 60%;
 	--overlay-blurple: hsla(var(--purple-hsl), 0.2);
@@ -38,14 +42,12 @@ header {
 }
 
 
-mark { 
-  /* Optional: Add a little padding and rounded corners for a cleaner look */
-  padding: 0.1em 0.3em;
-  border-radius: 0.25rem;
-}
+/* NOW THE ADUSTMENT OF THE BACKGROUND COLOR IS COMPLETE */
 
 
-/* Change the footnote return icon */
+
+
+/* HERE WE WILL CHANGE (HIDE) THE FOOTNOTE RETURN ICONS WITHIN THE FOOTNOTES AREA */
 
 .data-footnote-backref {
   display: inline-block !important;
@@ -55,29 +57,12 @@ mark {
 
 
 
-/* Below is code for changing the icon, but it's commented-out because all I want to do is hide it using the code above */
 
-/* 
-.data-footnote-backref::after {
-  content: "↑" !important;
-  font-size: 1rem !important;
-  margin-left: 0.25rem;
-}
-*/
-
-
-
-/* Reveal the hidden "Footnotes" heading, and shrink the font size */
+/* HERE WE WILL REVEAL THE hidden "Footnotes" heading, and shrink the font size of it*/
 h2#footnote-label {
   width: auto;
   position: static;
   clip: auto;
   font-size: 1.5rem;
   margin-top: 0rem; /* Adjust this to control the gap above the line */
-}
-
-
-/* try to hide the paperclip icon for Footnotes, since it is positioned over the word Footnotes... unfortunately, this doesn't seem to work */
-h2#footnote-label > a {
-  font-size: 0rem;
 }
