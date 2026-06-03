@@ -20,8 +20,6 @@ sidebar:
 1. God does not instruct women to conceal all their hair.[^3]
 2. Instead, Paul indicates that he expected that Christian women would have visible hair in public and in worship.
 
-According to this view, [modesty is the purpose of head covering](/40 - is hair immodest). 
-
 <br>
 
 ***
@@ -41,7 +39,7 @@ According to this view, [modesty is the purpose of head covering](/40 - is hair 
 
 [^1]:  A technical side note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
 
-[^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](/40 - is hair immodest). And so this opposite belief can actually have the same result: a woman feeling unnecessarily guilty if her hair is visible.
+[^2]: The exact opposite belief is that a woman's long hair is sensual, and so it is shameful (rather than glorious) for it to be visible in public. According to this view, [modesty is the purpose of head covering](/misconceptions/40 - is hair immodest). And so this opposite belief can actually have the same result: a woman feeling unnecessarily guilty if her hair is visible.
 
 [^3]: Therefore, it is legalism to require all Christian women to conceal their hair. At the same time, God does not _prohibit_ women from covering their hair. And so a _personal_ decision to cover all their hair would fall under a [Christian liberty](/misconceptions/99A - is head covering optional) issue.
 
