@@ -19,6 +19,3 @@ Some people believe that Paul wrote 1 Corinthians 11 in order to promote modesty
 
 ## Explanation
 - The closest thing is the original definition of humility.
-
-
-Testing:  1 Timothy 2:9-10
