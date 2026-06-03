@@ -36,8 +36,8 @@ export default defineConfig({
 					autogenerate: { directory: 'biblical basis' },
 				},
 				{
-					label: 'PRACTICAL TOPICS',
-					autogenerate: { directory: 'practical topics' },
+					label: 'PRACTICAL QUESTIONS',
+					autogenerate: { directory: 'practical questions' },
 				},
 				{
 					label: 'MISCONCEPTIONS',
