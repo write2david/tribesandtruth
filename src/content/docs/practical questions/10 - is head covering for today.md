@@ -5,8 +5,6 @@ sidebar:
   label: Is Covering For Today?
   order: 10
 slug: today
-banner:
-  content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
 
 :::tip[Overview]{icon="sun"}
@@ -22,19 +20,14 @@ banner:
 ## Explanation
 
 ### Scripture's Reasons
-- Paul bases the practice for head covering on the pre-Fall order of humanity, before any specific human culture existed, so it serves as a permanent theological foundation.
-- Paul instructs women to cover "because of the angels" (1 Corinthians 11:10), who are unseen spiritual observers of the church's worship
-. Since angels transcend human culture and are still present in modern worship services, this reason for the symbol remains fully in effect today
-- Paul gave 5 reasons for the practice, and they are universal reasons.
-- These reasons aren't related to only the Corinthian believers:  (list and link them)
+1. Paul bases the practice for head covering on the pre-Fall order of humanity, before any specific human culture existed, so it serves as a permanent theological foundation.
+2. Paul instructs women to cover "because of the angels" (1 Corinthians 11:10). Since angels transcend human culture and are still present, this reason for the symbol remains fully in effect today.
+3. Paul uses the "natural" distinction between male and female hair lengths as a biological pointer to the propriety of the symbolic fabric covering.
+4. Paul identifies head covering as a "tradition" (*paradosis*), a term he uses to describe authoritative apostolic instructions that believers are commanded to "hold firmly." With this terminology, he places this teaching in the same category as other new covenant ordinances, such as the Lord’s Supper.
+5. At the conclusion of his argument, Paul appeals to the universal practice of "the churches of God" (1 Corinthians 11:16). This indicates that the standard was expected in every church across the diverse cultures of the first century, proving it was not a local custom limited to the city of Corinth.
 
 ### History
-- This was the primary practice throughout Christian history.  (link)
-- People's behavior may change over time, but the Bible hasn't changed.
-- So what changed with people?  Pastors stopped preaching about it.  Gender roles received pushback.  Sometimes people don't read & study their Bibles as much, so they never run into the passage.
-
-
-### Application
-- Don't be fooled by the lack of modern application.
-- It was applied throughout most of history.
-- And many churches have left behind other practices as well, often related to gender roles (female pastors, gay marriage, male leadership in marriage, etc).
+1. For approximately 1,900 years of church history (roughly 95% of the time since the apostles), the near-universal practice of Christian women was to wear a head covering during worship. The modern abandonment of the practice is a very recent historical development, often attributed to social shifts like the feminist movement rather than a new understanding of the biblical text.
+2. Though people's behavior may change over time, the Bible hasn't changed.
+3. What changed?  Pastors stopped preaching about it.  Gender roles received pushback.  Sometimes people don't read & study their Bibles as much, so they never run into the passage. And many churches have left behind other practices as well, often related to gender roles (female pastors, gay marriage, male leadership in marriage, etc).
+4. Historical evidence suggests Paul’s instructions were actually counter-cultural in his day; for example, Roman men typically covered their heads during pagan sacrifices while Christian men were commanded to be bareheaded. Therefore, Paul was not reinforcing local societal norms but was delivering a distinctly Christian ordinance.
