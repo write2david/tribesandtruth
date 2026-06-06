@@ -31,4 +31,3 @@ banner:
 
 - Trying to picture what Christian head covering looks like? **You'll find inspiring styles & people on our Instagram page.**
 
-***

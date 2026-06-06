@@ -23,5 +23,3 @@ banner:
 
 ## Explanation
 - Text goes here.
-
-***

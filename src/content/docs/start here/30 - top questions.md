@@ -35,6 +35,3 @@ Check out these five super-common questions...
 ## 5. When to wear one?
 - Main answers
 - Click to learn more
-
-
-***
