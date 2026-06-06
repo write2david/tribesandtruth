@@ -35,6 +35,5 @@ For a practice that's been in the Bible for 2000 years, and practiced all over t
 
 ## Websites
 
-- The Wikipedia page for [Head Covering For Christian Women](https://en.wikipedia.org/wiki/Head_covering_for_Christian_women) is surprisingly comprehensive, though it sometimes does not approach the subject from a biblical perspective.
+- The Wikipedia page for [Head Covering For Christian Women](https://en.wikipedia.org/wiki/Head_covering_for_Christian_women) is fairly comprehensive, though it sometimes does not approach the subject from a biblical perspective.
 - The [Head Covering Movement](https://www.headcoveringmovement.com/) provides a variety of resources, though sometimes from a perspective that's inclusive to churches with unbiblical theology.
-
