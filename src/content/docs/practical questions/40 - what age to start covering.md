@@ -3,6 +3,7 @@ title: How old should a girl or yound lady be when she starts to wear a head cov
 description: Discussing how old to be when wearing a head covering.
 sidebar:
   label: What Age to Start Covering?
+  order: 40
 slug: age
 draft: true
 banner:

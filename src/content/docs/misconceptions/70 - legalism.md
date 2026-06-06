@@ -3,6 +3,7 @@ title: Is head covering a form of legalism?
 description: Explaining legalism and its relationship to head covering.
 sidebar:
   label: Is Head Covering Legalism?
+  order: 70
 slug: legalism
 draft: true
 banner:

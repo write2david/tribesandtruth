@@ -3,6 +3,7 @@ title: Should a biblical head covering also cover the face?
 description: Debunking the idea that head covering includes face-covering.
 sidebar:
   label: Should The Covering Veil My Face?
+  order: 80
 slug: face-covering
 draft: true
 banner:

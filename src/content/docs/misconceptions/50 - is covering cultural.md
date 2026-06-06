@@ -3,6 +3,7 @@ title: Is head covering an ancient cultural practice?
 description: Identifying whether the practice of head covering is rooted in ancient Jewish, Greek, or Roman cultures.
 sidebar:
   label: Is Covering Merely Practice?
+  order: 50
 slug: cultural
 draft: true
 banner:

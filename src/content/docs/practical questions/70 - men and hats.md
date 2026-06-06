@@ -3,6 +3,7 @@ title: Can men wear hats in church?
 description: Considering the command for men not to wear a head covering
 sidebar:
   label: What About Men & Hats?
+  order: 70
 slug: men
 draft: true
 banner:

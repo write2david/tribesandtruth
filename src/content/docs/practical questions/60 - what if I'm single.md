@@ -3,6 +3,7 @@ title: Where can I buy head coverings?
 description: Online and physical stores to purchase head coverings.
 sidebar:
   label: What If I'm Single?
+  order: 60
 slug: single
 draft: true
 banner:

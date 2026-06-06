@@ -3,6 +3,7 @@ title: How does head covering relate to gender?
 description: Paul explains head covering based on biblical gender roles
 sidebar:
   label: Reason 1 - Gender Identity
+  order: 10
 slug: gender
 draft: true
 banner:

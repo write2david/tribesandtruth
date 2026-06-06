@@ -3,6 +3,7 @@ title: When does the Bible say I should wear a head covering?
 description: Identifying what situations the head covering command applies to.
 sidebar:
   label: When To Wear A Covering?
+  order: 20
 slug: when
 draft: true
 banner:

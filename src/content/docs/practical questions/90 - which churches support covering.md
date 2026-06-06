@@ -3,6 +3,7 @@ title: Where can I find a church that practices head covering?
 description: Identifying churches that support covering. 
 sidebar:
   label: Which Churches Practice Covering?
+  order: 90
 slug: churches
 draft: true
 banner:

@@ -1,9 +1,10 @@
 ---
-title: Is head covering optional?
-description: Explaining the difference between a command and a conviction.
+title: Should churches require head covering?
+description: Deciding whether to require covering
 sidebar:
-  label: Is Covering Optional?
-slug: optional
+  label: Should Churches Require Covering?
+  order: 100
+slug: require
 draft: true
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
@@ -15,8 +16,11 @@ banner:
 
 ## Answer
   
-1. Text goes here
-2. include these questions: is it a Romans 14 type of Christian liberty? Is it a sin not to cover? Should husbands, fathers, and pastors require it?
+1. First, need to define what does "Require" means practically
+2. Offer
+3. Teach
+4. Urge
+5. Discipline if rebellion
 
 <br>
 

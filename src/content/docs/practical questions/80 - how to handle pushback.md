@@ -3,6 +3,7 @@ title: What if I face resistance from others?
 description: Responding when people disagree with the decision to wear a head covering.
 sidebar:
   label: How To Handle Pushback?
+  order: 80
 slug: pushback
 draft: true
 banner:

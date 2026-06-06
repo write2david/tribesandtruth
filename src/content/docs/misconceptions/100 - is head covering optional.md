@@ -1,9 +1,10 @@
 ---
-title: How important is head covering? Is it actually a priority?
-description: Explaining why head covering is important, but not as important as other doctrines and practices.
+title: Is head covering optional?
+description: Explaining the difference between a command and a conviction.
 sidebar:
-  label: How Important Is Head Covering?
-slug: importance
+  label: Is Covering Optional?
+  order: 100
+slug: optional
 draft: true
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
@@ -16,7 +17,7 @@ banner:
 ## Answer
   
 1. Text goes here
-2. pull from my article: “What’s More Important Than Head Covering?” and the article: “Are My Head Covering Priorities in Line with the Bible?”
+2. include these questions: is it a Romans 14 type of Christian liberty? Is it a sin not to cover? Should husbands, fathers, and pastors require it?
 
 <br>
 

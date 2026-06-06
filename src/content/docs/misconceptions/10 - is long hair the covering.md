@@ -3,6 +3,7 @@ title: Is long hair the only head covering needed?
 description: Is long hair the only head covering needed?
 sidebar:
   label: Does Long Hair Count As A Covering?
+  order: 10
 slug: long-hair
 draft: true
 banner:

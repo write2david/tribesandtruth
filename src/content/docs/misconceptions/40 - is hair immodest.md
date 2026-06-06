@@ -3,6 +3,7 @@ title: Is it immodest for a woman to show her long hair publicly?
 description: Why 1 Corinthians 11 is not about modesty.
 sidebar:
   label: Is Covering About Modesty?
+  order: 40
 slug: modesty
 draft: true
 banner:
