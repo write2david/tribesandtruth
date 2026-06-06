@@ -10,26 +10,15 @@ banner:
 ---
 
 
-:::tip[Overview]{icon="sun"}
-- Text goes here
-:::
-
-
 # Statement of Faith
-
-
-# Connections
-- **Did you find the answer you're looking for on this website?** Share the link with a friend (or print out a hardcopy).
-
-- **Didn't find your answer?**  Send your question via [Facebook Messenger](https://www.facebook.com/HeadcoveringForEvangelicals) or [Instagram DM](https://www.instagram.com/headcovering_for_evangelicals/).
+- We support the **Statement of Faith** from [Answers in Genesis](https://answersingenesis.org/about/faith/) and the **The Danvers Statement** from the [Council on Biblical Manhood and Womanhood](https://cbmw.org/about/the-danvers-statement/).
 
 
 
 # Social Media
 
-- Want further discussion from an evangelical perspective? **Jump into the Facebook Group to fellowship with some good people.**
+- Want further discussion from an evangelical perspective? **Jump into [our Facebook Group](https://www.facebook.com/groups/headcoveringforevangelicals) to fellowship with some good people.**
 
-- To give feedback or provide assistance, send a message to "Head Covering for Evangelicals" on Instagram or Facebook.
+- **Didn't find your answer on this site? Want to provide assistance?** Send a message via [Facebook](https://www.facebook.com/HeadcoveringForEvangelicals) or [Instagram](https://www.instagram.com/headcovering_for_evangelicals/).
 
-- Trying to picture what Christian head covering looks like? **You'll find inspiring styles & people on our Instagram page.**
-
+- Trying to picture what Christian head covering looks like? **You'll find inspiring styles & people on [our Instagram page](https://www.instagram.com/headcovering_for_evangelicals/).**

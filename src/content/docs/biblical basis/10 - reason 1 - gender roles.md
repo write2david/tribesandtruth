@@ -5,7 +5,7 @@ sidebar:
   label: Reason 1 - Gender Identity
   order: 10
 slug: gender
-draft: true
+draft: false
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
