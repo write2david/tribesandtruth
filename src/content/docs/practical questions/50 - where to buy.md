@@ -11,46 +11,28 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-- "Traditional" = specific style associated with Mennonite, Catholic, Orthodox, or Islam (after all, the hijab-style garment was not created by Muslims and was[worn by some Christians before Islam even existed](https://chatgpt.com/share/6a30cdcd-1390-83ea-90ed-707d6adc90ae)).
+- Some stores release newly-made batches of their products only periodically.
+- The stores that primarily offer only "traditional" designs (Amish, Catholic, Orthodox, Jewish, Islamic) or "subculture" designs (hippie, vintage, bohemian) are not included in the lists below.
 :::
 
 ## Specialty Companies
 - [Garlands of Grace](https://www.garlandsofgrace.com/)
-- [Landana Headscarves](https://landanaheadscarves.com/)
 - [Joyce’s Coverings](http://www.joycelongcoverings.com/)
 - [Headcovers Unlimited](http://www.headcovers.com/)
 - [Headcoverings by Devorah](http://www.headcoverings-by-devorah.com/)
 - [Headcoverings Online](http://www.headcoveringsonline.com/)
-- [Veils by Lily](http://www.veilsbylily.com/)
 - [The Tichel Shop](https://www.thetichelshop.com/)
-- [Uptown Girl Headwear](http://uptowngirlheadwear.com/)
-- [Scarves.net](http://www.scarves.net/)
-- [MillineryShop.net](http://www.millineryshop.net/)
-- [Veils & Mantillas](http://veilsandmantillas.com/)
-- [The Little Tichel Lady](https://thelittletichellady.com/)
-- [Wrapunzel](https://wrapunzel.com/)
-- [Headwraps by Hope](https://308a47-2.myshopify.com/collections/all)
 - [Glory and Grace](https://www.gloryandgrace.net/)
 - [Katie’s Mercantile](https://www.katiesmercantile.com/bonnets_head_coverings.html)
-- [Mariyam’s Handcrafted Clothing](http://www.mariyamsclothing.com/p/caps-headwear.html)
-- [Head Coverings by Esther](https://www.headcoveringveils.com/)
 - [Linen & Cotton Items By Aleah](https://linencottonitemsbyaleah.bigcartel.com/)
 
 ## Etsy Shops
 - [Covered in Grace](https://coveredingrace1.etsy.com)
-- [Liberty Bee Designs](https://www.etsy.com/shop/libertybeedesigns/)
 - [Rosie and Co Sewing](https://www.etsy.com/shop/RosieandCoSewing)
-- [Sisters ‘n’ Seams](https://www.etsy.com/shop/sistersnseamsshop/)
 - [Fruit Of Her Hand](https://www.etsy.com/shop/FruitOfHerHandShop)
 - [Silver Stitching Co.](https://www.etsy.com/shop/silverstitchingco/)
 - [Rutt Shop](https://www.etsy.com/shop/RuttShop)
 - [Mercato](https://www.etsy.com/shop/mercato)
-- [Sara Attali Design](https://www.etsy.com/shop/SaraAttaliDesign)
-- [Headcoverings](https://www.etsy.com/shop/headcoverings)
-- [Homemade Recycled](https://www.etsy.com/shop/HeavenlyHeadCovering)
-- [oshrat Designz](https://www.etsy.com/shop/oshratDesignz)
-- [Robin Nest Lane](https://www.etsy.com/shop/RobinNestLane)
-- [The Little Tichel Lady](https://www.etsy.com/shop/TheLittleTichelLady?ref=shop_sugg)
 - [Cassie’s Corner Shop](https://www.etsy.com/shop/cassiescornershop)
 - [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
