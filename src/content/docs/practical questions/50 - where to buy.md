@@ -16,12 +16,44 @@ banner:
 :::
 
 ## Specialty Companies
+- [Garlands of Grace](https://www.garlandsofgrace.com/)
+- [Landana Headscarves](https://landanaheadscarves.com/)
+- [Joyce’s Coverings](http://www.joycelongcoverings.com/)
+- [Headcovers Unlimited](http://www.headcovers.com/)
+- [Headcoverings by Devorah](http://www.headcoverings-by-devorah.com/)
+- [Headcoverings Online](http://www.headcoveringsonline.com/)
+- [Veils by Lily](http://www.veilsbylily.com/)
+- [The Tichel Shop](https://www.thetichelshop.com/)
+- [Uptown Girl Headwear](http://uptowngirlheadwear.com/)
+- [Scarves.net](http://www.scarves.net/)
+- [MillineryShop.net](http://www.millineryshop.net/)
+- [Veils & Mantillas](http://veilsandmantillas.com/)
+- [The Little Tichel Lady](https://thelittletichellady.com/)
+- [Wrapunzel](https://wrapunzel.com/)
+- [Headwraps by Hope](https://308a47-2.myshopify.com/collections/all)
+- [Glory and Grace](https://www.gloryandgrace.net/)
+- [Katie’s Mercantile](https://www.katiesmercantile.com/bonnets_head_coverings.html)
+- [Mariyam’s Handcrafted Clothing](http://www.mariyamsclothing.com/p/caps-headwear.html)
+- [Head Coverings by Esther](https://www.headcoveringveils.com/)
+- [Linen & Cotton Items By Aleah](https://linencottonitemsbyaleah.bigcartel.com/)
 
 ## Etsy Shops
+- [Covered in Grace](https://coveredingrace1.etsy.com)
 - [Liberty Bee Designs](https://www.etsy.com/shop/libertybeedesigns/)
 - [Rosie and Co Sewing](https://www.etsy.com/shop/RosieandCoSewing)
 - [Sisters ‘n’ Seams](https://www.etsy.com/shop/sistersnseamsshop/)
 - [Fruit Of Her Hand](https://www.etsy.com/shop/FruitOfHerHandShop)
+- [Silver Stitching Co.](https://www.etsy.com/shop/silverstitchingco/)
+- [Rutt Shop](https://www.etsy.com/shop/RuttShop)
+- [Mercato](https://www.etsy.com/shop/mercato)
+- [Sara Attali Design](https://www.etsy.com/shop/SaraAttaliDesign)
+- [Headcoverings](https://www.etsy.com/shop/headcoverings)
+- [Homemade Recycled](https://www.etsy.com/shop/HeavenlyHeadCovering)
+- [oshrat Designz](https://www.etsy.com/shop/oshratDesignz)
+- [Robin Nest Lane](https://www.etsy.com/shop/RobinNestLane)
+- [The Little Tichel Lady](https://www.etsy.com/shop/TheLittleTichelLady?ref=shop_sugg)
+- [Cassie’s Corner Shop](https://www.etsy.com/shop/cassiescornershop)
+- [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
 ## Other Options
 -   Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
@@ -29,8 +61,8 @@ banner:
 
 ## Answer
   
-1.  https://coveredingrace1.etsy.com
-2. 
+
+1. 
 
 <br>
 
