@@ -15,9 +15,18 @@ banner:
 - Text goes here
 :::
 
-## Answer
-  
-1.  Text goes here
+## Specialty Companies
+
+## Etsy Shops
+- [Liberty Bee Designs](https://www.etsy.com/shop/libertybeedesigns/)
+- [Rosie and Co Sewing](https://www.etsy.com/shop/RosieandCoSewing)
+- [Sisters ‘n’ Seams](https://www.etsy.com/shop/sistersnseamsshop/)
+- [Fruit Of Her Hand](https://www.etsy.com/shop/FruitOfHerHandShop)
+
+## Other Options
+-   Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
+- Many ladies make their own head coverings. Here is some guidance: _______
+
 
 <br>
 
