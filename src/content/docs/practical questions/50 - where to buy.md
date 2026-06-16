@@ -11,7 +11,7 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-- "Traditional" = specific style associated with Mennonite, Catholic, Orthodox, or Islam (after all, the hijab-style garment was [worn by some Christians before Islam existed](https://chatgpt.com/share/6a30cdcd-1390-83ea-90ed-707d6adc90ae)).
+- "Traditional" = specific style associated with Mennonite, Catholic, Orthodox, or Islam (after all, the hijab-style garment was not created by Muslims and was[worn by some Christians before Islam even existed](https://chatgpt.com/share/6a30cdcd-1390-83ea-90ed-707d6adc90ae)).
 :::
 
 ## Specialty Companies
