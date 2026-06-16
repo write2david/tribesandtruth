@@ -22,7 +22,6 @@ banner:
 - [Joyce’s Coverings](http://www.joycelongcoverings.com/)
 - [Headcovers Unlimited](http://www.headcovers.com/)
 - [Headcoverings by Devorah](http://www.headcoverings-by-devorah.com/)
-- [Headcoverings Online](http://www.headcoveringsonline.com/)
 - [The Tichel Shop](https://www.thetichelshop.com/)
 - [Glory and Grace](https://www.gloryandgrace.net/)
 - [Katie’s Mercantile](https://www.katiesmercantile.com/bonnets_head_coverings.html)
