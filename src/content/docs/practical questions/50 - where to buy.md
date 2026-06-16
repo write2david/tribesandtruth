@@ -5,7 +5,6 @@ sidebar:
   label: Where To Buy Head Coverings?
   order: 50
 slug: buy
-draft: true
 banner:
   content: <b>This answer is still being written.<br>Want to help? Send your feedback via <a href="https://www.facebook.com/HeadcoveringForEvangelicals">Facebook Messenger</a> or <a href="https://www.instagram.com/headcovering_for_evangelicals/">Instagram DM</a>.</b>
 ---
