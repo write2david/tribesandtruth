@@ -19,54 +19,39 @@ Stimulus = phone notification reminding me to do 15 pushups.
 
 ABILITY
 
-Principle:  you can do hard things.
+Principle:  you can choose to do hard things.
 
-Examples:  I've cold plunged dozens of time.  I've done over 10,000 in the last 9 months.  I've had my finger pricked over 100 times.
+Examples:  I've cold plunged dozens of time.  I've done over 10,000 in the last 9 months.  I've had my finger pricked over 100 times.  I've run two ultramarathons and two "century" (100+ mile) bike rides.
 
 
 POWER OF COMFORT
 
 Principle:  you skip discomfort because of your love for maintaining comfort.
 
-Examples:  Not doing pushups when my phone notification prompts me.  
+Examples:  Not doing pushups when my phone notification prompts me.  Skipping the cold plunge.  Snoozing my early morning alarm.
 
-Why do I skip my phone's reminder to do pushups?
-Or  skip the waiting cold plunge?
-Or skip the early morning alarm?
-
-Answer: Love for maintaining comfort.
-
-The key is to acknowledge our love for comfort, push back against it, and proactively plan how to overcome its influence... a test of maturity: not letting our love of comfort dictate our decisions, because if we let it, it absolutely will
 
 
 SUFFERING
 
-If you can be okay with discomfort, then it's not suffering.
+Principle:  "Discomfort is inevitable, but suffering is optional."  If you are okay with the discomfort, then it's not suffering.
 
-Example:  After your neighbor is in a devastating car accident, mowing their lawn isn't much of a sacrifice, so you're okay with it.
-
-Getting your finger pricked is painful, but after 100 times then you know the pain is quick and there's no lasting problems, so you're okay with it.
-
-So discomfort isn't a problem unless you decide that it's unacceptable.
-
-As they say in the ultramarathon world: "discomfort is inevitable, but suffering is optional."
+Examples:  After your neighbor is in a devastating car accident, mowing their lawn is hardly a sacrifice.  After 100 finger-pricks, you know the pain is over quickly and it's not worth dreading.  
 
 
+CHOOSING RIGHT = MATURITY
 
-The only hard part is getting started.
-
-
-
+Principle:  "Agonizing about the water temperature doesn't make the cold plunge any warmer." The desire for personal comfort will create immature decisions unless we learn to ignore or overcome it.
 
 
+GOOD START = GOOD ENDINGS
 
-There is an old saying that fits perfectly here: * The cold water or the hard work is going to feel uncomfortable no matter what—but the mental agonizing, procrastinating, and dreading? That's the optional suffering we inflict on ourselves.
+Principle:  The primary friction happens at the starting line. The hard part is getting started.  
 
-Think about standing on the edge of a cold pool. The anticipation is always worse than the reality. I recently saw a hilarious mat for a cold plunge that perfectly nails this feeling. It reads:
+Examples:  If you get in the car to go to the gym, finishing the workout will happen naturally.  If you can jump into the pool, then your body will get used to the water temperature after a few minutes. 
 
-> *"Thinking about it longer won't make the water warmer."*
 
-No amount of hesitation changes the water; it only prolongs the struggle. Proactively deciding to step in before you even reach the edge is how you beat the comfort trap and skip the optional suffering.
+
 
 But here’s the trick: Once I actually start, I never quit early.
 
