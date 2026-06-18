@@ -13,11 +13,12 @@ banner:
 :::tip[Overview]{icon="sun"}
 - **Not included:** stores that primarily offer "traditional" designs (like Amish, Catholic, Orthodox, Jewish, or Islamic).
 - **Not included:** stores that cater to "subculture" designs (like hippie, vintage, or bohemian).
-- - **Note:** Some stores release newly-made batches of their products only periodically.
+- **Note:** Some stores release newly-made batches of their products only periodically.
 :::
 
 ## Specialty Companies
-- [Garlands of Grace](https://www.garlandsofgrace.com/)
+- **[Garlands of Grace](https://www.garlandsofgrace.com/):** [![Instagram](../../assets/Instagram-Button.svg)](http://instagram.com/garlandsofgrace)
+
 - [Joyce’s Coverings](http://www.joycelongcoverings.com/)
 - [Headcovers Unlimited](http://www.headcovers.com/)
 - [Headcoverings by Devorah](http://www.headcoverings-by-devorah.com/)
