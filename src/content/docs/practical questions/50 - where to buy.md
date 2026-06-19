@@ -22,8 +22,9 @@ banner:
 
 ### <a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a> <a href="https://www.garlandsofgrace.com/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@garlandsofgrace5987"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
 
+#### <a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a> <a href="https://www.garlandsofgrace.com/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@garlandsofgrace5987"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
 
-- **[Garlands of Grace](https://www.garlandsofgrace.com/):**
+
 - [Joyce’s Coverings](http://www.joycelongcoverings.com/)
 - [Headcovers Unlimited](http://www.headcovers.com/)
 - [Headcoverings by Devorah](http://www.headcoverings-by-devorah.com/)
@@ -45,3 +46,7 @@ banner:
 ## Other Options
 - Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
 - Many ladies make their own head coverings. Here is some guidance: _______
+
+
+
+#####<a target="_blank" href="https://icons8.com/icon/44112/youtube">Icons provided by <a target="_blank" href="https://icons8.com">Icons8</a>
