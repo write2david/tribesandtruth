@@ -27,7 +27,6 @@ banner:
 
 [Headcovers Unlimited](http://www.headcovers.com/)
 [Headcoverings by Devorah](http://www.headcoverings-by-devorah.com/)
-[The Tichel Shop](https://www.thetichelshop.com/)
 [Glory and Grace](https://www.gloryandgrace.net/)
 [Katie’s Mercantile](https://www.katiesmercantile.com/bonnets_head_coverings.html)
 [Linen & Cotton Items By Aleah](https://linencottonitemsbyaleah.bigcartel.com/)
@@ -48,4 +47,4 @@ banner:
 
 
 
-#####<a target="_blank" href="https://icons8.com/icon/44112/youtube">Icons provided by <a target="_blank" href="https://icons8.com">Icons8</a>
+####### <a target="_blank" href="https://icons8.com/icon/44112/youtube">Icons provided by <a target="_blank" href="https://icons8.com">Icons8</a>
