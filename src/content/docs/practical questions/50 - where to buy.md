@@ -20,7 +20,7 @@ banner:
 
 ## Specialty Companies
 
-### <b><a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a></b> <a href="https://www.garlandsofgrace.com/"><img class="lh-icon" src="/Website-Icon.png" /></a><a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a> <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
+### <a href="https://www.garlandsofgrace.com/">Garlands of Grace:</a> <a href="https://www.garlandsofgrace.com/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/GarlandsOfGraceHeadwraps"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/garlandsofgrace/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@garlandsofgrace5987"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
 
 
 - **[Garlands of Grace](https://www.garlandsofgrace.com/):**
