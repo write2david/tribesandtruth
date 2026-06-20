@@ -75,3 +75,9 @@ h2#footnote-label {
     margin-top: 1.5rem;   /* Reduces the gap above the heading */
     margin-bottom: 0.5rem; /* Reduces the gap below the heading */
 }
+
+
+/* HERE WE remove chain link icon at the end of H3 headings*/
+.content h3 a.anchor-link {
+  display: none !important;
+}
