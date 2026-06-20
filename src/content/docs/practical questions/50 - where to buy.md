@@ -82,7 +82,7 @@ banner:
 
 
 ## Other Options
-- Head coverings can often be purchased from major retailers such as general clothing stores, Walmart, Amazon, and Target.
+- Often, head coverings can also be purchased from retailers such as general clothing stores, Walmart, Amazon, Target, and thrift stores. 
 - Many ladies make their own head coverings. There are many online tutorials, such as [this one](https://youtu.be/-KBdtKp5Btg?si=AtcWUcy0XuiqoWkm).
 
 
