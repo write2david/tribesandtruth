@@ -36,9 +36,9 @@ banner:
 ### <a href="https://linencottonitemsbyaleah.bigcartel.com/">Linen & Cotton Items By Aleah</a> <a href="https://linencottonitemsbyaleah.bigcartel.com/"><img class="lh-icon" src="/Website-Icon.png" /></a> 
 
 
+<br>
 
 ***
-
 
 
 ## Etsy Shops
@@ -67,10 +67,9 @@ banner:
 
 ### <a href="https://www.etsy.com/shop/huizehuissoon">Huize Huissoon</a> <a href="https://www.etsy.com/shop/huizehuissoon"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=100063507523673"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/huizehuissoon/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
 
-
+<br>
 
 ***
-
 
 
 
