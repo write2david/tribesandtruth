@@ -36,10 +36,11 @@ banner:
 )
 
 ## Etsy Shops
-https://www.facebook.com/share/1JEncjggTR/
 
-https://www.etsy.com/shop/adornedcoverings/
+### <a href="https://www.etsy.com/shop/cassiescornershop">Cassie’s Corner Shop</a> <a href="https://www.etsy.com/shop/cassiescornershop"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/cassiescorner.shop"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/cassiescorner.shop/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>    <a href="https://www.youtube.com/@CassiesCornerShopco"><img class="lh-icon" src="https://img.icons8.com/nolan/64/youtube-play.png" /></a> 
 
+
+### <a href="https://www.etsy.com/shop/adornedcoverings/">Adorned Coverings</a> <a href="https://www.etsy.com/shop/adornedcoverings/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61577313951712"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/adornedcoverings/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
 
 
 [Covered in Grace](https://coveredingrace1.etsy.com)
@@ -48,7 +49,7 @@ https://www.etsy.com/shop/adornedcoverings/
 [Silver Stitching Co.](https://www.etsy.com/shop/silverstitchingco/)
 [Rutt Shop](https://www.etsy.com/shop/RuttShop)
 [Mercato](https://www.etsy.com/shop/mercato)
-[Cassie’s Corner Shop](https://www.etsy.com/shop/cassiescornershop)
+
 [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
 ## Other Options
