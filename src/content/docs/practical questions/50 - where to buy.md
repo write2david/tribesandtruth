@@ -32,8 +32,8 @@ banner:
 ### <a href="https://www.gloryandgrace.net">Glory and Grace</a> <a href="https://www.gloryandgrace.net"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/gloryandgraceheadcoverings/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   
 
 
-[Katie’s Mercantile](https://www.katiesmercantile.com/bonnets_head_coverings.html)
-[Linen & Cotton Items By Aleah](https://linencottonitemsbyaleah.bigcartel.com/)
+### <a href="https://linencottonitemsbyaleah.bigcartel.com/">Linen & Cotton Items By Aleah</a> <a href="https://linencottonitemsbyaleah.bigcartel.com/"><img class="lh-icon" src="/Website-Icon.png" /></a> 
+)
 
 ## Etsy Shops
 https://www.facebook.com/share/1JEncjggTR/
