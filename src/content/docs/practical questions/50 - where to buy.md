@@ -43,13 +43,16 @@ banner:
 ### <a href="https://www.etsy.com/shop/adornedcoverings/">Adorned Coverings</a> <a href="https://www.etsy.com/shop/adornedcoverings/"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/profile.php?id=61577313951712"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/adornedcoverings/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a> 
 
 
-[Covered in Grace](https://coveredingrace1.etsy.com)
-[Rosie and Co Sewing](https://www.etsy.com/shop/RosieandCoSewing)
+### <a href="https://www.etsy.com/shop/coveredingrace1/">Covered in Grace</a> <a href="https://www.etsy.com/shop/coveredingrace1/"><img class="lh-icon" src="/Website-Icon.png" /></a> 
+
+
+### <a href="https://www.etsy.com/shop/RosieandCoSewing">Rosie and Co Sewing</a> <a href="https://www.etsy.com/shop/RosieandCoSewing"><img class="lh-icon" src="/Website-Icon.png" /></a>  <a href="https://www.facebook.com/RosieandCoSewing"><img class="lh-icon" src="https://img.icons8.com/nolan/64/facebook.png" /></a>   <a href="https://www.instagram.com/rosieandcompany/"><img class="lh-icon" src="https://img.icons8.com/nolan/64/instagram-new.png" /></a>
+
+
 [Fruit Of Her Hand](https://www.etsy.com/shop/FruitOfHerHandShop)
 [Silver Stitching Co.](https://www.etsy.com/shop/silverstitchingco/)
 [Rutt Shop](https://www.etsy.com/shop/RuttShop)
 [Mercato](https://www.etsy.com/shop/mercato)
-
 [HuizeHuissoon](https://www.etsy.com/shop/huizehuissoon/)
 
 ## Other Options
