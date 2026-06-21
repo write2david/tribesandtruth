@@ -11,6 +11,11 @@ export default defineConfig({
 		starlight({
 
 			title: 'Head Covering Answers',
+      
+      markdown: {
+        headingLinks: false,
+      },
+      
 			favicon: '/favicon.ico',
 
 			head: [
