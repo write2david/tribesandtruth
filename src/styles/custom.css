@@ -88,6 +88,7 @@ h2#footnote-label {
 
 
 /* HERE WE remove chain link icon at the end of the footnote heading*/
-.sl-markdown-content h2#footnote-label a svg {
+/* Target the anchor link immediately following the footnotes heading */
+.sl-markdown-content h2#footnote-label + a {
   display: none !important;
 }
