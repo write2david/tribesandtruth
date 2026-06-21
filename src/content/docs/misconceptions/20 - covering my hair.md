@@ -24,7 +24,6 @@ slug: covered-hair
 
 <br>
 
-
 ## Explanation
 - The _head_ covering is a physical symbol aligning with the principle of _headship._ This is why Paul speaks **only of head coverings** rather than hair-coverings.
 
@@ -36,7 +35,9 @@ slug: covered-hair
 
 - In fact, Paul does expect that **the hair of Christian women will be visible externally,** rather than being internally hidden under a head covering (1 Timothy 2:9-10;  1 Peter 3:3-4).
 
+<br>
 
+***
 
 [^1]:  A technical side note: in 1 Corinthians 11:15, Paul says that it is glory unto a woman to "wear long hair" (a Greek verb). Grammatically, the long hair itself (noun) isn't the glory, but the wearing of it is. Obviously, though, the verb and the noun are very closely associated (the verb wouldn't be glorious if it weren't for the noun).
 
