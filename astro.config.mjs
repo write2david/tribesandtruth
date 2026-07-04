@@ -4,13 +4,13 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://www.headcovering.org', // Your URL
+  site: 'https://write2david.github.io/tribesandtruth/', // Your URL
   base: '/',               // Your Repo Name
 
 	integrations: [
 		starlight({
 
-			title: 'Head Covering Answers',
+			title: 'Tribes & Truth',
       
 			favicon: '/favicon.ico',
 
