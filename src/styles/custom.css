@@ -1,14 +1,14 @@
-/* START THE ADJUSTMENT OF THE BACKGROUND COLOR TO SHOW A TAN GRADIENT */
+/* START THE ADJUSTMENT OF THE BACKGROUND COLOR TO SHOW YOUR #d9aa6c TAN GRADIENT */
 
 :root {
-	/* Dark mode: A slightly deeper, muted tan so it doesn't glare */
-	--tan-hsl: 35, 30%, 25%;
-	--overlay-tan: hsla(var(--tan-hsl), 0.4);
+	/* Dark mode: The same warm hue (35) but lowered to 15% lightness so dark text is readable */
+	--tan-hsl: 35, 59%, 15%;
+	--overlay-tan: hsla(var(--tan-hsl), 0.45);
 }
 
 :root[data-theme='light'] {
-	/* Light mode: A soft, crisp light tan background accent */
-	--tan-hsl: 40, 50%, 88%;
+	/* Light mode: Your exact #d9aa6c tan color (HSL: 35, 59%, 64%) */
+	--tan-hsl: 35, 59%, 64%;
 	--overlay-tan: hsla(var(--tan-hsl), 0.5);
 }
 
