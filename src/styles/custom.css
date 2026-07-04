@@ -43,7 +43,7 @@ header {
 
 /* CHANGE COLOR OF LINKS TO RED */
 a {
-  color: red;
+  color: darkred;
 }
 
 a:visited {
