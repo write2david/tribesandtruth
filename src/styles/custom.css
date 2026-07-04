@@ -41,6 +41,21 @@ header {
 
 
 
+/* CHANGE COLOR OF LINKS TO RED */
+a {
+  color: red;
+}
+
+a:visited {
+  color: darkred; /* Optional: handles clicked links */
+}
+
+a:hover, a:focus {
+  color: crimson; /* Optional: interactive states */
+}
+
+
+
 /* HERE WE WILL CHANGE (HIDE) THE FOOTNOTE RETURN ICONS WITHIN THE FOOTNOTES AREA */
 
 .data-footnote-backref {
