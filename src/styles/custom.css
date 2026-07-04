@@ -1,31 +1,29 @@
-/* START THE ADJUSTMENT OF THE BACKGROUND COLOR TO SHOW A PURPLE GRADIENT */
+/* START THE ADJUSTMENT OF THE BACKGROUND COLOR TO SHOW A TAN GRADIENT */
 
 :root {
-	--purple-hsl: 255, 60%, 60%;
-	--overlay-blurple: hsla(var(--purple-hsl), 0.2);
+	/* Dark mode: A slightly deeper, muted tan so it doesn't glare */
+	--tan-hsl: 35, 30%, 25%;
+	--overlay-tan: hsla(var(--tan-hsl), 0.4);
 }
 
 :root[data-theme='light'] {
-	--purple-hsl: 255, 85%, 65%;
+	/* Light mode: A soft, crisp light tan background accent */
+	--tan-hsl: 40, 50%, 88%;
+	--overlay-tan: hsla(var(--tan-hsl), 0.5);
 }
 
-
-
-
-/* The next uncommented line of code has replaced the next commented line of code, in order to allow the gradient to show on non-hero, non-front pages { */
+/* The next uncommented line of code has replaced the next commented line of code, in order to allow the gradient to show on non-hero, non-front pages */
 /* [data-has-hero] .page { */
 
 .page {
 	background:
-		linear-gradient(215deg, var(--overlay-blurple), transparent 40%),
-		radial-gradient(var(--overlay-blurple), transparent 40%) no-repeat -60vw -40vh / 105vw 200vh,
-		radial-gradient(var(--overlay-blurple), transparent 65%) no-repeat 50% calc(100% + 20rem) /
+		linear-gradient(215deg, var(--overlay-tan), transparent 40%),
+		radial-gradient(var(--overlay-tan), transparent 40%) no-repeat -60vw -40vh / 105vw 200vh,
+		radial-gradient(var(--overlay-tan), transparent 65%) no-repeat 50% calc(100% + 20rem) /
 			60rem 30rem;
 }
 
-
-
-/* The next uncommented line of code has replaced the next commented line of code, in order to allow the gradient to show on non-hero, non-front pages { */
+/* The next uncommented line of code has replaced the next commented line of code, in order to allow the gradient to show on non-hero, non-front pages */
 /* [data-has-hero] header { */
 header {
 	border-bottom: 1px solid transparent;
@@ -34,13 +32,11 @@ header {
 	backdrop-filter: blur(16px);
 }
 
-
 [data-has-hero] .hero > img {
-	filter: drop-shadow(0 0 3rem var(--overlay-blurple));
+	filter: drop-shadow(0 0 3rem var(--overlay-tan));
 }
 
-
-/* NOW THE ADUSTMENT OF THE BACKGROUND COLOR IS COMPLETE */
+/* NOW THE ADJUSTMENT OF THE BACKGROUND COLOR IS COMPLETE */
 
 
 
