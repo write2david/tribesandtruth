@@ -1,7 +1,7 @@
 # from: https://docs.astro.build/en/guides/deploy/github/
 
 
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages (12 tribes)
 
 on:
   # Trigger the workflow every time you push to the `main` branch
