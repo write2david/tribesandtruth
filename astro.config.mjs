@@ -29,20 +29,20 @@ export default defineConfig({
 
 			sidebar: [
 				{
-					label: 'START HERE',
-					autogenerate: { directory: 'start here' },
+					label: 'THE BIG PICTURE',
+					autogenerate: { directory: 'the big picture' },
 				},
 				{
-					label: 'BIBLICAL BASIS',
-					autogenerate: { directory: 'biblical basis' },
+					label: 'THREE ETERNAL DESTINIES',
+					autogenerate: { directory: 'three eternal destinies' },
 				},
 				{
-					label: 'PRACTICAL QUESTIONS',
-					autogenerate: { directory: 'practical questions' },
+					label: 'SALVATION BELIEFS',
+					autogenerate: { directory: 'salvation beliefs' },
 				},
 				{
-					label: 'MISCONCEPTIONS',
-					autogenerate: { directory: 'misconceptions' },
+					label: 'OTHER BELIEFS',
+					autogenerate: { directory: 'other beliefs' },
 				},
 			],
 		}),
