@@ -12,7 +12,7 @@ export default defineConfig({
 
 			title: 'Twelve Tribes Info',
       
-			favicon: '/favicon.ico',
+			favicon: '/favicon.png',
 
 			head: [
         			
