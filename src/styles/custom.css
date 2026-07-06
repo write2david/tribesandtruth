@@ -44,12 +44,9 @@ header {
 
 /* CHANGE THE DARK BLUE BACKGROUND OF "BANNER" FEATURE TO BE DARK TAN */
 
-:root {
-  /* A rich, dark tan background */
-  --sl-color-bg-banner: #705E49; 
-  
-  /* Ensures the banner text remains crisp and highly legible */
-  --sl-color-text-banner: #ffffff;
+:root, [data-theme] {
+  --sl-color-bg-banner: #705E49 !important;
+  --sl-color-text-banner: #ffffff !important;
 }
 
 
