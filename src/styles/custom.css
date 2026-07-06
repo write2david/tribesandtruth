@@ -43,10 +43,9 @@ header {
 
 
 /* CHANGE THE DARK BLUE BACKGROUND OF "BANNER" FEATURE TO BE DARK TAN */
-
-:root, [data-theme] {
-  --sl-color-bg-banner: #705E49 !important;
-  --sl-color-text-banner: #ffffff !important;
+.sl-banner {
+  background-color: #705E49 !important;
+  color: #ffffff !important;
 }
 
 
