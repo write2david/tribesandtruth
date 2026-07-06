@@ -1,6 +1,6 @@
 ---
 title: Where can I learn more?
-description: Social media and statement of faith.
+description: More resources
 sidebar:
   label: More Resources
   order: 40
@@ -36,4 +36,4 @@ There are many other resources.
 
 ## News Media
 
-- https://web.archive.org/web/20010907171244/https://www.bostonherald.com/news/local_regional/cult09052001.htm
+- [Link](https://web.archive.org/web/20010907171244/https://www.bostonherald.com/news/local_regional/cult09052001.htm)
