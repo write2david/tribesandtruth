@@ -10,7 +10,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 
-			title: 'Tribes and Truth',
+			title: 'Twelve Tribes Info',
       
 			favicon: '/favicon.ico',
 
