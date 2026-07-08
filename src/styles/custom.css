@@ -51,23 +51,30 @@ header {
 
 
 /* CHANGE BACKGROUND COLOR OF ACTIVE LINK IN SIDEBAR MENU */
-/* Target the sidebar link that represents the current page */
-.sidebar-content a[aria-current="page"] {
+/* Light Mode (Tan Background) */
+:root[data-theme='light'] .sidebar-content a[aria-current="page"] {
   background-color: tan;
+  color: #1c1917; /* Dark text for contrast against the tan */
 }
-:root[data-theme='light'] {
-  --sl-color-accent-low: white;
+
+/* Dark Mode (White Background) */
+:root[data-theme='dark'] .sidebar-content a[aria-current="page"] {
+  background-color: white;
+  color: #1c1917; /* Dark text so the link stays readable on a white background */
 }
 
 
 
 /* ADJUST THE CALLOUT "TIPS" SECTION TO NOT BE PURPLE BUT TO BE TAN INSTEAD */
-:root {
-  --sl-color-accent-low: #f5ead6;   /* light tan background */
-  --sl-color-accent: #c49a6c;       /* tan border/accent */
-  --sl-color-accent-high: #8b6b4a;  /* darker tan text accents */
+/* Dark mode text color */
+:root[data-theme='dark'] {
+  --sl-color-asides-text-accent: #93c5fd; /* example lighter blue */
 }
 
+/* Light mode text color */
+:root[data-theme='light'] {
+  --sl-color-asides-text-accent: #1e3a8a; /* example darker blue */
+}
 
 
 
