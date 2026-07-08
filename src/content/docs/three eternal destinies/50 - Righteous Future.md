@@ -1,9 +1,9 @@
 ---
-title: Are there unsaved righteous babies?
+title: Is there a future for unsaved righteous people?
 description: Description
 sidebar:
-  label: Righteous Babies
-slug: righteous-babies
+  label: A Future For The Righteous
+slug: righteous-future
 banner:
   content: <b>This answer is still being written.</b>
 ---

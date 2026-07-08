@@ -1,9 +1,9 @@
 ---
-title: Are there unsaved righteous babies?
+title: The Trinity: Is Yashua God?
 description: Description
 sidebar:
-  label: Righteous Babies
-slug: righteous-babies
+  label: Yashua = God?
+slug: yashua
 banner:
   content: <b>This answer is still being written.</b>
 ---

@@ -1,0 +1,27 @@
+---
+title: Is the Twelve Tribes the only place to find salvation?
+description: Description
+sidebar:
+  label: The Tribes Alone?
+slug: salvation-in-tribes
+banner:
+  content: <b>This answer is still being written.</b>
+---
+
+:::tip[Overview]{icon="sun"}
+- The Tribes believe that a person must believe in Jesus, be baptized,  give up all their possessions, and live in community to be saved.
+- But they also believe that a person who does these things apart from the Twelve Tribes is still not saved.
+:::
+
+## Answer
+  
+1. Text goes here
+
+
+<br>
+
+***
+
+## Explanation
+- Text goes here.
+
