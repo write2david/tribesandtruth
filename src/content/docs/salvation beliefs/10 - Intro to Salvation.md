@@ -2,7 +2,7 @@
 title: What do the Tribes believe about salvation?
 description: Description
 sidebar:
-  label: Salvation - Intro
+  label: Introduction
 slug: salvation
 banner:
   content: <b>This answer is still being written.</b>

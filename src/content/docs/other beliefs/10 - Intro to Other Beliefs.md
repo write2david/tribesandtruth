@@ -2,7 +2,7 @@
 title: What are other unique beliefs of the Tribes?
 description: Description
 sidebar:
-  label: Other Beliefs - Intro
+  label: Introduction
 slug: other
 banner:
   content: <b>This answer is still being written.</b>
