@@ -59,9 +59,6 @@ header {
      you can force the text color to a darker shade (e.g., Starlight's dark gray) */
   --sl-color-text-invert: var(--sl-color-gray-6);
 }
-.sidebar-content a[aria-current="page"] {
-  background-color: white;
-}
 
 
 
