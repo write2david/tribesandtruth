@@ -2,7 +2,7 @@
 title: Are there unsaved righteous babies?
 description: Description
 sidebar:
-  label: Righeous - Babies
+  label: Born Righteous
 slug: righteous-babies
 banner:
   content: <b>This answer is still being written.</b>

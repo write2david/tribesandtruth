@@ -2,7 +2,7 @@
 title: Is there a future for unsaved righteous people?
 description: Description
 sidebar:
-  label: Righeous - Future
+  label: A Future For The Righteous
 slug: righteous-future
 banner:
   content: <b>This answer is still being written.</b>
