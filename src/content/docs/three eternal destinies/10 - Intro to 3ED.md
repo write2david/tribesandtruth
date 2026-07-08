@@ -6,8 +6,6 @@ sidebar:
 slug: 3ED
 banner:
   content: <b>This answer is still being written.</b>
-draft: true
-
 ---
 
 :::tip[Overview]{icon="sun"}
