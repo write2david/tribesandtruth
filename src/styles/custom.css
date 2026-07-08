@@ -50,6 +50,32 @@ header {
 
 
 
+/* CHANGE BACKGROUND COLOR OF ACTIVE LINK IN SIDEBAR MENU */
+/* Target the sidebar link that represents the current page */
+[aria-current="page"] {
+  --sl-color-bg-accent: #ffffff;
+  
+  /* Optional: If your text color becomes invisible on a white background, 
+     you can force the text color to a darker shade (e.g., Starlight's dark gray) */
+  --sl-color-text-invert: var(--sl-color-gray-6);
+}
+.sidebar-content a[aria-current="page"] {
+  background-color: white;
+}
+
+
+
+/* ADJUST THE CALLOUT "TIPS" SECTION TO NOT BE PURPLE BUT TO BE TAN INSTEAD */
+.starlight-aside--tip {
+  --sl-color-accent-low: #f5ead6;
+  --sl-color-accent: #c49a6c;
+  --sl-color-accent-high: #8b6b4a;
+}
+
+
+
+
+
 /* CHANGE COLOR OF LINKS TO RED */
 a {
   color: darkred;
