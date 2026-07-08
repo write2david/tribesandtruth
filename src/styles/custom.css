@@ -53,10 +53,10 @@ header {
 /* CHANGE BACKGROUND COLOR OF ACTIVE LINK IN SIDEBAR MENU */
 /* Target the sidebar link that represents the current page */
 .sidebar-content a[aria-current="page"] {
-  background-color: white;
+  background-color: black;
 }
 :root[data-theme='light'] {
-  --sl-color-accent-low: grey;
+  --sl-color-accent-low: white;
 }
 
 
