@@ -1,9 +1,9 @@
 ---
-title: Title
+title: Introduction to "The Three Eternal Destinies"
 description: Description
 sidebar:
-  label: Sidebar label
-slug: URL
+  label: 3ED - Intro
+slug: 3ED
 banner:
   content: <b>This answer is still being written.</b>
 draft: true

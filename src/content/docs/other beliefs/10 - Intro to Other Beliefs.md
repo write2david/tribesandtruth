@@ -1,9 +1,9 @@
 ---
-title: Title
+title: What are other unique beliefs of the Tribes?
 description: Description
 sidebar:
-  label: Sidebar label
-slug: URL
+  label: Other Beliefs - Intro
+slug: other
 banner:
   content: <b>This answer is still being written.</b>
 draft: true

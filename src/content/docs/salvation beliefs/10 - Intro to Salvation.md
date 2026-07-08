@@ -1,9 +1,9 @@
 ---
-title: Title
+title: What do the Tribes believe about salvation?
 description: Description
 sidebar:
-  label: Sidebar label
-slug: URL
+  label: Salvation - Intro
+slug: salvation
 banner:
   content: <b>This answer is still being written.</b>
 draft: true
