@@ -3,6 +3,7 @@ title: "The Trinity: Is Yashua God?"
 description: Description
 sidebar:
   label: Is Yashua God
+  order: 20
 slug: yashua
 banner:
   content: "<b>This answer is still being written.</b>"
