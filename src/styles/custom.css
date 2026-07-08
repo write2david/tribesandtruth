@@ -55,6 +55,9 @@ header {
 .sidebar-content a[aria-current="page"] {
   background-color: white;
 }
+:root[data-theme='light'] {
+  --sl-color-accent-low: white;
+}
 
 
 
