@@ -3,6 +3,7 @@ title: Are there unsaved righteous babies?
 description: Description
 sidebar:
   label: Righteous Babies
+  order: 30
 slug: righteous-babies
 banner:
   content: <b>This answer is still being written.</b>

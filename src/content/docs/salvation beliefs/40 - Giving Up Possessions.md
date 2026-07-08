@@ -3,6 +3,7 @@ title: Must a person give away all their possessions to be saved?
 description: Description
 sidebar:
   label: Giving Up All Possessions
+  order: 40
 slug: giving-up-possessions
 banner:
   content: <b>This answer is still being written.</b>

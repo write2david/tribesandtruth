@@ -3,6 +3,7 @@ title: Must a person be willing to do God's will, to be saved?
 description: Description
 sidebar:
   label: Willingness
+  order: 60
 slug: willingness
 banner:
   content: <b>This answer is still being written.</b>

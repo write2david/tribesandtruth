@@ -3,6 +3,7 @@ title: Introduction to "The Three Eternal Destinies"
 description: Description
 sidebar:
   label: Introduction
+  order: 10
 slug: 3ED
 banner:
   content: <b>This answer is still being written.</b>

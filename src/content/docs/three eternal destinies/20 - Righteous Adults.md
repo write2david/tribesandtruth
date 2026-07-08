@@ -3,6 +3,7 @@ title: Are there unsaved righteous adults?
 description: Description
 sidebar:
   label: Righteous Adults
+  order: 20
 slug: righteous-adults
 banner:
   content: <b>This answer is still being written.</b>

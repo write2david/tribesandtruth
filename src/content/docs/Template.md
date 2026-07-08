@@ -3,6 +3,7 @@ title: Title
 description: Description
 sidebar:
   label: Sidebar label
+  order: 10
 slug: URL
 banner:
   content: <b>This answer is still being written.</b>

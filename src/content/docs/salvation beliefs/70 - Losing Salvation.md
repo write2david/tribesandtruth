@@ -3,6 +3,7 @@ title: Can I person lose their salvation by moving out of the Tribes?
 description: Description
 sidebar:
   label: Losing Salvation?
+  order: 70
 slug: losing-salvatoin
 banner:
   content: <b>This answer is still being written.</b>

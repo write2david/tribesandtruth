@@ -3,6 +3,7 @@ title: Can the righteous be saved?
 description: Description
 sidebar:
   label: Salvation for Righteous
+  order: 50
 slug: righteous-salvation
 banner:
   content: <b>This answer is still being written.</b>
