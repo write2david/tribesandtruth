@@ -53,7 +53,7 @@ header {
 /* CHANGE BACKGROUND COLOR OF ACTIVE LINK IN SIDEBAR MENU */
 /* Target the sidebar link that represents the current page */
 .sidebar-content a[aria-current="page"] {
-  background-color: black;
+  background-color: tan;
 }
 :root[data-theme='light'] {
   --sl-color-accent-low: white;
@@ -72,15 +72,36 @@ header {
 
 
 /* CHANGE COLOR OF LINKS TO RED AND TAN */
+
 /* Light mode */
-:root[data-theme='light'] {
-  --sl-color-text-accent: darkred;
+:root[data-theme='light'] a {
+  color: darkred;
+}
+
+:root[data-theme='light'] a:visited {
+  color: darkred;
+}
+
+:root[data-theme='light'] a:hover,
+:root[data-theme='light'] a:focus {
+  color: crimson;
 }
 
 /* Dark mode */
-:root[data-theme='dark'] {
-  --sl-color-text-accent: tan;
+:root[data-theme='dark'] a {
+  color: tan;
 }
+
+:root[data-theme='dark'] a:visited {
+  color: tan;
+}
+
+:root[data-theme='dark'] a:hover,
+:root[data-theme='dark'] a:focus {
+  color: wheat;
+}
+
+
 
 
 
