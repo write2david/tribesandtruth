@@ -62,12 +62,11 @@ header {
 
 
 /* ADJUST THE CALLOUT "TIPS" SECTION TO NOT BE PURPLE BUT TO BE TAN INSTEAD */
-.starlight-aside--tip {
-  --sl-color-accent-low: #f5ead6;
-  --sl-color-accent: #c49a6c;
-  --sl-color-accent-high: #8b6b4a;
+:root {
+  --sl-color-accent-low: #f5ead6;   /* light tan background */
+  --sl-color-accent: #c49a6c;       /* tan border/accent */
+  --sl-color-accent-high: #8b6b4a;  /* darker tan text accents */
 }
-
 
 
 
