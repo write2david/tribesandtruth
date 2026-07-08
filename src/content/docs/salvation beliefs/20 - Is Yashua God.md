@@ -2,7 +2,7 @@
 title: The Trinity: Is Yashua God?
 description: Description
 sidebar:
-  label: Yashua = God?
+  label: Is Yashua God?
 slug: yashua
 banner:
   content: <b>This answer is still being written.</b>
