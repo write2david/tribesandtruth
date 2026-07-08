@@ -72,17 +72,15 @@ header {
 
 
 
-/* CHANGE COLOR OF LINKS TO RED */
-a {
-  color: darkred;
+/* CHANGE COLOR OF LINKS TO RED AND TAN */
+/* Light mode */
+:root[data-theme='light'] {
+  --sl-color-text-accent: darkred;
 }
 
-a:visited {
-  color: darkred; /* Optional: handles clicked links */
-}
-
-a:hover, a:focus {
-  color: crimson; /* Optional: interactive states */
+/* Dark mode */
+:root[data-theme='dark'] {
+  --sl-color-text-accent: tan;
 }
 
 
