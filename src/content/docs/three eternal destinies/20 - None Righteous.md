@@ -1,10 +1,10 @@
 ---
-title: Are there unsaved righteous adults?
+title: Are there any "righteous" people?
 description: Description
 sidebar:
-  label: Righteous Adults & Babies
+  label: Are There Any Righteous People?
   order: 20
-slug: the-righteous
+slug: none-righteous
 banner:
   content: <b>This answer is still being written.</b>
 ---

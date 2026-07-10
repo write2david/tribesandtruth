@@ -4,7 +4,7 @@ description: Description
 sidebar:
   label: Introduction
   order: 10
-slug: 3ED
+slug: 3ED-intro
 banner:
   content: <b>This answer is still being written.</b>
 ---
