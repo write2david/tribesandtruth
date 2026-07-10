@@ -4,7 +4,7 @@ description: Overview of the Twelve Tribes Communities and this website.
 sidebar:
   label: Culture of the Twelve Tribes
   order: 20
-slug: start
+slug: culture
 banner:
   content: <b>This answer is still being written.</b>
 ---
