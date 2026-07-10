@@ -2,7 +2,7 @@
 title: Is the Twelve Tribes the only place to find salvation?
 description: Description
 sidebar:
-  label: The Tribes Alone?
+  label: The Tribes Alone
   order: 30
 slug: salvation-in-tribes
 banner:
