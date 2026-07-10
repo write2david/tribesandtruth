@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: Black People Are Cursed
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: Blacks Are Cursed
+  order: 20
+slug: blacks
 banner:
   content: <b>This answer is still being written.</b>
 ---

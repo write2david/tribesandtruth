@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: Christianity Died Globally
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: Christianity Died Globally
+  order: 30
+slug: christianity-died
 banner:
   content: <b>This answer is still being written.</b>
 ---

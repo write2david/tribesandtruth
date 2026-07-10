@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: Mosaic Law Applies in the New Testament
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: Mosaic Law Applies in the New Testament
+  order: 50
+slug: mosaic-law
 banner:
   content: <b>This answer is still being written.</b>
 ---

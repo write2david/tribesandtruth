@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: God Continues to Provide New Revelation and Doctrine
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: New Revelation From God
+  order: 40
+slug: new-revelation
 banner:
   content: <b>This answer is still being written.</b>
 ---

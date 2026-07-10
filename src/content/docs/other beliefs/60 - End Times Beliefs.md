@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: The "End Times" Beliefs of the Twelve Tribes
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: End Times Beliefs
+  order: 60
+slug: end-times
 banner:
   content: <b>This answer is still being written.</b>
 ---
