@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: Modern Believers Should Use Hebrew
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: Believers Should Use Hebrew
+  order: 90
+slug: using-hebrew
 banner:
   content: <b>This answer is still being written.</b>
 ---

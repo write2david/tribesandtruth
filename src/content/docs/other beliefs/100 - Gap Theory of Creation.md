@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: The "Gap Theory" of Creation
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: The Gap Theory of Creation
+  order: 100
+slug: gap-theory
 banner:
   content: <b>This answer is still being written.</b>
 ---

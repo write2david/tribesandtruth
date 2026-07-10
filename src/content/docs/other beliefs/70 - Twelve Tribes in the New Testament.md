@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: The "Twelve Tribes" in the New Testament
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: Twelve Tribes in the New Testament
+  order: 70
+slug: 12T-in-NT
 banner:
   content: <b>This answer is still being written.</b>
 ---

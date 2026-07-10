@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: Jesus Went to the Lake of Fire
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: Jesus in the Lake of Fire
+  order: 110
+slug: jesus-lake-of-fire
 banner:
   content: <b>This answer is still being written.</b>
 ---

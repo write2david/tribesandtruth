@@ -1,10 +1,10 @@
 ---
-title: What are other unique beliefs of the Tribes?
+title: All Christianity Nowadays is Apostate
 description: Description
 sidebar:
-  label: Introduction
-  order: 10
-slug: other
+  label: Christianity Is Apostate
+  order: 80
+slug: apostate-christianity
 banner:
   content: <b>This answer is still being written.</b>
 ---

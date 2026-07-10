@@ -1,10 +1,10 @@
 ---
-title: "The Trinity: Is Yashua God?"
+title: The Deity of Jesus
 description: Description
 sidebar:
-  label: Is Yashua God
+  label: The Deity of Jesus
   order: 20
-slug: yashua
+slug: deity-of-jesus
 banner:
   content: "<b>This answer is still being written.</b>"
 ---
