@@ -1,8 +1,8 @@
 ---
-title: Mosaic Law Applies in the New Testament
+title: The Mosaic Law Applies Today?
 description: Description
 sidebar:
-  label: Mosaic Law Applies in the New Testament
+  label: Mosaic Law For Today
   order: 50
 slug: mosaic-law
 banner:

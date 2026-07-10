@@ -3,7 +3,7 @@ title: Where can I learn more?
 description: More resources
 sidebar:
   label: More Resources
-  order: 20
+  order: 80
 slug: more
 banner:
   content: <b>This answer is still being written.<br>Want to help? </b>

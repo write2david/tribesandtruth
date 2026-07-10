@@ -13,30 +13,29 @@ banner:
 Explaining the Twelve Tribes Communities and what this website offers.
 :::
 
-## Overview of the  Twelve Tribes
 
 ## History
 
-- Founded in 1972 as the "Vine Christian Community Church" in Chattanooga, Tennessee.
+- Founded in 1972 by Elbert "Gene" Spriggs Jr. (known within the group as "Yoneq") alongside his 3rd wife Marsha (known as "HaEmeq" in the group).
 
-- Established by Elbert "Gene" Spriggs Jr. (known within the group as "Yoneq") alongside his 3rd wife Marsha (known as "HaEmeq" in the group).
+- Originally called the "Vine Christian Community Church" (Chattanooga, Tennessee).
 
-- Received pushback in Chattanooga so they moved to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
+- Received pushback locally, so they moved to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 
-- Renamed themselves as the "Twelve Tribes Communities" and established communities in various parts of the world (different regions of the US and the world were identified as "tribes").
+- Renamed themselves the "Twelve Tribes Communities" and established communities in various parts of the world (different regions of the US and the world were identified as "tribes").
 
-- Recruitment and public outreach often happen in local communities, their Yellow Deli restaurant chain, and in large traveling buses and boat.
 
-- Though they've rightly critizied pastors who commit adultery [Freepaper "It takes a community"], Marsha cheated on Yoneq with multiple men.
+## Activities
+
+- Recruitment and public outreach often happen in local communities, their Yellow Deli restaurant chain, "Open Forum" events, and in large traveling buses and boat.
 
 - Public pushback prompted them to leave France and Germany.
 
-- When it became publicly known (approx 2008) that Gene's wife Marsha committed adultery with multiple younger men in the group, a number of people became disolutioned and left.
-
-- Gene Spriggs died in 2021.  This changed the power structure, with additional departures and some communities shrinking in size.
+- Membership declined when it came out that the founder's wife had sexual relationships with multiple younger men in the group, and when the founder himself died.
 
 - See the [Wikipedia page on the Twelve Tribes communities](https://en.wikipedia.org/wiki/Twelve_Tribes_communities) for some additional details.
 
 
-## ThiS Site
+##  Culture
 
+- See separate page on this.
