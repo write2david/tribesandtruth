@@ -29,8 +29,8 @@ export default defineConfig({
 
 			sidebar: [
 				{
-					label: 'THE BIG PICTURE',
-					autogenerate: { directory: 'the big picture' },
+					label: 'OVERVIEW',
+					autogenerate: { directory: 'overview' },
 				},
 				{
 					label: 'THREE ETERNAL DESTINIES',

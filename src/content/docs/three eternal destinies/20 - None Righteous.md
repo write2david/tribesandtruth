@@ -1,10 +1,10 @@
 ---
-title: Are there unsaved righteous babies?
+title: Are there unsaved righteous adults?
 description: Description
 sidebar:
-  label: Righteous Babies
-  order: 30
-slug: righteous-babies
+  label: Righteous Adults & Babies
+  order: 20
+slug: the-righteous
 banner:
   content: <b>This answer is still being written.</b>
 ---
