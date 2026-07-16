@@ -10,12 +10,14 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-The Twelve Tribes Communities has created their own internal culture.
+The Twelve Tribes Communities has created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations. 
 :::
 
 ## Culture
 
 - COMMUNE: When joining the group, new members give the group all their belongings and move in. Members live together in large, extended-family households. No one has private posessions, income, or bank accounts.
+
+- MOTIVATION: Members are told that they are doing God's work, and so there is a high level of commitment and work/effort expected. Members often work many hours per week (with no paycheck) and are moved around the country (or internationally) where the leadership deems they are needed to work.
 
 - HEBREW: New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
 
