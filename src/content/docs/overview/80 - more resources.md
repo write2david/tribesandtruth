@@ -11,13 +11,14 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-There are many other resources. 
+Besides this website, there are many other 3rd party resources about the Twelve Tribes. 
 :::
 
 
 ## Social Media
 - Our page
 - Question Twelve Tribes
+- https://www.tiktok.com/discover/tamara-mathieu
 
 
 ## Podcasts & Video

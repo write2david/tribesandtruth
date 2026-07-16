@@ -25,9 +25,9 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - ACCOUNTABILITY: Everyone in the group must have a spiritual authority or "covering" that provides guidance and accountability.
 
-- DRESS CODE:  Members wear simple clothing without designs or messages on them. Women wear dresses (or "sus pants") and head coverings. Men must have beards, with their hair  tied back in a ponytail roughly the size of a fist.
+- DRESS CODE:  Members wear simple clothing without designs or messages on them. Members are allowed to wear only wool, cotton or linen clothing. Women wear dresses (or "sus pants") and head coverings. Men must have beards, with their hair  tied back in a ponytail roughly the size of a fist.
 
-- FOOD:  Primarily homemade meals, eaten with chopsticks in order to appeal to Asians and for cleanliness. Friday evening (beginning of the Sabbath) is the biggest meal of the week. 
+- FOOD:  Primarily homemade meals, eaten with chopsticks in order to appeal to Asians and for cleanliness. Friday evening (beginning of the Sabbath) is the biggest meal of the week. Food make from pig (pork chops, bacon, hotdogs) is not allowed.
 
 - FRIDAY NIGHT: The Sabbath begins at sundown with a festive celebration designed for evangelism. The evening includes a meal, circle dancing, and folk music.
 

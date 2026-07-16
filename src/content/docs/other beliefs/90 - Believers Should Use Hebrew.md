@@ -10,12 +10,12 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-- Text goes here
+- Hebrew is used for: Jesus, God, names of tribes, mother, father, etc.
 :::
 
 ## Answer
   
-1. Text goes here
+1. Apostles of the early Church, writing letters to believers as collected in the New Testament, used Greek and not Hebrew when referring to each other and to the Messiah.
 
 
 <br>
