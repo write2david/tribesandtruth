@@ -5,8 +5,6 @@ sidebar:
   label: Culture of the Twelve Tribes
   order: 20
 slug: culture
-banner:
-  content: <b>This answer is still being written.</b>
 ---
 
 :::tip[Overview]{icon="sun"}
@@ -15,7 +13,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ## Social
 
-- COMMUNE: When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private posessions, income, or bank accounts.
+- COMMUNE: When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private possessions, income, or bank accounts. (Apart from the leader, with his own house, pool, and TV -- something that other members aren't permitted).
 
 - CULTURE: The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their styles & lifestyle. This includes folk-style music and dancing, the artwork used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc.
 
@@ -27,9 +25,13 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - RACE: The official belief of the Twelve Tribes is that people of African decent are cursed, and are intended for service.
 
-- ACCOUNTABILITY: Adults use corporal punishment with children. Everyone in the group must have a spiritual authority or "covering" that provides guidance and oversight.
+- STRUCTURE & ACCOUNTABILITY: The Tribes have a strict hierachy with a high-level amount of authority (and priviledges) at each level.
+  - Gene Spriggs  was the lead apostle, with her  wife Marsha, were considered the last 2 witnessses from the Book of Revelation.
+  - Then: the "3-Cord" (3 apostles that convey Gene's leadership), Tribal Council (3 leaders from each tribe = 36 total), Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
+  - Submission to authority is expected and demanded. Everyone in the group has spiritual authorities or "covering" that provides guidance and oversight (if you worked in the Deli, the Deli Manager would be your "covering").
+  - Adults use corporal punishment with children, with many accusations of child abuse.
 
-- PUBLIC RESTRICTION:  While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread" -- nor for "councils," "apostolic workers meetings," and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
+- PUBLIC RESTRICTION: While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread." Non-members are also not allowed at "councils," "apostolic workers meetings," and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management. A judgment meeting or "kahal" (also spelled Qahal & Chahal) can be called as needed.
 
 
 ## Religious
@@ -43,5 +45,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 - FRIDAY NIGHT: The Sabbath begins at sundown with a festive celebration designed for inviting & evangelizing outsiders. The evening includes a meal, circle dancing, and folk music.
 
 - SATURDAY NIGHT: The "Breaking of Bread" begins at 10pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (after washing their feet). Soup is provided with the bread, but members are not allowed to dip the bread in the soup. The ceremony includes bowing, sharing victories and defeats from the week, prayer, and singing.
+
+- AFTER DEATH: There's a meeting among leadership to decide which direction the dead member will go: Heaven, death (pergatory for 1000 years), or hell ("Tartarus").
 
 - SHUNNING: Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
