@@ -15,7 +15,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - **COMMUNE:** When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private possessions, income, or bank accounts. (Apart from the leader & wife, with their own house, pool, TV, and even island in Florida -- things that other members aren't permitted).
 
-- **CULTURE:** The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle. This includes folk-style music and dancing, the artwork style used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc.
+- **CULTURE:** The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle. This includes folk-style music and dancing, the artwork style used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc. Schooling for children happens within the group, up to grade ___.
 
 - **HEBREW:** New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
 
@@ -26,13 +26,11 @@ The Twelve Tribes Communities has created their own internal culture... complete
 - **RACE:** The official belief of the Twelve Tribes is that people of African decent are cursed, and are intended for service.
 
 
-
 - **STRUCTURE & ACCOUNTABILITY:** The Tribes have a strict hierachy with a high-level amount of authority (and priviledges) at each level.
   - *Levels:* Gene Spriggs was the lead apostle, with her wife Marsha, were considered the last 2 witnessses from the Book of Revelation. Basically functions like a Pope, who gets new revelations from God. Then: the "3-Cord" (3 apostles that convey Gene's leadership), Tribal Council (3 leaders from each tribe = 36 total), Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
   - *Submission:* The requirement to submit to authority is expected and demanded. Everyone in the group has spiritual authorities or "covering" that provides guidance and oversight (if you worked in the Deli, the Deli Manager would be your "covering").
   - *Children:* Adults use corporal punishment with children, with many accusations of child abuse.
   - *Shunning:* Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
-  
   
 
 - **PUBLIC RESTRICTION:** While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread."
@@ -46,7 +44,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - **MOTIVATION:** Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected. Members often work many hours per week (with no paycheck) and are moved around the country (or internationally) where the leadership deems they are needed.
 
-- **GATHERINGS:** Twice a day, each local community gathers for worship, singing, and dancing.
+- **GATHERINGS:** Twice a day, each local community gathers for worship, singing, and dancing. The "School of Prophets" 
 
 - **FRIDAY NIGHT:** The Sabbath begins at sundown with a festive celebration designed for inviting & evangelizing outsiders. The evening includes a meal, circle dancing, and folk music.
 

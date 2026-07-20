@@ -16,7 +16,7 @@ Explaining the Twelve Tribes Communities and what this website offers.
 
 ## History
 
-- Founded in 1972 by Elbert "Gene" Spriggs Jr. (known within the group as "Yônêq") alongside his 3rd wife Marsha (known as "Hâ-Êmeq" in the group).
+- Founded in 1972 by Elbert "Gene" Spriggs Jr. (born in 1937, died in 2021, and known within the group as "Yônêq") alongside his 3rd wife Marsha (known as "Hâ-Êmeq" in the group). Gene had [one son (Tyrone) from his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D), but no children with Marsha.
 
 - Originally called the "Vine Christian Community Church" (Chattanooga, Tennessee).
 
