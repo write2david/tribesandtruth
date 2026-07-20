@@ -27,10 +27,10 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 
 - **STRUCTURE & ACCOUNTABILITY:** The Tribes have a strict hierachy with a high-level amount of authority (and priviledges) at each level.
-  - Gene Spriggs was the lead apostle, with her wife Marsha, were considered the last 2 witnessses from the Book of Revelation. Then: the "3-Cord" (3 apostles that convey Gene's leadership), Tribal Council (3 leaders from each tribe = 36 total), Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
-  - Submission to authority is expected and demanded. Everyone in the group has spiritual authorities or "covering" that provides guidance and oversight (if you worked in the Deli, the Deli Manager would be your "covering").
-  - Adults use corporal punishment with children, with many accusations of child abuse.
-  - SHUNNING: Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
+  - *Levels:* Gene Spriggs was the lead apostle, with her wife Marsha, were considered the last 2 witnessses from the Book of Revelation. Then: the "3-Cord" (3 apostles that convey Gene's leadership), Tribal Council (3 leaders from each tribe = 36 total), Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
+  - *Submission:* The requirement to submit to authority is expected and demanded. Everyone in the group has spiritual authorities or "covering" that provides guidance and oversight (if you worked in the Deli, the Deli Manager would be your "covering").
+  - *Children:* Adults use corporal punishment with children, with many accusations of child abuse.
+  - *Shunning:* Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 
 
 - **PUBLIC RESTRICTION:** While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread."
