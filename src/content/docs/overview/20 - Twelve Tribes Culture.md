@@ -24,6 +24,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 - **FOOD:** Primarily homemade meals, eaten with chopsticks in order to appeal to Asians and for cleanliness. Friday evening (beginning of the Sabbath) is the biggest meal of the week. Food make from pig (pork chops, bacon, hotdogs) is not allowed as it is considered religiously "unclean."
 
 - **RACE:** The official belief of the Twelve Tribes is that people of African decent are cursed, and are intended for service.
+
 <br>
 
 - **STRUCTURE & ACCOUNTABILITY:** The Tribes have a strict hierachy with a high-level amount of authority (and priviledges) at each level.
@@ -31,6 +32,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
   - *Submission:* The requirement to submit to authority is expected and demanded. Everyone in the group has spiritual authorities or "covering" that provides guidance and oversight (if you worked in the Deli, the Deli Manager would be your "covering").
   - *Children:* Adults use corporal punishment with children, with many accusations of child abuse.
   - *Shunning:* Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
+
 <br>
 
 - **PUBLIC RESTRICTION:** While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread."
