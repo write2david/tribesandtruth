@@ -25,7 +25,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - **RACE:** The official belief of the Twelve Tribes is that people of African decent are cursed, and are intended for service.
 
-
+<br>
 
 - **STRUCTURE & ACCOUNTABILITY:** The Tribes have a strict hierachy with a high-level amount of authority (and priviledges) at each level.
   - *Levels:* Gene Spriggs was the lead apostle, with her wife Marsha, were considered the last 2 witnessses from the Book of Revelation. Basically functions like a Pope, who gets new revelations from God. Then: the "3-Cord" (3 apostles that convey Gene's leadership), Tribal Council (3 leaders from each tribe = 36 total), Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
@@ -33,7 +33,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
   - *Children:* Adults use corporal punishment with children, with many accusations of child abuse.
   - *Shunning:* Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 
-
+<br>
 
 - **PUBLIC RESTRICTION:** While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread."
   - Non-members are also not allowed at "councils," "apostolic workers meetings," and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
