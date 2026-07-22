@@ -15,7 +15,9 @@ banner:
 
 ## Answer
   
-1. Text goes here
+Genesis 9:25 - "And he said, Cursed be Canaan"
+
+It's the curse of Canaan, not the curse of Ham.
 
 
 <br>

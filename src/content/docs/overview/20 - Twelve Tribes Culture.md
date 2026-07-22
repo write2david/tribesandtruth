@@ -13,9 +13,9 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ## Social
 
-- **COMMUNE:** When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private possessions, income, or bank accounts. (Apart from the leader & wife, with their own house, pool, TV, and even island in Florida -- things that other members aren't permitted).
+- **COMMUNE:** When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private possessions, income, or bank accounts. (Apart from the leader & wife, with their own house, pool, fridge, TV, and even island in Florida -- things that other members aren't permitted).
 
-- **CULTURE:** The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle. This includes folk-style music and dancing, the artwork style used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc. Schooling for children happens within the group, up to grade ___.
+- **CULTURE:** The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle. This includes folk-style music and dancing, the artwork style used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc. Schooling for children happens within the group, up to grade 8.
 
 - **HEBREW:** New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
 
@@ -46,7 +46,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - **MOTIVATION:** Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected. Members often work many hours per week (with no paycheck) and are moved around the country (or internationally) where the leadership deems they are needed.
 
-- **GATHERINGS:** Twice a day, each local community gathers for worship, singing, and dancing. The "School of Prophets" 
+- **GATHERINGS:** Twice a day, each local community gathers for worship, singing, and dancing. The "School of Prophets" = training on Gene's writings.
 
 - **FRIDAY NIGHT:** The Sabbath begins at sundown with a festive celebration designed for inviting & evangelizing outsiders. The evening includes a meal, circle dancing, and folk music.
 
