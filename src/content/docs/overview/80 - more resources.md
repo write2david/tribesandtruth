@@ -11,7 +11,9 @@ banner:
 
 
 :::tip[Overview]{icon="sun"}
-Besides this website, there are many other 3rd party resources about the Twelve Tribes. 
+- Besides this website, there are many other 3rd party resources about the Twelve Tribes.
+
+- Note that some of the content below, including podcasts, contains emotionally disturbing material.
 :::
 
 
@@ -34,14 +36,20 @@ Besides this website, there are many other 3rd party resources about the Twelve 
 
 - [Let's Talk About Sects: Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
 
+- Interview with daughter of cofounder:
+
+https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8
+
+https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18
 
 
-## Books
+
+## Books About the Tribes
 
 - Better than a __ prison
 
 
-## News Media
+## News & Media
 
 - People Magazine
 
@@ -50,6 +58,8 @@ Besides this website, there are many other 3rd party resources about the Twelve 
 - [Tennessee: homicide in the community](https://mainstreetmediatn.com/articles/local/updated-homicide-charges-filed-after-body-found/)
 
 - [Elder in Massachusetts found guilty: child rape & battery (25 charges)](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/) across multiple communities, reported to authorities only after [relatives outside the Tribes found out and reported it](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
+
+- [Large fire started on Tribes property, destroyed 1000+ homes and killed two people](https://www.9news.com/article/news/local/wildfire/marshall-fire/marshall-fire-investigation-twelve-tribes-bodycam-video/73-141ed049-e778-4499-be75-20879f85c9f9)
 
 
 ## Websites

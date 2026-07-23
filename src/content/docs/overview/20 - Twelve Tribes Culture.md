@@ -13,23 +13,30 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ## Social
 
-- **COMMUNE:** When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private possessions, income, or bank accounts. (Apart from the leader & wife, with their own house, pool, fridge, TV, and even island in Florida -- things that other members aren't permitted).
+- **COMMUNE:** When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private possessions, income, or bank accounts. (Apart from upper leadership, who may have their own house, pool, fridge, TV, and even island in Florida -- things that other members aren't permitted).
 
-- **CULTURE:** The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle. This includes folk-style music and dancing, the artwork style used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc. Schooling for children happens within the group, up to grade 8.
+- **CULTURE:** The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle. This includes folk-style music and dancing, the artwork style used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc. Schooling for children happens within the group up to grade 8 (though in France and Germany, the Tribes have run into legal issues in regards to their homeschooling practices).
 
 - **HEBREW:** New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
 
 - **DRESS CODE:** Members wear simple clothing without designs or messages on them. Members are allowed to wear only wool, cotton or linen clothing. Women wear dresses (or "sus pants") and religious head coverings. Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
 
-- **FOOD:** Primarily homemade meals, eaten with chopsticks in order to appeal to Asians and for cleanliness. Friday evening (beginning of the Sabbath) is the biggest meal of the week. Food make from pig (pork chops, bacon, hotdogs) is not allowed as it is considered religiously "unclean."
+- **RACE:** The official belief of the Twelve Tribes is that people of African decent are cursed, and are intended for service. Interracial marriage was previously prohibited, but is now permitted.
 
-- **RACE:** The official belief of the Twelve Tribes is that people of African decent are cursed, and are intended for service.
+<br>
+
+- **FOOD & HEALTH:**
+  - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
+  - Friday evening (beginning of the Sabbath) is the biggest meal of the week.
+  - Food made from pig (pork chops, bacon bits, hotdogs) is not allowed, nor is chocolate.
+  - Babies and children are not vaccinated, and for most medical issues the Tribes avoid the use of doctors. 
+  - If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). 
 
 <br>
 
 - **STRUCTURE & ACCOUNTABILITY:** The Tribes have a strict hierachy with a high-level amount of authority (and priviledges) at each level.
   - *Levels:* Gene Spriggs was the lead apostle, with her wife Marsha, were considered the last 2 witnessses from the Book of Revelation. Basically functions like a Pope, who gets new revelations from God. Then: the "3-Cord" (3 apostles that convey Gene's leadership), Tribal Council (3 leaders from each tribe = 36 total), Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
-  - *Submission:* The requirement to submit to authority is expected and demanded. Everyone in the group has spiritual authorities or "covering" that provides guidance and oversight (if you worked in the Deli, the Deli Manager would be your "covering").
+  - *Submission:* Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" that provides guidance and oversight.
   - *Children:* Adults use corporal punishment with children, with many accusations of child abuse.
   - *Shunning:* Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 
@@ -42,9 +49,11 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ## Religious
 
+- **TEACHINGS:** "Freepapers" are magazine-style publications intended for both public and internal use. The "InterTribal News" is intended for internal use, as well as the published teachings of the founder (which are further studied at the "School of Prophets").
+
 - **THEOLOGY:** Generally, the Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory in several major doctrines. Additionally, they put some Jewish Old Testament teachings into modern practice, similar to the "Hebrew Roots" or "Torah Observant" trend associated with parts of Protestanism.
 
-- **MOTIVATION:** Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected. Members often work many hours per week (with no paycheck) and are moved around the country (or internationally) where the leadership deems they are needed.
+- **MOTIVATION:** Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected. Members often work many hours per week (with no paycheck), with many former members reporting 80+ hours of work per week. Members are  moved around the country (or internationally) where the leadership deems they are needed.
 
 - **GATHERINGS:** Twice a day, each local community gathers for worship, singing, and dancing. The "School of Prophets" = training on Gene's writings.
 
