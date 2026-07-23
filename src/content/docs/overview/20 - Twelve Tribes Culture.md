@@ -11,9 +11,9 @@ slug: culture
 The Twelve Tribes Communities has created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations. 
 :::
 
-## Social Life
+## SOCIAL LIFE
 
-- **LIFE IN THE COMMUNE:**
+- **IN THE COMMUNE**
   - When joining the group, new members move into the group's housing, giving the Twelve Tribes all their money & belongings.
   - Members typically live together in large, extended-family households without TV's.
   - New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
@@ -21,14 +21,14 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 <br>
 
-- **INTERNAL CULTURE:**
+- **INTERNAL CULTURE**
   - The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle even today.
   - The group is known for their folk-style music and dancing, the style of artwork used in their publications & buildings, distrust of government, and rejection of other organized religions.
   - Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into legal issues in regards to their schooling practices).
 
 <br>
 
-- **DRESS CODE:**
+- **DRESS CODE**
   - Members wear simple clothing without designs or messages on them.
   - Members are allowed to wear only wool, cotton or linen clothing.
   - Women wear dresses (or "sus pants") and religious head coverings.
@@ -36,11 +36,11 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 <br>
 
-- **RACE:** The Tribes believe that people of African decent are cursed and are intended for service. Interracial marriage was previously prohibited, but is now permitted.
+- **RACE** The Tribes believe that people of African decent are cursed and are intended for service. Interracial marriage was previously prohibited, but is now permitted.
 
 <br>
 
-- **FOOD & HEALTH:**
+- **FOOD & HEALTH**
   - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
   - The biggest meal of the week is Friday evening, a time often used to recruit new members.
   - Food made from pig (pork chops, bacon bits, hotdogs) is not allowed, nor is chocolate.
@@ -65,13 +65,13 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 <br>
 
-- **PUBLIC RESTRICTIONS:**
+- **PUBLIC RESTRICTIONS**
   - While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread."
   - Non-members are also not allowed at "councils," "apostolic workers meetings," and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
   - A judgment meeting or "kahal" (also spelled Qahal & Chahal) can be called as needed.
 
 
-## Religious Life
+## RELIGIOUS LIFE
 
 - **TEACHINGS:** "Freepapers" are magazine-style publications intended for both public and internal use. The "InterTribal News" is intended for internal use, as well as the published teachings of the founder (which are further studied at the "School of Prophets").
 
