@@ -19,12 +19,20 @@ The Twelve Tribes Communities has created their own internal culture... complete
   - New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
   - Upper leadership may enjoy additional prividges such as having their own houses, pool, fridge, TV, and even an island in Florida.
 
-- **CULTURE:**
- - The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle even today.
- - The group is known for their folk-style music and dancing, the style of artwork used in their publications & buildings, and rejection of other organized religions
- - Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into legal issues in regards to their schooling practices).
+<br>
 
-- **DRESS CODE:** Members wear simple clothing without designs or messages on them. Members are allowed to wear only wool, cotton or linen clothing. Women wear dresses (or "sus pants") and religious head coverings. Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
+- **CULTURE:**
+  - The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle even today.
+  - The group is known for their folk-style music and dancing, the style of artwork used in their publications & buildings, distrust of government, and rejection of other organized religions.
+  - Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into legal issues in regards to their schooling practices).
+
+<br>
+
+- **DRESS CODE:**
+  - Members wear simple clothing without designs or messages on them.
+  - Members are allowed to wear only wool, cotton or linen clothing.
+  - Women wear dresses (or "sus pants") and religious head coverings.
+  - Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
 
 - **RACE:** The official belief of the Twelve Tribes is that people of African decent are cursed, and are intended for service. Interracial marriage was previously prohibited, but is now permitted.
 
