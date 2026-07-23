@@ -13,11 +13,16 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ## Social
 
-- **COMMUNE:** When joining the group, new members move in, giving the Twelve Tribes all their money & belongings. Members live together in large, extended-family households. No one has private possessions, income, or bank accounts. (Apart from upper leadership, who may have their own house, pool, fridge, TV, and even island in Florida -- things that other members aren't permitted).
+- **COMMUNE:**
+  - When joining the group, new members move into the group's housing, giving the Twelve Tribes all their money & belongings.
+  - Members typically live together in large, extended-family households without TV's.
+  - New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
+  - Upper leadership may enjoy additional prividges such as having their own houses, pool, fridge, TV, and even an island in Florida.
 
-- **CULTURE:** The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle. This includes folk-style music and dancing, the artwork style used in their publications, rejection of organized religion (apart from the Tribes), the desire to chart a new course, etc. Schooling for children happens within the group up to grade 8 (though in France and Germany, the Tribes have run into legal issues in regards to their homeschooling practices).
-
-- **HEBREW:** New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
+- **CULTURE:**
+ - The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle even today.
+ - The group is known for their folk-style music and dancing, the style of artwork used in their publications & buildings, and rejection of other organized religions
+ - Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into legal issues in regards to their schooling practices).
 
 - **DRESS CODE:** Members wear simple clothing without designs or messages on them. Members are allowed to wear only wool, cotton or linen clothing. Women wear dresses (or "sus pants") and religious head coverings. Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
 
