@@ -13,11 +13,15 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ## SOCIAL LIFE
 
-- **IN THE COMMUNE**
-  - When joining the group, new members move into the group's housing, giving the Twelve Tribes all their money & belongings.
-  - Members typically live together in large, extended-family households without TV's.
-  - New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
-  - Upper leadership may enjoy additional prividges such as having their own houses, pool, fridge, TV, and even an island in Florida.
+### IN THE COMMUNE
+
+- When joining the group, new members move into the group's housing, giving the Twelve Tribes all their money & belongings.
+
+- Members typically live together in large, extended-family households without TV's.
+
+- New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
+
+- Upper leadership may enjoy additional prividges such as having their own houses, pool, fridge, TV, and even an island in Florida.
 
 <br>
 
@@ -43,7 +47,11 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 <br>
 
-- **RACE** The Tribes believe that people of African decent are cursed and are intended for service. Interracial marriage was previously prohibited, but is now permitted.
+### **RACE**
+
+- The Tribes believe that people of African decent are cursed and are intended for service.
+
+- Interracial marriage was previously prohibited, but is now permitted.
 
 <br>
 
