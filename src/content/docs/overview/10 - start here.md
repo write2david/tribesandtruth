@@ -10,7 +10,9 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-Explaining the Twelve Tribes Communities and what this website offers.
+- This page explains the history and activities of the group.
+
+- Click to the next section to learn more about their culture, both socially and religiously.
 :::
 
 
@@ -38,8 +40,3 @@ Explaining the Twelve Tribes Communities and what this website offers.
 - Membership declined when it came out that the founder's wife had sexual relationships with multiple younger men in the group, on multiple continents, over a 20-year time span. Further dissolutionment came from a child rape conviction, on-site homocide, and the death of the founder.
 
 - See the [Wikipedia page on the Twelve Tribes communities](https://en.wikipedia.org/wiki/Twelve_Tribes_communities) for some additional details.
-
-
-##  Culture
-
-- See separate page on this.
