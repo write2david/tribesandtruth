@@ -19,20 +19,20 @@ banner:
 
 ## Social Media
 
-- [Our Facebook Page: Twelve Tribes Info](https://www.facebook.com/TwelveTribesInfo)
+- [Our Facebook Page](https://www.facebook.com/TwelveTribesInfo)
 
-- [Our Facebook Group: Twelve Tribes Discussion Group](https://www.facebook.com/groups/twelvetribes)
+- [Our Facebook Group](https://www.facebook.com/groups/twelvetribes)
 
-- ["Question Twelve Tribes" Facebook Group](https://www.facebook.com/groups/question12tribes)
+- Another Facebook Group: ["Question Twelve Tribes"](https://www.facebook.com/groups/question12tribes)
 
-- [Tamara Mathieu: Tiktok](https://www.tiktok.com/discover/tamara-mathieu) (former member)
+- TikTok: [Tamara Mathieu](https://www.tiktok.com/discover/tamara-mathieu) (former member)
 
 
 ## Podcasts & Video
 
-- Inside the Tribe: [Spotify](https://open.spotify.com/show/2CG58YDV7p8vamvYq7WhgK) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-the-tribe/id1533629268)
+- "Inside the Tribe": [Spotify](https://open.spotify.com/show/2CG58YDV7p8vamvYq7WhgK) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-the-tribe/id1533629268)
 
-- [Let's Talk About Sects: Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
+- "Let's Talk About Sects" - [Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
 
 - Daughter of Tribes Cofounder: [Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
@@ -45,15 +45,15 @@ banner:
 
 ## News & Media
 
-- People Magazine
+- ["People Magazine Investigates the Twelve Tribes"](https://vimeo.com/1173434711/8776360b2a)
 
-- [Boston Herald](https://web.archive.org/web/20010907171244/https://www.bostonherald.com/news/local_regional/cult09052001.htm)
+- Boston Herald: ["Cult leader travels the world in style"](https://web.archive.org/web/20010907171244/https://www.bostonherald.com/news/local_regional/cult09052001.htm)
 
 - [Tennessee: homicide in the community](https://mainstreetmediatn.com/articles/local/updated-homicide-charges-filed-after-body-found/)
 
-- [Elder in Massachusetts found guilty: child rape & battery (25 charges)](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/) across multiple communities, reported to authorities only after [relatives outside the Tribes found out and reported it](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
+- [Child rape & battery by Tribes elder (25 charges)](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/), reported to authorities only after [relatives outside the Tribes found out and reported it](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
 
-- [Large fire started on Tribes property, destroyed 1000+ homes and killed two people](https://www.9news.com/article/news/local/wildfire/marshall-fire/marshall-fire-investigation-twelve-tribes-bodycam-video/73-141ed049-e778-4499-be75-20879f85c9f9)
+- [Large fire started on Tribes property](https://www.9news.com/article/news/local/wildfire/marshall-fire/marshall-fire-investigation-twelve-tribes-bodycam-video/73-141ed049-e778-4499-be75-20879f85c9f9) destroyed 1000+ homes and killed two people.
 
 
 ## Websites
