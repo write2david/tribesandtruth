@@ -19,13 +19,13 @@ banner:
 
 ## Social Media
 
-- **[Our Facebook Page]**(https://www.facebook.com/TwelveTribesInfo)
+- [**Our Facebook Page**](https://www.facebook.com/TwelveTribesInfo)
 
-- **[Our Facebook Group]**(https://www.facebook.com/groups/twelvetribes)
-
-- **Facebook Group:** ["Question 12 Tribes"](https://www.facebook.com/groups/question12tribes)
+- [**Our Facebook Group**](https://www.facebook.com/groups/twelvetribes)
 
 - **TikTok:** [Tamara Mathieu](https://www.tiktok.com/discover/tamara-mathieu) (former member)
+
+- **Facebook Group:** ["Question 12 Tribes"](https://www.facebook.com/groups/question12tribes)
 
 
 ## Websites
@@ -52,7 +52,7 @@ banner:
 
 - **Tennessee:** [Homicide in the community](https://mainstreetmediatn.com/articles/local/updated-homicide-charges-filed-after-body-found/)
 
-- **Massachusetts:** [Tribes elder sentenced for child rape & battery](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/), only after non-members  [reported it to authorities](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
+- **Massachusetts:** [Tribes elder sentenced for child rape & battery](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/). Convicted of 25 charges across multiple communities, only after non-members  [reported it to authorities](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
 
 - **Colorado:** [Large fire that started on Tribes property](https://www.9news.com/article/news/local/wildfire/marshall-fire/marshall-fire-investigation-twelve-tribes-bodycam-video/73-141ed049-e778-4499-be75-20879f85c9f9) destroyed 1000+ homes and killed two people.
 
