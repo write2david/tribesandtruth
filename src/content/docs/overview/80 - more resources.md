@@ -19,28 +19,22 @@ banner:
 
 ## Social Media
 
-- Our Facebook Page: Twelve Tribes Info
+- [Our Facebook Page: Twelve Tribes Info](https://www.facebook.com/TwelveTribesInfo)
 
-- Our Facebook Group: Twelve Tribes Discussion Group
+- [Our Facebook Group: Twelve Tribes Discussion Group](https://www.facebook.com/groups/twelvetribes)
 
-- "Question Twelve Tribes" Facebook Group
+- ["Question Twelve Tribes" Facebook Group](https://www.facebook.com/groups/question12tribes)
 
 - [Tamara Mathieu: Tiktok](https://www.tiktok.com/discover/tamara-mathieu) (former member)
 
 
 ## Podcasts & Video
 
-- Inside the Tribes
-
-- YouTube
+- Inside the Tribe: [Spotify](https://open.spotify.com/show/2CG58YDV7p8vamvYq7WhgK) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-the-tribe/id1533629268)
 
 - [Let's Talk About Sects: Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
 
-- Interview with daughter of cofounder:
-
-https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8
-
-https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18
+- Daughter of Tribes Cofounder: [Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
 
 
