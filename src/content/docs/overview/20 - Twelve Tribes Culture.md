@@ -22,16 +22,23 @@ The Twelve Tribes Communities has created their own internal culture... complete
 <br>
 
 - **INTERNAL CULTURE**
+
   - The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle even today.
+
   - The group is known for their folk-style music and dancing, the style of artwork used in their publications & buildings, distrust of government, and rejection of other organized religions.
+
   - Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into legal issues in regards to their schooling practices).
 
 <br>
 
 - **DRESS CODE**
+
   - Members wear simple clothing without designs or messages on them.
+
   - Members are allowed to wear only wool, cotton or linen clothing.
+
   - Women wear dresses (or "sus pants") and religious head coverings.
+
   - Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
 
 <br>
@@ -41,10 +48,15 @@ The Twelve Tribes Communities has created their own internal culture... complete
 <br>
 
 - **FOOD & HEALTH**
+
   - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
+
   - The biggest meal of the week is Friday evening, a time often used to recruit new members.
+
   - Food made from pig (pork chops, bacon bits, hotdogs) is not allowed, nor is chocolate.
+
   - Babies and children are not vaccinated, and for most medical issues the Tribes avoid the use of doctors. 
+
   - If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). 
 
 <br>
