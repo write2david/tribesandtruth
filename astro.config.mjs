@@ -4,8 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://write2david.github.io', // Your URL
-  base: '/tribesandtruth',               // Your Repo Name
+  site: 'https://www.twelvetribesinfo.com', // Your URL
+  base: '/',               // Your Repo Name
 
 	integrations: [
 		starlight({
