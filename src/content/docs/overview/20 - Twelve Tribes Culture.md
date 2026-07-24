@@ -72,7 +72,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
   
 - The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
 
-- Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" that provides guidance and oversight.
+- Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" -- a person(s) who provides guidance and oversight.
 
 - Adults use corporal punishment with children. There have been many reports of child discipline crossing the line extensively into child abuse.
 
@@ -81,7 +81,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### PUBLIC RESTRICTIONS
 
-- While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread."
+- While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread" ceremony on Saturday night.
 
 - Non-members are also not allowed at "councils," "apostolic workers meetings," and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
 
