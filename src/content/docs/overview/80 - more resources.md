@@ -40,7 +40,15 @@ banner:
 
 ## Books About the Tribes
 
-- Better than a __ prison
+- Tamara Mathieu: [All Who Believed: A Memoir of Life in the Twelve Tribes](https://www.amazon.com/gp/product/1578691176/)
+
+- Sinasta J. Colucci: [Better Than a Turkish Prison: What I Learned From Life in a Religious Cult](https://www.amazon.com/gp/product/1912701669/)
+
+- S.R. Lavin: [GOD'S PEOPLE in Search of a Destiny: A Look into the Twelve Tribes Messianic Communities](https://www.amazon.com/gp/product/1983069515/)
+
+- Eliyahu BenDavid: [Inside the Twelve Tribes: An Unvarnished Look at the Controversial Spiritual Movement](https://www.amazon.com/gp/product/B0H7RNF2HH/)
+
+- Eliyahu BenDavid: [The Yellow Deli People: Untangling the World of the Twelve Tribes](https://www.amazon.com/gp/product/B0G656L1FW/)
 
 
 ## News & Media
@@ -60,4 +68,4 @@ banner:
 
 - [Twelve Tribes Wikipedia Page](https://en.wikipedia.org/wiki/Twelve_Tribes_communities)
 
-- [FBI Vault for the Twelve Tribes](https://vault.fbi.gov/twelve-tribes/)
+- ["FBI Vault" for the Twelve Tribes](https://vault.fbi.gov/twelve-tribes/)
