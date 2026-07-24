@@ -37,24 +37,24 @@ banner:
 
 ## Media & Podcasts
 
-- ["People Magazine Investigates the Twelve Tribes"](https://vimeo.com/1173434711/8776360b2a)
+- **People Magazine Investigates -** ["The Secrets of the Twelve Tribes Cult"](https://vimeo.com/1173434711/8776360b2a)
 
-- "Inside the Tribe" - [Spotify](https://open.spotify.com/show/2CG58YDV7p8vamvYq7WhgK) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-the-tribe/id1533629268)
+- **"Inside the Tribe" -** [Spotify](https://open.spotify.com/show/2CG58YDV7p8vamvYq7WhgK) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-the-tribe/id1533629268)
 
-- "Let's Talk About Sects" - [Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
+- **"Let's Talk About Sects" -** [Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
 
-- Podcast Daughter of Tribes Cofounder: [Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
+- **Podcast Daughter of Tribes Cofounder -** [Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
 
 ## News Articles
 
-- Boston Herald: ["Cult leader travels the world in style"](https://web.archive.org/web/20010907171244/https://www.bostonherald.com/news/local_regional/cult09052001.htm)
+- **Boston:** ["Cult leader travels the world in style"](https://web.archive.org/web/20010907171244/https://www.bostonherald.com/news/local_regional/cult09052001.htm)
 
-- [Tennessee: homicide in the community](https://mainstreetmediatn.com/articles/local/updated-homicide-charges-filed-after-body-found/)
+- **Tennessee:** [homicide in the community](https://mainstreetmediatn.com/articles/local/updated-homicide-charges-filed-after-body-found/)
 
-- [Child rape & battery by Tribes elder (25 charges)](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/), reported to authorities only after [relatives outside the Tribes found out and reported it](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
+- **Massachusetts:** [Tribes elder sentenced for child rape & battery](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/), only after non-members  [reported it to authorities](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
 
-- [Large fire started on Tribes property](https://www.9news.com/article/news/local/wildfire/marshall-fire/marshall-fire-investigation-twelve-tribes-bodycam-video/73-141ed049-e778-4499-be75-20879f85c9f9) destroyed 1000+ homes and killed two people.
+- **Colorado:** [Large fire started on Tribes property](https://www.9news.com/article/news/local/wildfire/marshall-fire/marshall-fire-investigation-twelve-tribes-bodycam-video/73-141ed049-e778-4499-be75-20879f85c9f9) destroyed 1000+ homes and killed two people.
 
 
 
