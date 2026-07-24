@@ -66,9 +66,9 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### STRUCTURE & ACCOUNTABILITY
 
-- The Tribes have a strict hierachy with a high-level amount of authority (and priviledges) at each level.
+- The Tribes have a hierachy with firm authority (and priviledges) at each level.
 
-- Until his death, Gene Spriggs was the lead apostle, roughly equivalent to the Catholic Pope, but with more power and revelations from God. He and his wife Marsha were considered the last 2 witnessses from the Book of Revelation.
+- Until his death, founder Gene Spriggs was the lead apostle, roughly equivalent to the Catholic Pope, but with more power and revelations from God. He and his wife Marsha were considered the "2 witnessses" from the Book of Revelation.
   
 - The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
 
@@ -92,7 +92,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### TEACHINGS
 
-- "Freepapers" are magazine-style publications intended for both public and internal use.
+- "Freepapers" are magazine-style publications intended to convey beliefs & perspectives for both public use and internal use.
 
 - The "InterTribal News" is intended for internal use.
 
@@ -101,7 +101,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### THEOLOGY
 
-- Generally, the Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory in several major doctrines.
+- Generally, the Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory across a variety of doctrines, include some foundational ones.
 
 - Additionally, they put some Jewish Old Testament teachings into modern practice, similar to the "Hebrew Roots" or "Torah Observant" trend associated with parts of Protestanism.
 
