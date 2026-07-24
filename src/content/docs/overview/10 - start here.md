@@ -18,17 +18,17 @@ banner:
 
 ## History
 
-- The Twelve Tribes Communities were founded in 1972 by Elbert Eugene "Gene" Spriggs Jr. He was born in 1937, died in 2021, and was known within the group as "Yônêq."
+- The Twelve Tribes Communities were founded in 1972 by Elbert Eugene "Gene" Spriggs Jr. He was born in 1937, died in 2021, and was known within the group as *Yônêq.*
 
-- His 3rd wife Marsha (known as "Hâ-Êmeq" in the group) was very influntial and is still alive today.
+- His 3rd wife Marsha (known as *Hâ-Êmeq* in the group) is very influntial and is still alive today.
 
-- Gene had [one son (Tyrone) from his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D), but had no children with Marsha (and so no children in the group).
+- Gene Spriggs had [one son (Tyrone) from his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D), but had no children with Marsha (and so no children in the group).
 
-- Gene's original right-hand man was Eddie Wiseman. Eddie's wife died, and all of his children have left the Tribes. This means that both the founder and cofounder have no children in the group.
+- Gene's original right-hand man was Eddie Wiseman. Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes. This means that both the founder and cofounder have no children in the group.
 
-- The group was originally called the "Vine Christian Community Church" (Chattanooga, Tennessee).
+- The group was originally called the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
 
-- They report receiving pushback (though the story is disputed by locals), so they moved to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
+- After seeing local pushback and spiritual apathy (a story is disputed by locals), they moved the entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 
 - The group again renamed themselves, this time as the "Twelve Tribes Communities."
 
