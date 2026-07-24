@@ -23,7 +23,6 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Upper leadership may enjoy additional prividges such as having their own houses, pool, fridge, TV, and even an island in Florida.
 
-<br>
 
 ### INTERNAL CULTURE
 
@@ -31,9 +30,8 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - The group is known for their folk-style music and dancing, the style of artwork used in their publications & buildings, distrust of government, and rejection of other organized religions.
 
-- Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into legal issues in regards to their schooling practices).
+- Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into severe legal pushback in regards to their schooling practices).
 
-<br>
 
 ### DRESS CODE
 
@@ -45,7 +43,6 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
 
-<br>
 
 ### **RACE**
 
@@ -53,7 +50,6 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Interracial marriage was previously prohibited, but is now permitted.
 
-<br>
 
 ### FOOD & HEALTH
 
@@ -67,7 +63,6 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). 
 
-<br>
 
 ### STRUCTURE & ACCOUNTABILITY
 
@@ -83,7 +78,6 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 
-<br>
 
 ### PUBLIC RESTRICTIONS
 
