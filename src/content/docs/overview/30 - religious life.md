@@ -16,6 +16,8 @@ slug: religious-life
 
 ### TEACHINGS
 
+- Beliefs primarily come from the Christian Bible, with hundreds of adjustments and additions provided by leadership. "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
+
 - "Freepapers" are magazine-style publications intended to convey beliefs & perspectives for both public use and internal use.
 
 - The "InterTribal News" is intended for internal use.

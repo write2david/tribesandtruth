@@ -39,7 +39,7 @@ slug: start
 
 - The Tribes have created a lot of structure related to their lifestyle, beliefs, schedule, and activities.
 
-- Recruitment and public outreach often happen in local communities (especially during Friday evenings), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large traveling buses and boat, and during other outreach events.
+- Recruitment and public outreach often happen in local communities (especially during Friday evenings), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and boat, and during other outreach events.
 
 - When someone joins, they move into Tribes' housing, give the Tribes all their belongings and money, and receive a new Hebrew name.
 

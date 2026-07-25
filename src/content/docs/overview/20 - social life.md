@@ -39,7 +39,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Women wear dresses (or "sus pants") and religious head coverings.
 
-- Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
+- Men must have beards (trimmed regularly), with medium-long hair tied back in a short ponytail roughly the size of a fist.
 
 
 ### RACE
@@ -53,13 +53,16 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### FOOD
 
-- Coffee is not approved, but an alternative (Yerba Maté tea) is frequently used by most members.
+- Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties)) of caffeine[^1] is promoted by the Tribes, sold by the Tribes, and is frequently used by most members.
+[^1]: Yerba mate was previously thought to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine, and the Tribes bought into (and promoted) this idea. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html), by an Argentinian university) have prove that "mateine" does not exist. The most generous explanation would be that [other chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide benefits that go beyond caffeine. However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
 
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
 
 - The biggest meal of the week is Friday evening, a time often used to recruit new members.
 
-- Food made from pig (pork chops, bacon bits, hotdogs) is not allowed, nor is chocolate.
+- They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins and takes twice as long to digest. They believe that chocolate causes a variety of health problems. Therefore, neither is allowed.
+
+- They prefer goat milk rather than cow milk because "lots of dairy products will make a person fat like a little cow."
 
 
 ### HEALTHCARE
