@@ -10,7 +10,7 @@ slug: religious-life
 :::tip[Overview]{icon="sun"}
 - The religion of the Twelve Tribes is a combination of conservative Protestantism, the "Hebrew Roots" movement, the Restoration movement, and their own new "revelations."
 
-- This page provides a summary. Additional details about their beliefs are available in the lefthand menu.
+- This page provides a summary. Additional details about their beliefs are available in the menu on this site.
 :::
 
 
