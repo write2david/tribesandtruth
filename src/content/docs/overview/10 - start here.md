@@ -26,13 +26,13 @@ slug: start
 
 - Gene was considered the lead apostle, and his right-hand man was Eddie Wiseman (or "Hakam"). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
 
-- Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D), but had no children with Marsha (and so no children in the group). This means that both the founder and cofounder have no children currently living in the group.
+- Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D) but had no children with Marsha. This means that both the founder and cofounder have no children currently living in the group.
 
-- The group was originally called the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
+- The group originally called itself the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
 
-- After observing local pushback and spiritual apathy (a story is disputed by locals), they moved the entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
+- After they observed pushback and spiritual apathy in their city (a story is disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 
-- The group again renamed themselves, this time as the "Twelve Tribes Communities." They then established communities in various parts of the world. Different regions of the US and the world were identified as "tribes."
+- Later the group again renamed themselves again as the "Twelve Tribes Communities." They then established additional communities in various parts of North America and other continents, which were groups into regions ("tribes").
 
 
 ## Group Dynamics
