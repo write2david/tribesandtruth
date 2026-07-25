@@ -53,6 +53,8 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### FOOD & HEALTH
 
+- Coffee is not approved, but an alternative (Yerba Maté tea) is frequently used by most members.
+
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
 
 - The biggest meal of the week is Friday evening, a time often used to recruit new members.

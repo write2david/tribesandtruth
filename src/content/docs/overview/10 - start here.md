@@ -35,7 +35,7 @@ slug: start
 - The group again renamed themselves, this time as the "Twelve Tribes Communities." They then established communities in various parts of the world. Different regions of the US and the world were identified as "tribes."
 
 
-## Activities
+## Group Dynamics
 
 - The Tribes have created a lot of structure related to their lifestyle, schedule, and activities.
 
@@ -52,5 +52,5 @@ slug: start
 - Yet, leaving the Tribes is often very difficult for primarily 4 reasons:
  1. Members of the Tribes are taught that leaving the Tribes will result on them going to hell.
  2. Members who grew up in the Tribes often struggle to know how to function in apart from the group.
- 3. Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family memember and friends who remain int he Tribes.
+ 3. Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family memember and friends who remain int he Tribes. If one parent wants to leave, the Tribes have been known to move the kids to a different location to prevent that parent from taking the kids out of the Tribes.
  4. Since individual ownership of money is largely non-existant in the Tribes, it is a challenge to provide for onesself when leaving.
