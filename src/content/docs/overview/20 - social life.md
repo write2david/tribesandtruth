@@ -2,7 +2,7 @@
 title: Social Life within the Twelve Tribes
 description: Overview of the Twelve Tribes Communities social life.
 sidebar:
-  label: Social Life
+  label: Social Life in the Tribes
   order: 20
 slug: social-life
 ---
