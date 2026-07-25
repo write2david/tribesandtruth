@@ -37,13 +37,13 @@ slug: start
 
 ## Group Dynamics
 
-- The Tribes have created a lot of structure related to their lifestyle, schedule, and activities.
+- The Tribes have created a lot of structure related to their lifestyle, beliefs, schedule, and activities.
 
 - Recruitment and public outreach often happen in local communities (especially during Friday evenings), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large traveling buses and boat, and during other outreach events.
 
 - When someone joins, they move into Tribes' housing, give the Tribes all their belongings and money, and receive a new Hebrew name.
 
-- The Tribes also make money via their restaurants, construction businesses, farms, furniture business sales, etc.
+- The Tribes also make money via their restaurants, construction businesses, farms, furniture business, etc.
 
 - Membership declined after it came out that Marsha (the founder's 3rd wife) had sexual relationships with multiple younger men on multiple continents over a 20-year period.
 
