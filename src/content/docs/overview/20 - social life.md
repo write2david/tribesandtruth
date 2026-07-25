@@ -49,7 +49,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 - Interracial marriage was previously prohibited, but is now permitted.
 
 
-### FOOD & HEALTH
+### FOOD
 
 - Coffee is not approved, but an alternative (Yerba Maté tea) is frequently used by most members.
 
@@ -59,7 +59,14 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Food made from pig (pork chops, bacon bits, hotdogs) is not allowed, nor is chocolate.
 
-- Babies and children are not vaccinated, and for most medical issues the Tribes avoid the use of doctors. 
+
+### HEALTHCARE
+
+- The Tribes generally prefer natural remedies rather than going to doctors trained in Western medicine.
+
+- Generally, most babies are delivered at home rather than in a hospital.
+
+- Babies and children are not vaccinated. 
 
 - If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). 
 
