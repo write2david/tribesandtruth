@@ -42,11 +42,13 @@ The Twelve Tribes Communities has created their own internal culture... complete
 - Men must have beards, with medium-long hair tied back in a short ponytail roughly the size of a fist.
 
 
-### **RACE**
+### RACE
 
 - The Tribes believe that people of African decent are cursed and are intended for service.
 
 - Interracial marriage was previously prohibited, but is now permitted.
+
+- The Tribes view historic slavery in America as "not wrong" and state that it provided the proper social order for blacks. They disagree with Abraham Lincoln freeing the slaves and condemn Martin Luther King Jr.
 
 
 ### FOOD
