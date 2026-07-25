@@ -26,7 +26,7 @@ slug: start
 
 - Gene was considered the lead apostle, and his right-hand man was Eddie Wiseman (or "Hakam"). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
 
-- - Gene Spriggs had [one son (Tyrone) from his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D), but had no children with Marsha (and so no children in the group). This means that both the founder and cofounder have no children currently living in the group.
+- Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D), but had no children with Marsha (and so no children in the group). This means that both the founder and cofounder have no children currently living in the group.
 
 - The group was originally called the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
 
@@ -50,7 +50,7 @@ slug: start
 - Further dissolutionment has come from difficult situations including child abuse, harsh leadership, an on-site homicide, an elder being convicted of child rape and battery, and the death of the founder.
 
 - Yet, leaving the Tribes is often very difficult for primarily 4 reasons:
- 1. Members of the Tribes are taught that leaving the Tribes will result on them going to hell.
- 2. Members who grew up in the Tribes often struggle to know how to function in apart from the group.
- 3. Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family memember and friends who remain int he Tribes. If one parent wants to leave, the Tribes have been known to move the kids to a different location to prevent that parent from taking the kids out of the Tribes.
- 4. Since individual ownership of money is largely non-existant in the Tribes, it is a challenge to provide for onesself when leaving.
+  1. Members of the Tribes are taught that leaving the Tribes will result on them going to hell.
+  2. Members who grew up in the Tribes often struggle to know how to function in apart from the group.
+  3. Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family memember and friends who remain int he Tribes. If one parent wants to leave, the Tribes have been known to move the kids to a different location to prevent that parent from taking the kids out of the Tribes.
+  4. Since individual ownership of money is largely non-existant in the Tribes, it is a challenge to provide for onesself when leaving.
