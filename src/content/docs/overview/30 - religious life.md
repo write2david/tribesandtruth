@@ -30,15 +30,6 @@ slug: religious-life
 - Additionally, they put some Jewish Old Testament teachings into modern practice, similar to the "Hebrew Roots" or "Torah Observant" trend associated with parts of Protestanism.
 
 
-### MOTIVATION
-
-- Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected.
-
-- Members often work many hours per week (with no paycheck), with many former members reporting 80+ hours of work per week.
-
-- Members are moved around the country (or internationally) where the leadership deems they are needed.
-
-
 ### GATHERINGS
 
 - **Twice a day:** each local community gathers for worship, singing, and dancing.
