@@ -5,14 +5,16 @@ sidebar:
   label: Start Here
   order: 10
 slug: start
-banner:
-  content: <b>This answer is still being written.</b>
 ---
 
 :::tip[Overview]{icon="sun"}
-- This page explains the history and activities of the group.
+- The Twelve Tribes is a conservative religious group based in the United States with locations in North America and other continents.
 
-- Click to the next section to learn more about their culture, both socially and religiously.
+- This website provides details about the group, its history, its activities, and its beliefs.
+
+- To continue to additional topics, use the menu on the left or the "Next" button at the bottom of each page.
+
+- Send your feedback or questions via <a href="https://www.facebook.com/TwelveTribesInfo">Facebook Messenger</a>
 :::
 
 
