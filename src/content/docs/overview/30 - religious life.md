@@ -38,4 +38,4 @@ slug: religious-life
 
 - **Saturday night:** The "Breaking of Bread" begins at 10pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (after washing their feet). Soup is provided with the bread, but members are not allowed to dip the bread in the soup. The ceremony includes bowing, sharing victories and defeats from the week, prayer, and singing.
 
-- **After a death:** There's a meeting among leadership to decide which direction the dead member will go: heaven, death (pergatory for 1000 years), or hell (referred to "Tartarus").
+- **After a death:** There's a meeting among leadership to decide which direction the dead member will go: heaven, "death" (1000 years spent paying for unforgiven sins, similar to the Catholic concept of purgatory), or hell (often referred to "Tartarus").
