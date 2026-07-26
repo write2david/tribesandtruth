@@ -49,8 +49,9 @@ slug: start
 
 - Further dissolutionment has come from difficult situations including child abuse, harsh leadership, an on-site homicide, an elder being convicted of child rape and battery, and the death of the founder.
 
-- Yet, leaving the Tribes is often very difficult for primarily 4 reasons:
-  1. Members of the Tribes are taught that leaving the Tribes will result on them going to hell.
-  2. Members who grew up in the Tribes often struggle to know how to function apart from the group.
-  3. Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family members and friends who remain in the Tribes. If one parent wants to leave, the Tribes have been known to move the kids to a different location to prevent that parent from taking the kids out of the Tribes.
+- Yet, leaving the Tribes is often very difficult for primarily 5 reasons:
+  1. Members of the Tribes are taught that leaving the Tribes will result on them going to hell, and so fear is often a powerful motivation for staying.
+  2. Members who grew up in the Tribes often struggle to know how to function in society apart from the group, since they have never lived independently prior to leaving.
+  3. Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family members and friends who remain in the Tribes. Further, if one parent wants to leave, the Tribes have been known to move the kids to a different location to prevent that parent from taking the kids out of the Tribes.
   4. Since individual ownership of money is largely non-existant in the Tribes, it is a challenge to provide for oneself when leaving.
+  5. The choice to leave the Tribes is usually a choice to discard some of the unique beliefs of the Tribes. Strongly-held (and long-held) beliefs can be difficult to forsake, and major changes in worldview can be disorienting. Further, self-identity is closely connected with Tribes' membership, and so departure from membership can leave former members trying to establish a new identity.

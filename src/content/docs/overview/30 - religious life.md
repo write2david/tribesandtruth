@@ -30,7 +30,7 @@ slug: religious-life
 
 ### THEOLOGY
 
-- Generally, the Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory across a variety of doctrines (include some foundational beliefs).
+- The Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory across a variety of doctrines (include some foundational beliefs).
 
 - Additionally, they put some Jewish Old Testament teachings into modern practice, in accordance with the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots).
 
