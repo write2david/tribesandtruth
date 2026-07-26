@@ -37,6 +37,27 @@ slug: religious-life
 [^1]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
 
+### TOP UNCONVENTIONAL BELIEFS
+
+- The original Church (seen in the New Testament) died.
+
+- God restored the original Church in the form of the Tribes.
+
+- The Tribes are the only true Church.
+
+- Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
+
+- God provides new revelations (beyond the Bible) to the Tribes' leadership.
+
+- Salvation requires giving up all personal belongings and money.
+
+- Instead of two categories of people (those who have sinned, and those who have sinned but are forgiven/saved), the Tribes believes in three categories of people (the addition of a middle category of people who aren't saved but who are generally good).
+
+- Black people are cursed and are meant for survitude.
+
+- The Tribes will be uniquely involved in the End Times, ending up with galaxies or planets to rule over.
+
+
 ### GATHERINGS
 
 - **Twice a day:** each local community gathers for worship, singing, and dancing.
