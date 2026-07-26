@@ -8,7 +8,9 @@ slug: social-life
 ---
 
 :::tip[Overview]{icon="sun"}
-The Twelve Tribes Communities has created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations. 
+- The Twelve Tribes Communities has created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations.
+
+- Many of their religious beliefs are tied to their social practices, and vice-versa.
 :::
 
 ### IN THE COMMUNE
@@ -17,9 +19,9 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Members typically live together in large, extended-family households without TV's.
 
-- New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
+- New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc. 
 
-- Despite statements to the contrary, some upper leadership enjoy additional prividges such as having their own houses, pool, TV, and even an island in Florida.
+- Despite statements to the contrary, some upper leadership enjoy additional privileges such as having their own houses, pool, TV, and even an island in Florida.
 
 
 ### INTERNAL CULTURE
@@ -39,7 +41,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Women wear dresses (or "sus pants") and religious head coverings.
 
-- Men must have beards [^1] with medium-long hair tied back in a short ponytail roughly the size of a fist.
+- Men must have beards [^1]. They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
 [^1]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
 
 
@@ -54,8 +56,8 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### FOOD
 
-- Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.[^1]
-[^1]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
+- Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.[^2]
+[^2]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
 
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
 
@@ -63,7 +65,9 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate causes a variety of health problems. Therefore, neither type of food is permitted.
 
-- They prefer goat milk rather than cow milk because "lots of dairy products will make a person fat like a little cow."
+- They prefer goat milk rather than cow milk because "lots of dairy products will make a person fat like a little cow."[^3]: Additional belief: "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious.""
+
+- Also restricted from consumption: lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
 
 ### HEALTHCARE
@@ -88,11 +92,11 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 ### STRUCTURE & ACCOUNTABILITY
 
-- The Tribes have a hierachy with firm authority (and priviledges) at each level.
+- The Tribes have a hierarchy with firm authority (and privileges) at each level.
 
-- Until his death, founder Gene Spriggs was the lead apostle, roughly equivalent to the Catholic Pope, but with more power and revelations from God. He and his wife Marsha were considered the "2 witnessses" from the Book of Revelation.
+- Until his death in 2021, founder Gene Spriggs was the lead apostle, roughly equivalent to the Catholic Pope, but with more power and revelations from God. He and his wife Marsha were considered the "2 witnesses" from the Book of Revelation.
   
-- The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as "the voice from behind" and "shepheds/elders."
+- The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as "the voice from behind" and "shepherds/elders."
 
 - Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" -- a person(s) who provides guidance and oversight.
 
