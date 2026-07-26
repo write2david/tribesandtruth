@@ -30,7 +30,7 @@ slug: religious-life
 
 ### THEOLOGY
 
-- Generally, the Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory across a variety of doctrines, include some foundational ones.
+- Generally, the Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory across a variety of doctrines (include some foundational beliefs).
 
 - Additionally, they put some Jewish Old Testament teachings into modern practice, in accordance with the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots).
 
@@ -40,11 +40,11 @@ slug: religious-life
 
 ### TOP UNCONVENTIONAL BELIEFS
 
-- The original Church (seen in the New Testament) died.
+- The original Church (seen in the New Testament) died soon after it was established.
 
-- God restored the original Church in the form of the Tribes.
+- In the 1970's, God restored the original Church in the form of the Tribes.
 
-- The Tribes are the only true Church.
+- The Tribes are the only true Church on earth.
 
 - Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
 
