@@ -18,14 +18,14 @@ slug: religious-life
 
 ### TEACHINGS
 
-- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of re-interpretations and additions provided by revelations given to leadership.[^1]
+- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of re-interpretations and additions provided by "revelations" given to leadership.[^1]
 [^1]: As they've published: "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
 
-- "Freepapers" are magazine-style publications intended to convey beliefs & perspectives for both public use and internal use.
+- "Freepapers" are magazine-style publications intended to convey the Tribes' beliefs & perspectives (for both public use and internal use).
 
-- The "InterTribal News" is intended for internal use.
+- The "InterTribal News" is published & distributed for internal use.
 
-- Hundreds of teachings from the founder are also intended for internal use (which are further studied at the "School of Prophets").
+- Hundreds of teachings from the founder are also intended for internal use (they are further studied at their "School of Prophets").
 
 
 ### THEOLOGY
