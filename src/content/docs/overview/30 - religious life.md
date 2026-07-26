@@ -32,7 +32,7 @@ slug: religious-life
 
 - Generally, the Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory across a variety of doctrines, include some foundational ones.
 
-- Additionally, they put some Jewish Old Testament teachings into modern practice, similar to the "Hebrew Roots" or "Torah Observant" trend associated with parts of Protestanism.
+- Additionally, they put some Jewish Old Testament teachings into modern practice, in accordance with the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots).
 
 - Similar to several other movements, the Tribes believe they have restored the original Church from the Book of Acts (an approach called [Restorationism](https://en.wikipedia.org/wiki/Restorationism).[^2]
 [^2]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
@@ -52,14 +52,14 @@ slug: religious-life
 
 - Salvation requires giving up all personal belongings and money.
 
-- Instead of two categories of people (those who have sinned, and those who have sinned but are forgiven/saved), the Tribes believes in three categories of people (the addition of a middle category of people who aren't saved but who are generally good).
+- Christianity traditionally believes in two categories of people (everyone who is guilty of sin, and everyone who has sinned but has accepted God's offer of forgiveness/salvation). The Tribes add a third (middle) category: people who aren't saved but who are generally good.
 
 - Black people are cursed and are meant for survitude.
 
 - The Tribes will be uniquely involved in the End Times, ending up with galaxies or planets to rule over.
 
 
-### GATHERINGS
+### RELIGIOUS GATHERINGS
 
 - **Twice a day:** each local community gathers for worship, singing, and dancing.
 
