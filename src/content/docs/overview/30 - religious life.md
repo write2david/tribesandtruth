@@ -8,7 +8,7 @@ slug: religious-life
 ---
 
 :::tip[Overview]{icon="sun"}
-- The religion of the Twelve Tribes is a combination of conservative Protestantism, the "Hebrew Roots" movement, the Restorationist movement, and their own new "revelations."
+- The religion of the Twelve Tribes is largely a combination of conservative Protestantism, the "Hebrew Roots" movement, the "Restorationist" movement, and their own new "revelations."
 
 - Many of their religious beliefs are tied to their social practices, and vice-versa.
 
@@ -18,7 +18,8 @@ slug: religious-life
 
 ### TEACHINGS
 
-- The Tribe's beliefs come primarily from the Christian Bible *with* hundreds of adjustments, additions, and interpretations provided by leadership. "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
+- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of re-interpretations and additions provided by revelations given to leadership.[^1]
+[^1]: As they've published: "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
 
 - "Freepapers" are magazine-style publications intended to convey beliefs & perspectives for both public use and internal use.
 
@@ -33,8 +34,8 @@ slug: religious-life
 
 - Additionally, they put some Jewish Old Testament teachings into modern practice, similar to the "Hebrew Roots" or "Torah Observant" trend associated with parts of Protestanism.
 
-- Similar to several other movements, the Tribes believe they have restored the original Church from the Book of Acts (an approach called [Restorationism](https://en.wikipedia.org/wiki/Restorationism).[^1]
-[^1]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
+- Similar to several other movements, the Tribes believe they have restored the original Church from the Book of Acts (an approach called [Restorationism](https://en.wikipedia.org/wiki/Restorationism).[^2]
+[^2]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
 
 ### TOP UNCONVENTIONAL BELIEFS
