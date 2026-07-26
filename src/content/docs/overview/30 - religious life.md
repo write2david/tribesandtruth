@@ -33,7 +33,8 @@ slug: religious-life
 
 - Additionally, they put some Jewish Old Testament teachings into modern practice, similar to the "Hebrew Roots" or "Torah Observant" trend associated with parts of Protestanism.
 
-- Similar to several other movements, the Tribes believe they have restored the original Church from the Book of Acts (an approach called [Restorationism](https://en.wikipedia.org/wiki/Restorationism).
+- Similar to several other movements, the Tribes believe they have restored the original Church from the Book of Acts (an approach called [Restorationism](https://en.wikipedia.org/wiki/Restorationism).[^1]
+[^1]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
 
 ### GATHERINGS
