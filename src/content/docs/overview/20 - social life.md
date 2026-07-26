@@ -19,14 +19,14 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc.
 
-- Upper leadership may enjoy additional prividges such as having their own houses, pool, fridge, TV, and even an island in Florida.
+- Despite statements to the contrary, some upper leadership enjoy additional prividges such as having their own houses, pool, TV, and even an island in Florida.
 
 
 ### INTERNAL CULTURE
 
-- The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle even today.
+- The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle today.
 
-- The group is known for their folk-style music and dancing, the style of artwork used in their publications & buildings, distrust of government, and rejection of other organized religions.
+- The group is known for their folk-style music and dancing, simple and "natural" esthetic, and rejection of other organized religions.
 
 - Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into severe legal pushback in regards to their schooling practices).
 
@@ -35,11 +35,12 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Members wear simple clothing without designs or messages on them.
 
-- Members are allowed to wear only wool, cotton or linen clothing.
+- Clothing must be made primarily from wool, cotton or linen clothing.
 
 - Women wear dresses (or "sus pants") and religious head coverings.
 
-- Men must have beards (trimmed regularly), with medium-long hair tied back in a short ponytail roughly the size of a fist.
+- Men must have beards [^1] with medium-long hair tied back in a short ponytail roughly the size of a fist.
+[^1]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
 
 
 ### RACE
@@ -48,7 +49,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Interracial marriage was previously prohibited, but is now permitted.
 
-- The Tribes view historic slavery in America as "not wrong" and state that it provided the proper social order for blacks. They disagree with Abraham Lincoln freeing the slaves and condemn Martin Luther King Jr.
+- The Tribes view historic American slavery as "not wrong" and state that it provided the proper social order for blacks. They disagree with Abraham Lincoln freeing the slaves and condemn Martin Luther King Jr.
 
 
 ### FOOD
@@ -58,9 +59,9 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
 
-- The biggest meal of the week is Friday evening, a time often used to recruit new members.
+- The biggest meal of the week is Friday evening, a "gathering" event often used to recruit new members.
 
-- They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins and takes twice as long to digest. They believe that chocolate causes a variety of health problems. Therefore, neither is allowed.
+- They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate causes a variety of health problems. Therefore, neither type of food is permitted.
 
 - They prefer goat milk rather than cow milk because "lots of dairy products will make a person fat like a little cow."
 
@@ -69,9 +70,9 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - The Tribes generally prefer natural remedies rather than going to doctors trained in Western medicine.
 
-- Generally, most babies are delivered at home rather than in a hospital.
+- Most babies are delivered at home rather than in a hospital.
 
-- Babies and children are not vaccinated. 
+- Babies and children in the Tribes do not get vaccinated. 
 
 - If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). 
 
@@ -80,7 +81,7 @@ The Twelve Tribes Communities has created their own internal culture... complete
 
 - Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected.
 
-- Members often work many hours per week (with no paycheck), with many former members reporting 80+ hours of work per week.
+- Members are assigned to work (without pay) a significant number of hours each week. Many former members report 80+ hours of work weekly.
 
 - Members are moved around the country (or internationally) where the leadership deems they are needed.
 

@@ -12,7 +12,7 @@ slug: start
 
 - This website provides details about the group, its history, its activities, and its beliefs.
 
-- To read additional topics, use the menu on the left or the "Next" button at the bottom of each page.
+- To read additional topics, use the menu (on the left or at the top), or the "Next" button at the bottom of each page.
 
 - Send your feedback or questions via <a href="https://www.facebook.com/TwelveTribesInfo">Facebook Messenger</a> or join [the Facebook Group](https://www.facebook.com/groups/twelvetribes).
 :::
@@ -39,11 +39,11 @@ slug: start
 
 - The Tribes have created a lot of structure related to their lifestyle, beliefs, schedule, and activities.
 
-- Recruitment and public outreach often happen in local communities (especially during Friday evenings), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and boat, and during other outreach events.
-
-- When someone joins, they move into Tribes' housing, give the Tribes all their belongings and money, and receive a new Hebrew name.
+- When someone joins, they move into Tribes' housing, give the Tribes all their belongings & money, and receive a new Hebrew name.
 
 - The Tribes also make money via their restaurants, construction businesses, farms, furniture business, etc.
+
+- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and boat, and during other outreach events.
 
 - Membership declined after it came out that Marsha (the founder's 3rd wife) had sexual relationships with multiple younger men on multiple continents over a 20-year period.
 
@@ -53,4 +53,4 @@ slug: start
   1. Members of the Tribes are taught that leaving the Tribes will result on them going to hell.
   2. Members who grew up in the Tribes often struggle to know how to function apart from the group.
   3. Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family members and friends who remain in the Tribes. If one parent wants to leave, the Tribes have been known to move the kids to a different location to prevent that parent from taking the kids out of the Tribes.
-  4. Since individual ownership of money is largely non-existant in the Tribes, it is a challenge to provide for onesself when leaving.
+  4. Since individual ownership of money is largely non-existant in the Tribes, it is a challenge to provide for oneself when leaving.
