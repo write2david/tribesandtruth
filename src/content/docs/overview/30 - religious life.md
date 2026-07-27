@@ -19,7 +19,6 @@ slug: religious-life
 ### TEACHINGS
 
 - The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions (and re-interpretations) provided by new "revelations."[^1]
-[^1]: As they've published: "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
 
 - "Freepapers" are magazine-style publications intended to convey the Tribes' beliefs & perspectives (for both public use and internal use).
 
@@ -39,7 +38,6 @@ slug: religious-life
 - In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrews names for "God" and "Jesus."
 
 - The Tribes are part of the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), in which they believe they have restored the original Church from the Book of Acts.[^2]
-[^2]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
 - The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions have sometimes been made for certain events or business opportunities).
 
@@ -58,14 +56,9 @@ slug: religious-life
 
 - Salvation requires giving up all personal belongings and money.
 
-- In contrast with traditional Christianity, the Tribes add a third (middle) category of humanity: people who aren't saved but who are generally good.[^3]
+- In contrast with traditional Christianity,[^3] the Tribes add a third (middle) category of humanity: people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
 
-  - These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
-[^3]: Most of Christianity has traditionally taught that there are only two categories of people: everyone who is guilty of sin, and everyone who has sinned but has accepted God's offer of forgiveness/salvation.
-
-  - Another contrast with Christianity: true believers can also end up paying for their sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God.
-  
-  - Further, some who leave the Twelve Tribes are considered condemned to hell for eternity.
+- Unique pieces of endtimes theology: (1) True believers will end up ruling galaxies or planets. (2) True believers can end up paying for their own sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God. (3) Some who leave the Twelve Tribes are considered condemned to hell for eternity.
 
 - Black people are cursed and are meant for survitude.
 
@@ -79,6 +72,14 @@ slug: religious-life
 - **Friday evening:** The Sabbath begins at sundown with a festive celebration designed for inviting & evangelizing outsiders. The evening includes a meal, circle dancing, and folk music.
 
 - **Saturday night:** The "Breaking of Bread" begins at 10pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (after washing their feet). Soup is provided with the bread.[^4] The ceremony includes bowing, prayer, singing, and sharing about how the past week went.
-[^4]: Though members are not allowed to dip the bread in the soup.
 
 - **After a death:** There's a meeting among leadership to decide which direction the dead member will go: heaven, "death" (1000 years spent paying for unforgiven sins, similar to the Catholic concept of purgatory), or hell (often referred to as "Tartarus").
+
+
+[^1]: As they've published: "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
+
+[^2]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
+
+[^3]: Most of Christianity has traditionally taught that there are only two categories of people: everyone who is guilty of sin, and everyone who has sinned but has accepted God's offer of forgiveness/salvation.
+
+[^4]: Though members are not allowed to dip the bread in the soup.
