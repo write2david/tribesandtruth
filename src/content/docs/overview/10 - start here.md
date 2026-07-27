@@ -43,7 +43,7 @@ slug: start
 
 - The Tribes also make money via their restaurants, construction businesses, farms, furniture business, etc.
 
-- The Tribes began in the Hippie Era and publicly emphasize peace, love, and unity.
+- The Tribes began in the Hippie Era and continue to emphasize peace, love, and unity.
 
 - Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and boat, and during other outreach events. 
 

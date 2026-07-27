@@ -32,6 +32,8 @@ slug: social-life
 
 - Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into severe legal pushback in regards to their schooling practices).
 
+- The Tribes have a negative view of dogs and generally do not have pets.
+
 
 ### DRESS CODE
 
