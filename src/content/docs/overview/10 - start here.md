@@ -45,9 +45,9 @@ slug: start
 
 - The Tribes began in the Hippie Era and continue to emphasize peace, love, and unity.
 
-- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and boat, and during other outreach events. 
+- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and [ship](https://en.wikipedia.org/wiki/Peacemaker_(ship)), and during other outreach events.
 
-- beMembership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men the group, on multiple continents, over a 20-year period.
+- Membership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men the group, on multiple continents, over a 20-year period.
 
 - Further dissolutionment has come from difficult situations including child abuse, harsh leadership, an on-site homicide, an elder being convicted of child rape and battery, and the death of the founder.
 

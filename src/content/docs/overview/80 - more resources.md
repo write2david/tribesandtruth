@@ -30,6 +30,8 @@ slug: more
 
 - [**Wikipedia:** Twelve Tribes](https://en.wikipedia.org/wiki/Twelve_Tribes_communities)
 
+- [Question 12 Tribes](https://question12tribes.com/): "Working Together to Prevent Child Abuse"
+
 - [**FBI Vault:** Twelve Tribes](https://vault.fbi.gov/twelve-tribes/)
 
   - [Freedom of Information Request (FBI's response)](https://www.muckrock.com/foi/united-states-of-america-10/twelve-tribes-42276/#comm-567121)
