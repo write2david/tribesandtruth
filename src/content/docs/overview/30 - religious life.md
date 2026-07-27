@@ -56,7 +56,7 @@ slug: religious-life
 
 - Salvation requires giving up all personal belongings and money.
 
-- In contrast with traditional Christianity,[^3] the Tribes add a third (middle) category of humanity: people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
+- The Tribes add a third (middle) category of humanity:[^3] people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
 
 - Unique pieces of endtimes theology: (1) True believers will end up ruling galaxies or planets. (2) True believers can end up paying for their own sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God. (3) Some who leave the Twelve Tribes are considered condemned to hell for eternity.
 
