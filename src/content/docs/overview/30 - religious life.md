@@ -41,18 +41,16 @@ slug: religious-life
 - The Tribes are part of the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), in which they believe they have restored the original Church from the Book of Acts.[^2]
 [^2]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
-- The Tribes align with [seventh-day Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by keeping [a Sabbath rest from Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though their businesses have occationally been open on the Sabbath).
+- The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions are sometimes made for certain events or business opportunities).
 
 
 ### TOP UNCONVENTIONAL BELIEFS
 
-- The original Church (in the New Testament of the Bible) died soon after it was established.
+- The original Church in the New Testament died not long after it was established.
 
 - In the 1970's, God restored the original Church in the form of the Tribes.
 
-- The Tribes are the only true Church on earth.
-
-- Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
+- The Tribes are the only true Church on earth. Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
 
 - Jesus is not the eternal second Person of the Trinity who became a human at His birth (the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism))
 
@@ -60,7 +58,8 @@ slug: religious-life
 
 - Salvation requires giving up all personal belongings and money.
 
-- Christianity traditionally believes in two categories of people (everyone who is guilty of sin, and everyone who has sinned but has accepted God's offer of forgiveness/salvation). The Tribes add a third (middle) category: people who aren't saved but who are generally good.
+- In contrast with traditional Christianity, the Tribes add a third (middle) category of humanity: people who aren't saved but who are generally good.[^3]
+[^3]: Most of Christianity has traditionally taught that there are only two categories of people: everyone who is guilty of sin, and everyone who has sinned but has accepted God's offer of forgiveness/salvation.
 
 - Black people are cursed and are meant for survitude.
 
@@ -73,6 +72,7 @@ slug: religious-life
 
 - **Friday evening:** The Sabbath begins at sundown with a festive celebration designed for inviting & evangelizing outsiders. The evening includes a meal, circle dancing, and folk music.
 
-- **Saturday night:** The "Breaking of Bread" begins at 10pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (after washing their feet). Soup is provided with the bread, but members are not allowed to dip the bread in the soup. The ceremony includes bowing, sharing victories and defeats from the week, prayer, and singing.
+- **Saturday night:** The "Breaking of Bread" begins at 10pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (after washing their feet). Soup is provided with the bread.[^4] The ceremony includes bowing, prayer, singing, and sharing about how the past week went.
+[^4]: Though members are not allowed to dip the bread in the soup.
 
-- **After a death:** There's a meeting among leadership to decide which direction the dead member will go: heaven, "death" (1000 years spent paying for unforgiven sins, similar to the Catholic concept of purgatory), or hell (often referred to "Tartarus").
+- **After a death:** There's a meeting among leadership to decide which direction the dead member will go: heaven, "death" (1000 years spent paying for unforgiven sins, similar to the Catholic concept of purgatory), or hell (often referred to as "Tartarus").
