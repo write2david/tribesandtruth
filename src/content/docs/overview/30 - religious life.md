@@ -18,23 +18,23 @@ slug: religious-life
 
 ### TEACHINGS
 
-- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of re-interpretations and additions provided by "revelations" given to leadership.[^1]
+- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions (and re-interpretations) provided by new "revelations."[^1]
 [^1]: As they've published: "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
 
 - "Freepapers" are magazine-style publications intended to convey the Tribes' beliefs & perspectives (for both public use and internal use).
 
 - The "InterTribal News" is published & distributed for internal use.
 
-- Hundreds of teachings from the founder are also intended for internal use (they are further studied at their "School of Prophets").
+- Hundreds of teachings from the founder are also intended for internal use (and are further studied at their "School of Prophets").
 
 
 ### THEOLOGY
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- Like other groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation) provided to their leaders. Some of the new revelations cause them to depart from traditional Christian theology.
+- Like certain groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation) provided to their leaders. Some of the new revelations cause them to depart from traditional Christian beliefs.
 
-- Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots) (with similarities to [Messianic Judaism] (https://en.wikipedia.org/wiki/Messianic_Judaism), the Tribes put some Jewish Old Testament teachings into modern practice.
+- Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots) (with similarities to [Messianic Judaism](https://en.wikipedia.org/wiki/Messianic_Judaism), the Tribes put some Jewish Old Testament teachings into modern practice.
 
 - In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrews names for "God" and "Jesus."
 
