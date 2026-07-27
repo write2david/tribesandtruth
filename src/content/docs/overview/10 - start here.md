@@ -30,14 +30,14 @@ slug: start
 
 - The group originally called itself the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
 
-- After they observed pushback and spiritual apathy in their city (a story is disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
+- After they observed pushback and spiritual apathy in that city (a story is disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 
-- Later the group again renamed themselves again as the "Twelve Tribes Communities" (and sometimes referred to as "The Commonwealth of Israel"). They then established additional communities in various parts of North America and other continents, which were groups into regions ("tribes").
+- Later the group again renamed themselves, this time as the "Twelve Tribes Communities" (with "The Commonwealth of Israel" used as a tagline). They then established additional communities in various parts of North America and other continents, which were divided into twelve regions (or "tribes").
 
 
 ## Group Dynamics
 
-- The Tribes have created a lot of structure related to their lifestyle, beliefs, schedule, and activities.
+- The Tribes have created a lot of structure related to their lifestyle, beliefs, relationships, and activities.
 
 - When someone joins the group, they move into Tribes' housing, give the Tribes all their belongings & money, and receive a new Hebrew name.
 
@@ -45,11 +45,11 @@ slug: start
 
 - The Tribes began in the Hippie Era and continue to emphasize peace, love, and unity.
 
-- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and [ship](https://en.wikipedia.org/wiki/Peacemaker_(ship)), and during other outreach events.
+- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and [ship](https://en.wikipedia.org/wiki/Peacemaker_(ship)), and during other outreach efforts.
 
 - Membership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men the group, on multiple continents, over a 20-year period.
 
-- Further dissolutionment has come from difficult situations including child abuse, harsh leadership, an on-site homicide, an elder being convicted of child rape and battery, and the death of the founder.
+- Further dissolutionment has come from difficult situations including child abuse, harsh leadership, a homicide within the community, an elder convicted of child rape & battery, and the death of the founder.
 
 - Yet, leaving the Tribes is often very difficult for primarily 5 reasons:
   1. Members of the Tribes are taught that leaving the Tribes will result on them going to hell, and so fear is often a powerful motivation for staying.
