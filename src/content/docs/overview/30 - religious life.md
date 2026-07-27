@@ -58,8 +58,14 @@ slug: religious-life
 
 - Salvation requires giving up all personal belongings and money.
 
-- In contrast with traditional Christianity, the Tribes add a third (middle) category of humanity: people who aren't saved but who are generally good.[^3] These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
+- In contrast with traditional Christianity, the Tribes add a third (middle) category of humanity: people who aren't saved but who are generally good.[^3]
+
+  - These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
 [^3]: Most of Christianity has traditionally taught that there are only two categories of people: everyone who is guilty of sin, and everyone who has sinned but has accepted God's offer of forgiveness/salvation.
+
+  - Another contrast with Christianity: true believers can also end up paying for their sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God.
+  
+  - Further, some who leave the Twelve Tribes are considered condemned to hell for eternity.
 
 - Black people are cursed and are meant for survitude.
 
