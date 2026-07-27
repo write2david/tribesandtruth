@@ -17,9 +17,9 @@ slug: social-life
 
 - When joining, new members move into the group's housing, giving the Twelve Tribes all their money & belongings.
 
-- Members typically live together in large, extended-family households without TV's.
+- Members typically live together in large, extended-family households where access to TV's, radio, and the Internet are either limited or non-existent.
 
-- New members are given new Hebrew names. Hebrew is also used for common words such as: mom, dad, Jesus, God, church, etc. 
+- New members are given new Hebrew names. Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
 
 - Despite statements to the contrary, some upper leadership enjoy additional privileges such as having their own houses, pool, TV, and even an island in Florida.
 
@@ -100,7 +100,7 @@ slug: social-life
 
 - Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" -- a person(s) who provides guidance and oversight.
 
-- Adults use corporal punishment with children. There have been many reports of child discipline crossing the line extensively into child abuse.
+- Adults are required to use corporal punishment when disciplining children. There have been many reports of child abuse committed under the banner "discipline," including severe beatings, locking children in rooms for days, and depriving children of food.
 
 - Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 

@@ -39,13 +39,15 @@ slug: start
 
 - The Tribes have created a lot of structure related to their lifestyle, beliefs, schedule, and activities.
 
-- When someone joins, they move into Tribes' housing, give the Tribes all their belongings & money, and receive a new Hebrew name.
+- When someone joins the group, they move into Tribes' housing, give the Tribes all their belongings & money, and receive a new Hebrew name.
 
 - The Tribes also make money via their restaurants, construction businesses, farms, furniture business, etc.
 
-- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and boat, and during other outreach events.
+- The Tribes began in the Hippie Era and publicly emphasize peace, love, and unity.
 
-- Membership declined after it came out that Marsha (the founder's 3rd wife) had sexual relationships with multiple younger men on multiple continents over a 20-year period.
+- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and boat, and during other outreach events. 
+
+- beMembership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men the group, on multiple continents, over a 20-year period.
 
 - Further dissolutionment has come from difficult situations including child abuse, harsh leadership, an on-site homicide, an elder being convicted of child rape and battery, and the death of the founder.
 

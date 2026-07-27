@@ -30,23 +30,29 @@ slug: religious-life
 
 ### THEOLOGY
 
-- The Tribes hold to many aspects of conservative Christian teachings & values, but stray into new territory across a variety of doctrines (include some foundational beliefs).
+- The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- Additionally, they put some Jewish Old Testament teachings into modern practice, in accordance with the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots).
+- Like other groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation) provided to their leaders. Some of the new revelations cause them to depart from traditional Christian theology.
 
-- Similar to several other movements, the Tribes believe they have restored the original Church from the Book of Acts (an approach called [Restorationism](https://en.wikipedia.org/wiki/Restorationism).[^2]
+- Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots), the Tribes put some Jewish Old Testament teachings into modern practice.
+
+- In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrews names for "God" and "Jesus."
+
+- The Tribes are part of the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism)[^2], in which they believe they have restored the original Church from the Book of Acts.[^2]
 [^2]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
 
 ### TOP UNCONVENTIONAL BELIEFS
 
-- The original Church (seen in the New Testament) died soon after it was established.
+- The original Church (in the New Testament of the Bible) died soon after it was established.
 
 - In the 1970's, God restored the original Church in the form of the Tribes.
 
 - The Tribes are the only true Church on earth.
 
 - Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
+
+- Jesus is not the eternal second Person of the Trinity who became a human at His birth (the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism))
 
 - God provides new revelations (beyond the Bible) to the Tribes' leadership.
 

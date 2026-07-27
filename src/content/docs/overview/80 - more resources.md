@@ -32,6 +32,10 @@ slug: more
 
 - [**FBI Vault:** Twelve Tribes](https://vault.fbi.gov/twelve-tribes/)
 
+  - [Freedom of Information Request (FBI's response)](https://www.muckrock.com/foi/united-states-of-america-10/twelve-tribes-42276/#comm-567121)
+  
+  - [News article: accusations provided to FBI](https://www.theepochtimes.com/us/fbi-documents-show-alleged-child-sex-abuse-drug-trafficking-at-twelve-tribes-2982534)
+
 
 ## Media & Podcasts
 
@@ -44,7 +48,7 @@ slug: more
 - **Daughter of Tribes' Cofounder -** [Podcast Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Podcast Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
 
-## News Articles
+## News & Articles
 
 - **Boston:** ["Cult leader travels the world in style"](https://web.archive.org/web/20010907171244/https://www.bostonherald.com/news/local_regional/cult09052001.htm)
 
