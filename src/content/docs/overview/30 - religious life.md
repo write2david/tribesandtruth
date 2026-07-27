@@ -50,19 +50,17 @@ slug: religious-life
 
 - The Tribes are the only true Church on earth. Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
 
-- Jesus is not the eternal second Person of the Trinity who became a human at His birth (the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
+- Jesus is not the eternal second Person of the Trinity who became a human at His birth (in contrast with the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view typically known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
 
 - God provides new revelations (beyond the Bible) to the Tribes' leadership.
 
 - Salvation requires giving up all personal belongings and money.
 
+- Black people are cursed and are meant for survitude.
+
 - The Tribes add a third (middle) category of humanity:[^3] people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
 
 - Unique pieces of endtimes theology: (1) True believers will end up ruling galaxies or planets. (2) True believers can end up paying for their own sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God. (3) Some who leave the Twelve Tribes are considered condemned to hell for eternity.
-
-- Black people are cursed and are meant for survitude.
-
-- The Tribes will be uniquely involved in the End Times, ending up with galaxies or planets to rule over.
 
 
 ### RELIGIOUS GATHERINGS
