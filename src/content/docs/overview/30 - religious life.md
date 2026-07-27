@@ -34,14 +34,14 @@ slug: religious-life
 
 - Like certain groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation) provided to their leaders. Some of the new revelations cause them to depart from traditional Christian beliefs.
 
-- Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots) (with similarities to [Messianic Judaism](https://en.wikipedia.org/wiki/Messianic_Judaism), the Tribes put some Jewish Old Testament teachings into modern practice.
+- Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots) (with similarities to [Messianic Judaism](https://en.wikipedia.org/wiki/Messianic_Judaism)), the Tribes put some Jewish Old Testament teachings into modern practice.
 
 - In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrews names for "God" and "Jesus."
 
 - The Tribes are part of the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), in which they believe they have restored the original Church from the Book of Acts.[^2]
 [^2]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
-- The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions are sometimes made for certain events or business opportunities).
+- The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions have sometimes been made for certain events or business opportunities).
 
 
 ### TOP UNCONVENTIONAL BELIEFS
@@ -52,7 +52,7 @@ slug: religious-life
 
 - The Tribes are the only true Church on earth. Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
 
-- Jesus is not the eternal second Person of the Trinity who became a human at His birth (the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism))
+- Jesus is not the eternal second Person of the Trinity who became a human at His birth (the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
 
 - God provides new revelations (beyond the Bible) to the Tribes' leadership.
 
