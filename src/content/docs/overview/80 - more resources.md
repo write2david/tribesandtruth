@@ -42,7 +42,7 @@ slug: more
   - [Article: summary of accusations provided to FBI](https://www.theepochtimes.com/us/fbi-documents-show-alleged-child-sex-abuse-drug-trafficking-at-twelve-tribes-2982534)
 
 
-## Media & Podcasts
+## Media & Podcasts & Documentaries
 
 - **"People Magazine Investigates" -** ["The Secrets of the Twelve Tribes Cult"](https://vimeo.com/1173434711/8776360b2a)
 
@@ -53,8 +53,6 @@ slug: more
 - **Daughter of Tribes' Cofounder -** [Podcast Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Podcast Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
 - **A&E Investigates: The Twelve Tribes:** [Official Link](https://www.youtube.com/watch?v=aM4Yl1CzV_I).  *Sections:* [Part 1](https://www.dailymotion.com/video/x7n1z6s) | [Part 2](https://vimeo.com/373983374) | [Part 3](https://www.dailymotion.com/video/x7n1zv9) | [Part 4](https://www.dailymotion.com/video/x7n1zjj)
-
-- **A Current Affair:** [Interview with former Tribes elder](https://www.youtube.com/watch?v=918Su4VgiY4) who was [later murdered](https://www.nine.com.au/australia-news/a-current-affair/controversial-twelve-tribes-cult-elder-has-died-in-allegedly-deliberately-lit-fire-on-rural-property-20200901-p5r3zz.html) after the Tribes property [was raided by police](https://www.facebook.com/watch/?v=168340141285211).
 
 - **YouTube:** [Interview with former leader](https://www.youtube.com/watch?v=XkN820N-g1E)
 
@@ -87,6 +85,8 @@ slug: more
 - **Germany:** ["European court upholds German move to take kids from sect"](https://apnews.com/article/70a96270b88948d2871ec6baf24a7a3d)
 
 - **US & Canada:** [Video news articles from the 1990's](https://question12tribes.com/12-tribes-us-tv-news/)
+
+- **Australia:** [Interview with former Tribes elder](https://www.youtube.com/watch?v=918Su4VgiY4) who was [later murdered](https://www.nine.com.au/australia-news/a-current-affair/controversial-twelve-tribes-cult-elder-has-died-in-allegedly-deliberately-lit-fire-on-rural-property-20200901-p5r3zz.html) after the Tribes property [was raided by police](https://www.facebook.com/watch/?v=168340141285211).
 
 
 ## Books About the Tribes
