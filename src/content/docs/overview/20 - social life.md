@@ -95,7 +95,7 @@ slug: social-life
 
 ### STRUCTURE & ACCOUNTABILITY
 
-- The Tribes have a hierarchy with firm authority (and privileges) at each level.
+- The Tribes have a hierarchy with firm authority (including responsibilities & privileges) at each level.
 
 - Until his death in 2021, founder Gene Spriggs was the lead apostle. This role was roughly equivalent to the Catholic Pope, but with more power and revelations from God. He and his wife Marsha were considered the "2 witnesses" from the Book of Revelation.
   
