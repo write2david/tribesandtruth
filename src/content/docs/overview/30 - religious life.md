@@ -42,7 +42,7 @@ slug: religious-life
 - The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions have sometimes been made for certain events or business opportunities).
 
 
-### TOP UNCONVENTIONAL BELIEFS
+### Top Unconventional Beliefs
 
 - The original Church in the New Testament died not long after it was established.
 
@@ -65,7 +65,7 @@ slug: religious-life
 - Unique pieces of endtimes theology: (1) True believers will end up ruling galaxies or planets. (2) True believers can end up paying for their own sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God. (3) Some who leave the Twelve Tribes are considered condemned to hell for eternity.
 
 
-### RELIGIOUS GATHERINGS
+### Religious Gatherings
 
 - **Twice a day:** each local community gathers for worship, singing, and dancing.
 
