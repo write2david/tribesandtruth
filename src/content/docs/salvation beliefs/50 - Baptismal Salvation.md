@@ -13,7 +13,7 @@ banner:
 - The Tribes believe that one must be baptized to be saved.
 :::
 
-## Answer
+## Response
   
 1. This is works.
 

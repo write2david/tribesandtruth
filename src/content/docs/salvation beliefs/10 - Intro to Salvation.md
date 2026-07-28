@@ -13,7 +13,7 @@ banner:
 - Text goes here
 :::
 
-## Answer
+## Response
   
 1. Text goes here
 

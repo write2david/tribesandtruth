@@ -16,7 +16,7 @@ banner:
 - Pull in the topic of someone supposedly being inable to be saved by reading the Bible.
 :::
 
-## Answer
+## Response
   
 1. Text goes here
 

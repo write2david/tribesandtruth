@@ -10,11 +10,6 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-- Text goes here
-:::
-
-## Answer
-  
 - "The Race"
 
 - "The Race" started
@@ -27,6 +22,10 @@ banner:
 
 From Wikipedia: 
 On April 22, 2022 (Passover), the Tribes began a 49-year "race".[38] The Tribes expects Yahshua to return in the 50th year, which will be a year of Jubilee.[39] The Tribes attaches significance to this as the year 2070 is about 100 years since the founding of the Light Brigade.[38]
+:::
+
+## Response
+
 
 <br>
 

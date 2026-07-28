@@ -13,7 +13,7 @@ banner:
 - The Tribes believe that God saves people who would be willing to do His will.
 :::
 
-## Answer
+## Response
   
 1. We are slaves to sin. Our willness changes only after we get saved. And at that point, it's not that we're willing, it's that He starts to *make* us willing. "He works in us to will and to act according to His good pleasure."
 

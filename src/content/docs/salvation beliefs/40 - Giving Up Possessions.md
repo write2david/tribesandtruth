@@ -13,9 +13,9 @@ banner:
 - The Tribes believe all must be given up.
 :::
 
-## Answer
+## Response
   
-1. If posessions are coming between you and the Gospel, then they must go (refer to story of rich young ruler). Same for anything else that comes in between you can the Gospel.
+1. If possessions are coming between you and the Gospel, then they must go (refer to story of rich young ruler). Same for anything else that comes in between you can the Gospel.
 2. But there is no command.  The difference between descriptive and prescriptive Scripture.
 3. This can turn into works-salvation.
 

@@ -10,11 +10,6 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-- The doctine called "3ED" is foundational to the Tribes' view of salvation. 
-:::
-
-## Answer
-  
 The Twelve Tribes teach the doctrine of **The Three Eternal Destinies**, asserting that "there are not just two, but three eternal destinies for mankind." They believe this doctrine "justifies God’s heart toward mankind" by revealing Him as a fair judge rather than a God of indiscriminate wrath. Humanity is divided based on their response to conscience or the gospel.
 
 **1. The Unjust and Filthy**
@@ -27,3 +22,7 @@ The Twelve Tribes believe "the Righteous are the ‘good people’ of every nati
 The **Holy** are those who hear and obey the gospel of Messiah. The term "literally means: set apart for sacred purpose – to the service or worship of God" [17, *3ED7.pdf*]. They must leave everything—possessions, family, and independent life—to live in communal tribes. By receiving Messiah’s sacrifice, their sins are paid for, and they pass "out of eternal death and into eternal life" now. Their destiny is **the Holy City, New Jerusalem**, where they will "rule and reign over the Righteous in the nations of the eternal age" [538, 597, *It Takes A Community, Spring 2003.pdf*].
 
 The group teaches that **"all people are born righteous"** in the image of God [610, *destiny.pdf*]. Throughout life, an individual’s choices and deeds determine their final category, which becomes "unalterable" or "crystallized" for eternity.
+:::
+
+## Response
+  

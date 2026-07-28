@@ -13,7 +13,7 @@ banner:
 - Text goes here
 :::
 
-## Answer
+## Response
   
 Genesis 9:25 - "And he said, Cursed be Canaan"
 
