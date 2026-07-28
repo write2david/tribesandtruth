@@ -16,7 +16,7 @@ slug: religious-life
 :::
 
 
-### TEACHINGS
+## TEACHINGS
 
 - The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions (and re-interpretations) provided by new "revelations."[^1]
 
@@ -27,7 +27,7 @@ slug: religious-life
 - Hundreds of teachings from the founder are also intended for internal use (and are further studied at their "School of Prophets").
 
 
-### THEOLOGY
+## THEOLOGY
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
