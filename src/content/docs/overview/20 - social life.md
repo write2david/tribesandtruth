@@ -26,20 +26,20 @@ slug: social-life
 
 ### INTERNAL CULTURE
 
-- The organization began in the 1970's hippy culture, and some "natural, down-to-earth" aspects carry over into their lifestyle today.
+- The organization began in the 1970's. They have intentionally catered to reaching Hippie culture, Grateful Dead fans, and those who feel disconnected from society.
 
 - The group is known for their folk-style music and dancing, simple and "natural" esthetic, and rejection of other organized religions.
 
-- Children attend school only up to grade 8, with all classes taught by group members (though in France and Germany, the Tribes have run into severe legal pushback in regards to their schooling practices).
+- Children attend school only up to grade 8, with all classes taught by group members.
 
 - The Tribes have a negative view of dogs and generally do not have pets.
 
 
 ### DRESS CODE
 
-- Members wear simple clothing without designs or messages on them.
+- Members wear simple clothing without art/designs or messages on them.
 
-- Clothing must be made primarily from wool, cotton or linen.
+- Clothing must be made primarily from wool, cotton, or linen.
 
 - Women wear dresses (or "sus pants") and religious head coverings.
 
