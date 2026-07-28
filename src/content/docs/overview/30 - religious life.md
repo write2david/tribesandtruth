@@ -73,7 +73,7 @@ slug: religious-life
 
 - **Saturday night:** The "Breaking of Bread" begins at 10pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (after washing their feet). Soup is provided with the bread.[^4] The ceremony includes bowing, prayer, singing, and sharing about how the past week went.
 
-- **Jewish Holidays:** The Tribes celebrate New Moon Festivals, Passover, Pentecost, the Day of Atonement, etc.
+- **Jewish Holidays:** The Tribes celebrate New Moon Festivals, Passover, Pentecost, the Day of Atonement, Bar Mitzvah and Bat Mitzvah, etc.
 
 - **After a death:** There's a meeting among leadership to decide which direction the dead member will go: heaven, "death" (1000 years spent paying for unforgiven sins, similar to the Catholic concept of purgatory), or hell (often referred to as "Tartarus").
 

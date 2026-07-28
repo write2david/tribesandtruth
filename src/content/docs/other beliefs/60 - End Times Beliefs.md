@@ -15,6 +15,8 @@ banner:
 
 - After Battle of Amageddon, those who keep their clothes clean rule with Jesus for 1000 years. Others have to die for 1000 years (their version of pegatory). The righteous are educated by the 12 Tribes. At the Great White THone judgement, God won't be judging, the Tribes will be judging everyone. Then the holy (Tribes) will be like gods, going into the universe and populate galixies and planets. 
 
+- There is something about clones.
+
 :::
 
 ## Response
