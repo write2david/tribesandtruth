@@ -114,4 +114,4 @@ slug: social-life
 
 - Non-members are also not allowed at "councils," "apostolic workers meetings," "kahals,"[^4] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
 
-[^4]: Occationally spelled "qahal" or "chahal," this is a judgment meeting that can be called as needed.
+[^4]: Occationally spelled "qahal" or "chahal," this is a *judgment meeting* that can be called as needed.
