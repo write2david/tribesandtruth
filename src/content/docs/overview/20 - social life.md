@@ -15,7 +15,7 @@ slug: social-life
 
 ## In The Commune
 
-- When joining, new members move into the group's housing, giving the Twelve Tribes all their money & belongings.
+- When joining, new members move into the Tribe's housing, giving the group all their money & belongings.
 
 - Members typically live together in large, extended-family households where access to TV's, radio, and the Internet are either limited or non-existent.
 
@@ -30,7 +30,7 @@ slug: social-life
 
 - The group is known for their folk-style music and dancing, simple and "natural" esthetic, and rejection of other organized religions.
 
-- Children attend school only up to grade 8, with all classes taught by group members.
+- Children attend school only up to grade 8, with all classes taught on Tribes' property by group members.
 
 - The Tribes have a negative view of dogs and generally do not have pets.
 
@@ -53,12 +53,12 @@ slug: social-life
 
 - Interracial marriage was previously prohibited, but is now permitted.
 
-- The Tribes view historic American slavery as "not wrong" and state that it provided the proper social order for blacks. They disagree with Abraham Lincoln freeing the slaves and condemn Martin Luther King Jr.
+- The Tribes view historic American slavery as "not wrong" and state that it provided the proper social order for blacks. They disagree with Abraham Lincoln freeing the slaves and they condemn Martin Luther King Jr.
 
 
 ## Food
 
-- Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.[^2]
+- Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine[^2]) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.
 [^2]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
 
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
