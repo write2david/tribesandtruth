@@ -32,7 +32,7 @@ slug: start
 
 - After they observed pushback and spiritual apathy in that city (a story is disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 
-- Later the group again renamed themselves, this time as the "Twelve Tribes Communities" (with "The Commonwealth of Israel" used as a tagline). They then established additional communities in various parts of North America and other continents, which were divided into twelve regions (or "tribes").
+- In 1995, the group renamed themselves again, this time to "The Twelve Tribes Communities" (with "The Commonwealth of Israel" sometimes used as a tagline). By this time, they had established additional communities in various parts of North America and other continents, which were eventually divided into twelve regions (or "tribes").
 
 
 ## Group Dynamics

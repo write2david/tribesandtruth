@@ -96,9 +96,9 @@ slug: social-life
 
 - The Tribes have a hierarchy with firm authority (and privileges) at each level.
 
-- Until his death in 2021, founder Gene Spriggs was the lead apostle, roughly equivalent to the Catholic Pope, but with more power and revelations from God. He and his wife Marsha were considered the "2 witnesses" from the Book of Revelation.
+- Until his death in 2021, founder Gene Spriggs was the lead apostle. This role was roughly equivalent to the Catholic Pope, but with more power and revelations from God. He and his wife Marsha were considered the "2 witnesses" from the Book of Revelation.
   
-- The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as "the voice from behind" and "shepherds/elders."
+- The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as shepherds/elders (overseeing spiritual matters) and sextons (overseeing physical matters).
 
 - Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" -- a person(s) who provides guidance and oversight.
 

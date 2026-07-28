@@ -15,7 +15,11 @@ banner:
 
 ## Response
   
-1. Apostles of the early Church, writing letters to believers as collected in the New Testament, used Greek and not Hebrew when referring to each other and to the Messiah.
+1. Apostles of the early Church (writing letters to believers, as collected in the New Testament) used Greek and not Hebrew when referring to each other and to the Messiah.
+
+2. Hebrew translations were also not used in the Early Church writings.
+
+3. The Twelve Tribes went many years using English only. Creating new Hebrew names for members, and using Hebrew for a few other terms, was not introduced until well after the Tribes were established as an organization.
 
 
 <br>
