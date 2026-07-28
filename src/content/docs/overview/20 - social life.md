@@ -68,7 +68,7 @@ slug: social-life
 - They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
 
 - They prefer goat milk rather than cow milk because "lots of dairy products will make a person fat like a little cow."[^3]
-[^3]: Additional belief: "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious.""
+[^3]: Additional belief: "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious."
 
 - Also restricted from consumption: lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
