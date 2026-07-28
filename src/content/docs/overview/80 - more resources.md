@@ -42,7 +42,7 @@ slug: more
   - [Article: summary of accusations provided to FBI](https://www.theepochtimes.com/us/fbi-documents-show-alleged-child-sex-abuse-drug-trafficking-at-twelve-tribes-2982534)
 
 
-## Media & Podcasts & Documentaries
+## Documentaries & Podcasts
 
 - **"People Magazine Investigates" -** ["The Secrets of the Twelve Tribes Cult"](https://vimeo.com/1173434711/8776360b2a)
 
