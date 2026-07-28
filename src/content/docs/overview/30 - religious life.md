@@ -31,13 +31,13 @@ slug: religious-life
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- Like certain groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation) provided to their leaders. Some of the new revelations cause them to depart from traditional Christian beliefs.
+- Like certain groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
 
-- Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots) (with similarities to [Messianic Judaism](https://en.wikipedia.org/wiki/Messianic_Judaism)), the Tribes put some Jewish Old Testament teachings into modern practice.
+- Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots), the Tribes put some Jewish Old Testament teachings into modern practice.
 
 - In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrews names for "God" and "Jesus."
 
-- The Tribes are part of the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), in which they believe they have restored the original Church from the Book of Acts.[^2]
+- The Tribes are one of many groups within the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), believing that they have restored the original Church from the Book of Acts.[^2]
 
 - The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions have sometimes been made for certain events or business opportunities).
 
