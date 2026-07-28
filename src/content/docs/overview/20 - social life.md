@@ -103,15 +103,15 @@ slug: social-life
 
 - Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" -- a person(s) who provides guidance and oversight.
 
-- Adults are required to use corporal punishment when disciplining children. There have been many reports of child abuse committed under the banner "discipline," including severe beatings, locking children in rooms for days, and depriving children of food.
+- Adults are required to use corporal punishment when disciplining children. There have been many reports of child abuse committed under the banner of "discipline," including severe beatings, locking children in rooms for days, and depriving children of food.
 
-- Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
+- Submission to authority must happen both physically and mentally. Independent thinking or dissent is viewed as a spiritual threat. "Rebellious" members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 
 
 ## Public Restrictions
 
 - While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread" ceremony on Saturday night.
 
-- Non-members are also not allowed at "councils," "apostolic workers meetings," "kahals,"[^4] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
+- Non-members (and most members) are also not permitted to attend "councils," "apostolic workers meetings," "kahals,"[^4] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
 
 [^4]: Occationally spelled "qahal" or "chahal," this is a *judgment meeting* that can be called as needed.
