@@ -21,9 +21,9 @@ slug: more
 
 - [**Our Facebook Group**](https://www.facebook.com/groups/twelvetribes)
 
-- **"Question 12 Tribes" Facebook Group:** (https://www.facebook.com/groups/question12tribes)
+- [**"Question 12 Tribes" Facebook Group:**](https://www.facebook.com/groups/question12tribes)
 
-- **Tamara Mathieu** (former member)
+- **Tamara Mathieu** (former member):
   - [TikTok](https://www.tiktok.com/discover/tamara-mathieu)
   - [YouTube Interview](https://www.youtube.com/watch?v=a5GP5q0bidY)
   - [Facebook](https://www.facebook.com/people/Tamara-Mathieu-Author/61558399027295/)
@@ -31,7 +31,7 @@ slug: more
 
 ## Websites
 
-- [**Wikipedia:** Twelve Tribes](https://en.wikipedia.org/wiki/Twelve_Tribes_communities)
+- [**Wikipedia:** Twelve Tribes Communities](https://en.wikipedia.org/wiki/Twelve_Tribes_communities)
 
 - [**Question 12 Tribes:**](https://question12tribes.com/) "Working Together to Prevent Child Abuse"
 
@@ -39,7 +39,7 @@ slug: more
 
   - [Freedom of Information Request (FBI's response)](https://www.muckrock.com/foi/united-states-of-america-10/twelve-tribes-42276/#comm-567121)
   
-  - [News article: accusations provided to FBI](https://www.theepochtimes.com/us/fbi-documents-show-alleged-child-sex-abuse-drug-trafficking-at-twelve-tribes-2982534)
+  - [Article: summary of accusations provided to FBI](https://www.theepochtimes.com/us/fbi-documents-show-alleged-child-sex-abuse-drug-trafficking-at-twelve-tribes-2982534)
 
 
 ## Media & Podcasts
@@ -52,8 +52,11 @@ slug: more
 
 - **Daughter of Tribes' Cofounder -** [Podcast Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Podcast Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
-- **A&E Investigates: The Twelve Tribes:** [Official Link](https://www.youtube.com/watch?v=aM4Yl1CzV_I). [Part 1](https://www.dailymotion.com/video/x7n1z6s) | [Part 2](https://vimeo.com/373983374) | [Part 3](https://www.dailymotion.com/video/x7n1zv9) | [Part 4](https://www.dailymotion.com/video/x7n1zjj)
+- **A&E Investigates: The Twelve Tribes:** [Official Link](https://www.youtube.com/watch?v=aM4Yl1CzV_I). Sections: [Part 1](https://www.dailymotion.com/video/x7n1z6s) | [Part 2](https://vimeo.com/373983374) | [Part 3](https://www.dailymotion.com/video/x7n1zv9) | [Part 4](https://www.dailymotion.com/video/x7n1zjj)
 
+- **YouTube:** [Interview with Roger Griffin, former leader and 20 year member](https://www.youtube.com/watch?v=XkN820N-g1E)
+
+- **A Current Affair:**  | [Interview with Former Tribes Elder](https://www.youtube.com/watch?v=918Su4VgiY4) who was [later murdered](https://www.nine.com.au/australia-news/a-current-affair/controversial-twelve-tribes-cult-elder-has-died-in-allegedly-deliberately-lit-fire-on-rural-property-20200901-p5r3zz.html) after the Tribes property [was raided by police](https://www.facebook.com/watch/?v=168340141285211).
 
 ## News & Articles
 

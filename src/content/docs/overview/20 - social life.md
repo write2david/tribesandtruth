@@ -49,7 +49,7 @@ slug: social-life
 
 ### RACE
 
-- The Tribes believe that people of African decent are cursed and are intended for service.
+- The Tribes believe that people of African decent are cursed and are intended for survitude.
 
 - Interracial marriage was previously prohibited, but is now permitted.
 
