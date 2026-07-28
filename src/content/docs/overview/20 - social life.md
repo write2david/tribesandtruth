@@ -63,9 +63,9 @@ slug: social-life
 
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
 
-- The biggest meal of the week is Friday evening, a "gathering" event often used to recruit new members.
+- The biggest meal of the week is Friday supper, a "gathering" event often used to recruit new members.
 
-- They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate causes a variety of health problems. Therefore, neither type of food is permitted.
+- They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
 
 - They prefer goat milk rather than cow milk because "lots of dairy products will make a person fat like a little cow."[^3]
 [^3]: Additional belief: "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious.""
