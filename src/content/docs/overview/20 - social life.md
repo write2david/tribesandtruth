@@ -13,7 +13,7 @@ slug: social-life
 - Many of their religious beliefs are tied to their social practices, and vice-versa.
 :::
 
-### IN THE COMMUNE
+## In The Commune
 
 - When joining, new members move into the group's housing, giving the Twelve Tribes all their money & belongings.
 
@@ -24,7 +24,7 @@ slug: social-life
 - Despite statements to the contrary, some upper leadership enjoy additional privileges such as having their own houses, pool, TV, and even an island in Florida.
 
 
-### INTERNAL CULTURE
+## Internal Culture
 
 - The organization began in the 1970's. They have intentionally catered to reaching Hippie culture, Grateful Dead fans, and those who feel disconnected from society.
 
@@ -35,7 +35,7 @@ slug: social-life
 - The Tribes have a negative view of dogs and generally do not have pets.
 
 
-### DRESS CODE
+## Dress Code
 
 - Members wear simple clothing without art/designs or messages on them.
 
@@ -47,7 +47,7 @@ slug: social-life
 [^1]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
 
 
-### RACE
+## Race & Ethnicity
 
 - The Tribes believe that people of African decent are cursed and are intended for survitude.
 
@@ -56,7 +56,7 @@ slug: social-life
 - The Tribes view historic American slavery as "not wrong" and state that it provided the proper social order for blacks. They disagree with Abraham Lincoln freeing the slaves and condemn Martin Luther King Jr.
 
 
-### FOOD
+## Food
 
 - Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.[^2]
 [^2]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
@@ -73,7 +73,7 @@ slug: social-life
 - Also restricted from consumption: lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
 
-### HEALTHCARE
+## Healthcare
 
 - The Tribes generally prefer natural remedies rather than going to doctors trained in Western medicine.
 
@@ -84,7 +84,7 @@ slug: social-life
 - If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). 
 
 
-### MOTIVATION
+## Motivation
 
 - Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected.
 
@@ -93,7 +93,7 @@ slug: social-life
 - Members are moved around the country (or internationally) where the leadership deems they are needed.
 
 
-### STRUCTURE & ACCOUNTABILITY
+## Structure & Accountabilty
 
 - The Tribes have a hierarchy with firm authority (including responsibilities & privileges) at each level.
 
@@ -108,7 +108,7 @@ slug: social-life
 - Independent thinking or dissent is viewed as a spiritual threat. Rebellious members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 
 
-### PUBLIC RESTRICTIONS
+## Public Restrictions
 
 - While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread" ceremony on Saturday night.
 
