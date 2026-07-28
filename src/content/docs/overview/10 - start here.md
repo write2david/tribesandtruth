@@ -22,7 +22,7 @@ slug: start
 
 - The Twelve Tribes Communities were founded in 1972 by Gene Spriggs (Elbert Eugene "Gene" Spriggs Jr.). He was born in 1937, died in 2021, and was known within the group as *Yônêq.*
 
-- His 3rd wife Marsha (known as *Hâ-Êmeq* in the group) is very influntial and is still alive today.
+- His 3rd wife Marsha (known as *Hâ-Êmeq* in the group) is very influential and is still alive today.
 
 - Gene was considered the lead apostle, and his right-hand man was Eddie Wiseman (or "Hakam"). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
 
@@ -49,7 +49,7 @@ slug: start
 
 - Membership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men the group, on multiple continents, over a 20-year period.
 
-- Further dissolutionment has come from difficult situations including child abuse, harsh leadership, a homicide within the community, an elder convicted of child rape & battery, and the death of the founder.
+- Further disillusionment has come from difficult situations including child abuse, harsh leadership, a homicide within the community, an elder convicted of child rape & battery, and the death of the founder.
 
 - Yet, leaving the Tribes is often very difficult for primarily 5 reasons:
 

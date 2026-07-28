@@ -44,12 +44,11 @@ slug: social-life
 - Women wear dresses (or "sus pants") and religious head coverings.
 
 - Men must have beards.[^1] They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
-[^1]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
 
 
 ## Race & Ethnicity
 
-- The Tribes believe that people of African decent are cursed and are intended for survitude.
+- The Tribes believe that people of African decent are cursed and are intended for servitude.
 
 - Interracial marriage was previously prohibited, but is now permitted.
 
@@ -59,7 +58,6 @@ slug: social-life
 ## Food
 
 - Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine[^2]) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.
-[^2]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
 
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
 
@@ -67,8 +65,7 @@ slug: social-life
 
 - They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
 
-- They prefer goat milk rather than cow milk because "lots of dairy products will make a person fat like a little cow."[^3]
-[^3]: Additional belief: "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious."
+- They prefer goat milk rather than cow milk.[^3]
 
 - Also restricted from consumption: lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
@@ -114,4 +111,11 @@ slug: social-life
 
 - Non-members (and most members) are also not permitted to attend "councils," "apostolic workers meetings," "kahals,"[^4] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
 
-[^4]: Occationally spelled "qahal" or "chahal," this is a *judgment meeting* that can be called as needed.
+
+[^1]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
+
+[^2]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
+
+[^3]: Additional comments from the Tribe's internal documents: "lots of dairy products will make a person fat like a little cow" and "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious."
+
+[^4]: Occasionally spelled "qahal" or "chahal," this is a *judgment meeting* that can be called as needed.

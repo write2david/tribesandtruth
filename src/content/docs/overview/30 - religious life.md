@@ -58,7 +58,7 @@ slug: religious-life
 
 - Salvation requires giving up all personal belongings and money.
 
-- Black people are cursed and are meant for survitude.
+- Black people are cursed and are meant for servitude.
 
 - The Tribes add a third (middle) category of humanity:[^3] people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
 
