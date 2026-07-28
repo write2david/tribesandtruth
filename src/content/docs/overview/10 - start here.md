@@ -45,7 +45,7 @@ slug: start
 
 - The Tribes began in the Hippie Era and continue to emphasize peace, love, and unity.
 
-- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses and [ship](https://en.wikipedia.org/wiki/Peacemaker_(ship)), and during other outreach efforts.
+- Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses & [ship](https://en.wikipedia.org/wiki/Peacemaker_(ship)), and during other outreach efforts.
 
 - Membership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men the group, on multiple continents, over a 20-year period.
 
@@ -61,4 +61,4 @@ slug: start
   
   4. Since individual ownership of money is largely non-existant in the Tribes, it is a challenge to provide for oneself after leaving.
   
-  5. The choice to leave the Tribes is usually a choice to discard some of the unique beliefs of the Tribes. Strongly-held (and long-held) beliefs can be difficult to forsake, and major changes in worldview can be disorienting. Further, self-identity is closely connected with Tribes' membership, and so departure from membership can leave former members struggling to establish a new understanding of themselves.
+  5. The choice to leave the Tribes is usually a choice to discard some of the core beliefs of the Tribes. Strongly-held (and long-held) beliefs can be difficult to forsake, and major changes in worldview can be disorienting. Further, self-identity is closely connected with Tribes' membership, and so departure from membership can leave former members struggling to establish a new understanding of themselves.

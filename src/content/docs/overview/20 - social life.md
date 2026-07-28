@@ -19,7 +19,7 @@ slug: social-life
 
 - Members typically live together in large, extended-family households where access to TV's, radio, and the Internet are either limited or non-existent.
 
-- New members are given new Hebrew names. Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
+- New members are given Hebrew names. Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
 
 - Despite statements to the contrary, some upper leadership enjoy additional privileges such as having their own houses, pool, TV, and even an island in Florida.
 
@@ -39,11 +39,11 @@ slug: social-life
 
 - Members wear simple clothing without designs or messages on them.
 
-- Clothing must be made primarily from wool, cotton or linen clothing.
+- Clothing must be made primarily from wool, cotton or linen.
 
 - Women wear dresses (or "sus pants") and religious head coverings.
 
-- Men must have beards [^1]. They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
+- Men must have beards.[^1] They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
 [^1]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
 
 

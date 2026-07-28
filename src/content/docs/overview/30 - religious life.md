@@ -48,7 +48,9 @@ slug: religious-life
 
 - In the 1970's, God restored the original Church in the form of the Tribes.
 
-- The Tribes are the only true Church on earth. Salvation is found only in the Tribes. There are no true believers in the world apart from the Tribes.
+- The Tribes are the only legitimate Church on earth. They strongly condemn "Christianity."
+
+- There are no true believers in the world apart from the Tribes. Salvation is found only in the Tribes.
 
 - Jesus is not the eternal second Person of the Trinity who became a human at His birth (in contrast with the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view typically known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
 

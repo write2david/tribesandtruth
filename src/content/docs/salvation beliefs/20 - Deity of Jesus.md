@@ -15,7 +15,9 @@ banner:
 
 ## Answer
   
-Fact check belief from Thomas Parsins: there were two seeds, one was Adam, and another was saved to impregnate Mary. Jesus became the Word at his baptism. 
+Rhere were two seeds, one was Adam, and another was saved to impregnate Mary. Jesus became the Word at his baptism.
+
+but Jesus and Adam didn't have the same seed. Jesus did things that Adam could never have done. and he talked about himself in ways that Adam would have never talked.
 
 
 <br>
