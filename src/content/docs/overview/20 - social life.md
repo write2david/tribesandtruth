@@ -88,7 +88,7 @@ slug: social-life
 
 - Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected.
 
-- Members are assigned to work (without pay) a significant number of hours each week. Many former members report 80+ hours of work weekly.
+- Members are assigned to work (without pay) a significant number of hours each week. Many former members report 80+ hours of work weekly (16-hour work days).
 
 - Members are moved around the country (or internationally) where the leadership deems they are needed.
 
