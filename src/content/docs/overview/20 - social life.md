@@ -17,7 +17,7 @@ slug: social-life
 
 - When joining, new members move into the Tribe's housing, giving the group all their money & belongings.
 
-- Members typically live together in large, extended-family households where access to TV's, radio, and the Internet are either limited or non-existent.
+- Members typically live together in large, extended-family households where access to TV's, radio, and the Internet is either limited or non-existent.
 
 - New members are given Hebrew names. Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
 
@@ -78,7 +78,7 @@ slug: social-life
 
 - Babies and children in the Tribes do not get vaccinated. 
 
-- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). 
+- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). Mothers who have a stillbirth are sometimes told their child died because of the mother's sin.
 
 
 ## Motivation
@@ -94,7 +94,7 @@ slug: social-life
 
 - The Tribes have a hierarchy with firm authority (including responsibilities & privileges) at each level.
 
-- Until his death in 2021, founder Gene Spriggs was the lead apostle. As the primary mediator between the Tribes and God, this role was roughly equivalent to the Catholic Pope (but with more power and revelations). He and his wife Marsha were considered the "2 witnesses" from the Book of Revelation.
+- Until his death in 2021, founder Gene Spriggs was the lead apostle. As the primary mediator between the Tribes and God, this role was roughly equivalent to the Catholic Pope. Similar to the Apostles who wrote books of the New Testament, Spriggs provided new "revelations" to his people.
   
 - The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as shepherds/elders (overseeing spiritual matters) and sextons (overseeing physical matters).
 

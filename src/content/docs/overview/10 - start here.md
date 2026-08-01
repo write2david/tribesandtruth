@@ -53,7 +53,7 @@ slug: start
 
 - Yet, leaving the Tribes is often very difficult for primarily 5 reasons:
 
-  1. Members of the Tribes are taught that leaving the Tribes will result in them going to hell, and so fear is often a powerful motivation for staying.
+  1. Members of the Tribes are taught that exiting the group will result in tragedies related to health, morals, and safety, as well as going to hell after dying. Fear is often a powerful motivation for staying.
   
   2. Members who grew up in the Tribes often struggle to know how to function in society apart from the group, since they have never lived independently.
   
