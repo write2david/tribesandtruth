@@ -8,7 +8,7 @@ slug: dictionary
 ---
 
 :::tip[Overview]{icon="sun"}
-- Over time, the Tribes have intentionally normalized the use of words that outsiders may not automatically understand.
+- Over time, the Tribes have intentionally normalized the use of certain words that outsiders may not automatically understand.
 
 - This page provides a dictionary (or glossary) for terminology that the Tribes uses.
 
