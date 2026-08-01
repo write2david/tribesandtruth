@@ -3,7 +3,7 @@ title: Religious Life
 description: Overview of the Twelve Tribes Communities and their religious life.
 sidebar:
   label: Religious Life of the  Tribes
-  order: 30
+  order: 40
 slug: religious-life
 ---
 
