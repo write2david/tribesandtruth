@@ -10,9 +10,9 @@ slug: dictionary
 :::tip[Overview]{icon="sun"}
 - Over time, the Tribes have intentionally normalized the use of certain words that outsiders may not automatically understand.
 
-- This page provides a dictionary (or glossary) for terminology that the Tribes uses.
+- This page provides a dictionary (glossary) for terminology that the Tribes uses.
 
-- The entries below are usually either pulled from the Hebrew language, or are English words which are given new meanings unique to the Tribes.
+- Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.
 :::
 
 ## Glossary of Twelve Tribes Terminology
