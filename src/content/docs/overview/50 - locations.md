@@ -10,18 +10,18 @@ slug: locations
 :::tip[Overview]{icon="sun"}
 - The group has divided itself up into "Tribes" (regions of the world), which are then divided up into "Clans" (communities).
 
-- The names of the various "Tribes" are based on the twelve tribes of Israel as listed in the Bible[^1].
+- The names of the various "Tribes" are based on the twelve tribes of Israel as listed in the Bible.[^1]
 
-- The defined region of each "Tribe" has sometimes been adjusted over time. For example, the tribe of "Levi" used to be associated [only with Germany](https://web.archive.org/web/20030402141129/http://www.twelvetribes.com/whereweare/index.htm), but is now associated only with the Czech Republic.
+- The defined region of each "Tribe" has sometimes been adjusted over time. For example, the tribe of "Levi" used to be identified as [the country of Germany](https://web.archive.org/web/20030402141129/http://www.twelvetribes.com/whereweare/index.htm), but is now identified as the Czech Republic.
 
-- Likewise, new "Clans" have periodically opened and a significant number of them have closed.[^2]
+- Likewise, new "Clans" have periodically opened and a significant number of them have closed (listed below).
 
 - The Tribes' international headquarters have moved from Chattanooga TN to Island Pond VT to [Hiddenite NC](https://www.google.com/maps/@35.9080766,-81.0918391,3a,15y,39.69h,87.91t/data=!3m7!1e1!3m5!1sT9MLb9ImMb52VfA__rFcdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0934441949268177%26panoid%3DT9MLb9ImMb52VfA__rFcdQ%26yaw%3D39.686394287600514!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D).
 
 - The Northeastern United States plays a major role in the early history of the Tribes and contains the highest number of Clans (communities). The Southeastern U.S. contains the next-highest number of clans.
 :::
 
-## The Locations of the Twelve Tribes
+## **Current** Locations of the Twelve Tribes
 
 ### Asher: Japan and Australiasia
 
@@ -73,7 +73,9 @@ Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England
 
 [^1]: The Bible lists the original twelve Jewish tribes in multiple Old Testament passages. These consistently include the tribe of "Dan" (such as in Genesis 35:23–26, Genesis 49:1-28, and Numbers 1:5–15). However, the Twelve Tribes Communities uses the list of the Israelite tribes found in Revelation 7:4–8, which includes "Manasseh" instead of Dan.
 
-[^2]: Closed locations include...
+
+## **Former** Locations of the Twelve Tribes
+
 - [Stepping Stone Farm](https://web.archive.org/web/20130530193751/http://twelvetribes.org/community/stepping-stone-farm) in Weaubleau, Missouri.
 - [The community](https://web.archive.org/web/20000929180426/http://www.twelvetribes.com/Community%20in%20Palenville.html) in Palenville, New York.
 - [Jog Run Farm](https://web.archive.org/web/20000929180436/http://www.twelvetribes.com/Jog%20Run%20Farm.htm) in West Palm Beach, Florida.
