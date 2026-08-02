@@ -71,7 +71,7 @@ slug: religious-life
 
 - **Friday evening:** The Sabbath begins at sundown with a festive celebration designed for inviting & evangelizing outsiders. The evening includes a meal, circle dancing, and folk music.
 
-- **Saturday night:** The "Breaking of Bread" begins at 10pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (after washing their feet). Soup is provided with the bread.[^4] The ceremony includes bowing, prayer, singing, and sharing about how the past week went.
+- **Saturday night:** The "Breaking of Bread" begins at 10:00pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (in past years, they were required to wash their feet ahead of time). Soup is provided with the bread.[^4] The ceremony includes bowing, prayer, singing, and sharing about how the past week went.
 
 - **Jewish Holidays:** The Tribes celebrate New Moon Festivals, Passover, Pentecost, the Day of Atonement, Bar Mitzvah and Bat Mitzvah, etc.
 

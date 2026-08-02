@@ -29,7 +29,7 @@ slug: dictionary
 **Babylon (or Babel):** A term describing "organized religion," specifically modern Christianity, which the group views as a man-made system of confusion and a spiritual "harlot."
 
 
-**Breaking of Bread:** A solemn candlelit ritual held on Saturday nights around 10:00 p.m. that is restricted to baptized members and includes ritual foot washing.
+**Breaking of Bread:** A candlelit ritual (roughly equivalent to Communion or "The Lord's Supper") held on Saturday nights around 10:00pm. It is restricted to baptized members, who attend barefoot and participate in prayer and singing.
 
 
 **Kahal (Cahal or Qahal):** The governmental or judicial assembly where appointed representatives and elders gather to make authoritative decisions for the community.
@@ -39,6 +39,9 @@ slug: dictionary
 
 
 **Covering:** A spiritual authority figure, such as a husband or an elder, to whom a member is accountable to ensure there is "no independent action."
+
+
+**Cut Off:** The removal of a person (or group of people) from the community due to sin or attitude issues (such as rebelliousness). The rest of the community is obligated to shun them, and if they are told they are destined for eternal punishment if they do not repent.
 
 
 **Edah:** The Hebrew word for "community."
