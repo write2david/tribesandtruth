@@ -8,11 +8,13 @@ slug: dictionary
 ---
 
 :::tip[Overview]{icon="sun"}
-- Over time, the Tribes have intentionally normalized the use of certain words that outsiders may not automatically understand.
+- Over time, the Tribes have internally normalized the use of certain words that outsiders may not automatically understand.
 
 - This page provides a dictionary (glossary) for terminology that the Tribes uses.
 
 - Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.
+
+- Some terms have biblical connections, though many of them have been given different definitions compared to biblical usage (and some are not found in biblical Scripture at all). The Tribes sometimes uses Hebrew for terms that the New Testament does not use Hebrew for.
 :::
 
 ## Glossary of Twelve Tribes Terminology

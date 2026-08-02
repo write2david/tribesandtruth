@@ -37,7 +37,7 @@ slug: start
 
 ## Group Dynamics
 
-- The Tribes have created a lot of structure related to their lifestyle, beliefs, relationships, and activities.
+- The Tribes have created a lot of structure related to their lifestyle, beliefs, relationships, and activities. They have created a fair amount of [insider terminology](/dictionary).
 
 - When someone joins the group, they move into Tribes' housing, give the Tribes all their belongings & money, and receive a new Hebrew name.
 

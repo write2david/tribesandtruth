@@ -31,7 +31,9 @@ slug: religious-life
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- Despite sharing much theology with conservative Christianity, and despite the additional similarities listed below, the Tribes strongly condemn Christianity.
+- Despite sharing much theology with conservative Christianity, and despite the additional similarities listed below, the Tribes strongly condemn Christianity (despite the fact that "Christian" was part of a previous official name of their group).
+
+- The Tribes often provides Scripture references for their teaching. While the Scripture normally has some topical connection to their teaching, the Scripture often does not actually support the Tribes' statement.
 
 - Like certain groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
 
