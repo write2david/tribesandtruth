@@ -12,9 +12,11 @@ slug: locations
 
 - The names of the "Tribes" are based on the twelve tribes of Israel as listed in [^1].
 
-- The defined region of each "Tribe" has sometimes been adjusted. Likewise, "Clans" have periodically grown, shrunk, opened, and closed.[^2]
+- The defined region of each "Tribe" has sometimes been adjusted. Likewise, new "Clans" have periodically opened and a number of them have closed.[^2]
 
-- The Northeastern United States plays a major role in the early history of the Tribes and contains the highest number of Clans (communities).
+- Headquarters have moved from Chattanooga TN to Island Pond VT to [Hiddenite NC](https://www.google.com/maps/@35.9080766,-81.0918391,3a,15y,39.69h,87.91t/data=!3m7!1e1!3m5!1sT9MLb9ImMb52VfA__rFcdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0934441949268177%26panoid%3DT9MLb9ImMb52VfA__rFcdQ%26yaw%3D39.686394287600514!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D).
+
+- The Northeastern United States plays a major role in the early history of the Tribes and contains the highest number of Clans (communities). The Southeastern U.S. contains the next-highest number of clans.
 :::
 
 ## The Locations of the Twelve Tribes
@@ -69,4 +71,19 @@ Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England
 
 [^1]: The Bible lists the original twelve Jewish tribes in multiple Old Testament passages. These consistently include the tribe of "Dan" (such as in Genesis 35:23–26, Genesis 49:1-28, and Numbers 1:5–15). However, the Twelve Tribes Communities uses the list of the Israelite tribes found in Revelation 7:4–8, which includes "Manasseh" instead of Dan.
 
-[^2]: Closed locations include [Stepping Stone Farm](https://web.archive.org/web/20130530193751/http://twelvetribes.org/community/stepping-stone-farm) in Weaubleau MO, [the community](https://web.archive.org/web/20000929180426/http://www.twelvetribes.com/Community%20in%20Palenville.html) in Palenville NY, [Jog Run Farm](https://web.archive.org/web/20000929180436/http://www.twelvetribes.com/Jog%20Run%20Farm.htm) in West Palm Beach FL, [Morning Star Ranch](https://web.archive.org/web/20171113195446/http://twelvetribes.org/community/morning-star-ranch) in Valley Center CA, and [the community] in Colorado Springs CO.
+[^2]: Closed locations include...
+- [Stepping Stone Farm](https://web.archive.org/web/20130530193751/http://twelvetribes.org/community/stepping-stone-farm) in Weaubleau, Missouri.
+- [The community](https://web.archive.org/web/20000929180426/http://www.twelvetribes.com/Community%20in%20Palenville.html) in Palenville, New York.
+- [Jog Run Farm](https://web.archive.org/web/20000929180436/http://www.twelvetribes.com/Jog%20Run%20Farm.htm) in West Palm Beach, Florida.
+- [Morning Star Ranch](https://web.archive.org/web/20171113195446/http://twelvetribes.org/community/morning-star-ranch) in Valley Center, California.
+- [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Colorado Springs, Colorado.
+- [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in St. Joseph, Missouri.
+- [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Harrisonburg, Virginia.
+- [New Sprout Farm](https://web.archive.org/web/20171113170407/http://twelvetribes.org/community/new-sprout-farm) in Merville, British Colombia.
+- [The community](https://web.archive.org/web/20171113191254/http://twelvetribes.org/community/fort-myers) in Fort Myers, Florida.
+- [Bear Creek Farm](https://web.archive.org/web/20171113191221/http://twelvetribes.org/community/marshall) in Marshall, Michigan.
+- [BOJ Farms](https://web.archive.org/web/20171113183041/http://twelvetribes.org/community/raynham) in Raynham, Massachusetts.
+- [The community](https://web.archive.org/web/20171113204923/http://twelvetribes.org/community/irun) in Irun, Spain.
+- [The community](https://web.archive.org/web/20171113170303/http://twelvetribes.org/community/community-aquiraz) in Aquiraz, Brazil.
+- [The community](https://web.archive.org/web/20171113191057/http://twelvetribes.org/community/coledale) in Coledale, Australia.
+- [Peppercorn Creek Farm](https://web.archive.org/web/20180101150837/http://twelvetribes.org/community/peppercorn-creek-farm) in Picton, Australia.
