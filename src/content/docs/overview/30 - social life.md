@@ -11,11 +11,13 @@ slug: social-life
 - The Twelve Tribes Communities has created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations.
 
 - Many of their religious beliefs are tied to their social practices, and vice-versa.
+
+- The categories below highlight some of the many rules that the Tribes have created for their lifestyle.
 :::
 
 ## In The Commune
 
-- When joining, new members move into the Tribe's housing, giving the group all their money & belongings.
+- When joining, new members move into the Tribe's housing, giving the group all their money & belongings. From then on, their are to receive their physical needs from the community, and are not allowed to borrow anything from non-members.
 
 - Members typically live together in large, extended-family households where access to TV's, radio, and the Internet is either limited or non-existent.
 
@@ -30,8 +32,6 @@ slug: social-life
 
 - The group is known for their folk-style music and dancing, simple and "natural" esthetic, and rejection of other organized religions.
 
-- Children attend school only up to grade 8, with all classes taught on Tribes' property by group members.
-
 - The Tribes have a negative view of dogs and generally do not have pets.
 
 
@@ -45,6 +45,8 @@ slug: social-life
 
 - Men must have beards.[^1] They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
 
+- Shirts must hang down long enough that the person's belly button doesn't show when they lift their hands in worship.
+
 
 ## Race & Ethnicity
 
@@ -53,6 +55,17 @@ slug: social-life
 - Interracial marriage was previously prohibited, but is now permitted.
 
 - The Tribes view historic American slavery as "not wrong" and state that it provided the proper social order for blacks. They disagree with Abraham Lincoln freeing the slaves and they condemn Martin Luther King Jr.
+
+
+## Childcare
+
+- The Tribes desire that married couples have many children, which is part of their end times theology. Artificial birth control is generally frowned upon, and couples are expected to start having children soon after getting married.
+
+- Adults are required to use corporal punishment when disciplining children. There have been many reports of child abuse committed under the banner of "discipline," including severe beatings, locking children in rooms for days, and depriving children of food.
+
+- Children attend school only up to grade 8, with all classes taught on Tribes' property by group members.
+
+- Kids are not allowed to have toys and dolls, and are prohibited from playing organized sports and video games. They are supposed to stay busy enough that they they don't have time for "playing pretend." They are typically not allowed to use phones and computers. They are not allowed to read fiction or watch TV. They are often prohibited from interacting with other children their age, in order to prevent "foolishness."
 
 
 ## Food
@@ -85,12 +98,14 @@ slug: social-life
 
 - Members are told that they are doing God's work and preparing for the End Times. Therefore, a high level of commitment and work-ethic is expected.
 
+- Members wake up at 6:00am every day, except for 7:00am on Saturdays.
+
 - Members are assigned to work (without pay) a significant number of hours each week. Many former members report 80+ hours of work weekly (16-hour work days).
 
 - Members are moved around the country (or internationally) where the leadership deems they are needed.
 
 
-## Structure & Accountabilty
+## Structure & Accountability
 
 - The Tribes have a hierarchy with firm authority (including responsibilities & privileges) at each level.
 
@@ -99,8 +114,6 @@ slug: social-life
 - The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as shepherds/elders (overseeing spiritual matters) and sextons (overseeing physical matters).
 
 - Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" -- a person(s) who provides guidance and oversight.
-
-- Adults are required to use corporal punishment when disciplining children. There have been many reports of child abuse committed under the banner of "discipline," including severe beatings, locking children in rooms for days, and depriving children of food.
 
 - Submission to authority must happen both physically and mentally. Independent thinking or dissent is viewed as a spiritual threat. "Rebellious" members who don't accept correction are sent away from the community, with their eternal destiny considered to be at risk.
 
