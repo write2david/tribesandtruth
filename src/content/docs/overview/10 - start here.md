@@ -12,7 +12,7 @@ slug: start
 
 - This website provides details about the group, its history, its activities, and its beliefs.
 
-- To read additional topics, use the menu (on the left or at the top), or the "Next" button at the bottom of each page.
+- To read additional topics, use the menu (on the left or at the top). Or the "Next" button at the bottom of each page.
 
 - Send your feedback or questions via <a href="https://www.facebook.com/TwelveTribesInfo">Facebook Messenger</a> or join [the Facebook Group](https://www.facebook.com/groups/twelvetribes).
 :::
@@ -24,15 +24,17 @@ slug: start
 
 - His 3rd wife Marsha (known as *Hâ-Êmeq* in the group) is very influential and is still alive today.
 
-- Gene was considered the lead apostle, and his right-hand man was Eddie Wiseman (or "Hakam"). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
+- Gene was considered the lead apostle, and his right-hand man was Eddie Wiseman (or *Hakam*). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
 
 - Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D) but had no children with Marsha. This means that both the founder and cofounder have no children currently living in the group.
 
 - The group originally called itself the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
 
-- After they observed pushback and spiritual apathy in that city (a story is disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
+- Being frustrated with the spiritual apathy and social pushback in their city (a story is disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 
-- In 1995, the group renamed themselves again, this time to "The Twelve Tribes Communities" (with "The Commonwealth of Israel" sometimes used as a tagline). By this time, they had established additional communities in various parts of North America and other continents, which were eventually divided into twelve regions (or "tribes").
+- In 1995, the group renamed themselves again, this time to "The Twelve Tribes Communities." Periodically, "The Commonwealth of Israel" was used as a tagline. By this time, they had started to establish additional communities in various parts of North America and other continents, which were divided into regions (or "tribes").
+
+- In 2006, the eastern United States (where the majority of communities existed) was divided into two Tribes, which allowed a twelfth Tribe to be formalized (eleven years after adopting "The Twelve Tribes" as their name).
 
 
 ## Group Dynamics

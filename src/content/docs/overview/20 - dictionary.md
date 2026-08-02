@@ -12,10 +12,10 @@ slug: dictionary
 
 - This page provides a dictionary (glossary) for terminology that the Tribes uses.
 
-- Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.
+- Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.[^1]
 
-- Some terms have biblical connections, though many of them have been given different definitions compared to biblical usage (and some are not found in biblical Scripture at all). The Tribes sometimes uses Hebrew for terms that the New Testament does not use Hebrew for.
-:::
+- Terminology sometimes changes over time. For example, the word "Christian" was included in a previous (official) name for the Tribes, but they now strongly condemn "Christian." The tribe named "Yehudah" was previously called "Judah." The tribe of "Levi" used to be identified as [the country of Germany](https://web.archive.org/web/20030402141129/http://www.twelvetribes.com/whereweare/index.htm), but is now identified as the Czech Republic.
+::
 
 ## Glossary of Twelve Tribes Terminology
 
@@ -125,3 +125,5 @@ slug: dictionary
 
 
 **Yoneq:** The Hebrew name for the group’s founder, Gene Spriggs, who is viewed as the primary spiritual authority and teacher.
+
+[^1]: Some of the Tribes' terms have biblical connections, though many of them have been given different definitions compared to biblical usage. Some religious terms are not found in biblical Scripture at all. The Tribes sometimes uses Hebrew for terms that the New Testament does not use Hebrew for.
