@@ -27,6 +27,7 @@ slug: more
   - [TikTok](https://www.tiktok.com/discover/tamara-mathieu)
   - [YouTube Interview](https://www.youtube.com/watch?v=a5GP5q0bidY)
   - [Facebook](https://www.facebook.com/people/Tamara-Mathieu-Author/61558399027295/)
+  - [Book](https://www.amazon.com/gp/product/1578691176/)
 
 
 ## Websites
@@ -46,7 +47,9 @@ slug: more
 
 - **"People Magazine Investigates" -** ["The Secrets of the Twelve Tribes Cult"](https://vimeo.com/1173434711/8776360b2a)
 
-- **"Inside the Tribe" -** [Spotify](https://open.spotify.com/show/2CG58YDV7p8vamvYq7WhgK) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-the-tribe/id1533629268)
+- **"Inside the Tribe" -** [Spotify](https://open.spotify.com/show/2CG58YDV7p8vamvYq7WhgK) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-the-tribe/id1533629268) and [interview with podcast host](https://www.ltaspod.com/inside-the-tribe).
+
+- **"Let's Talk About Sects" -** [Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
 
 - **"Let's Talk About Sects" -** [Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
 

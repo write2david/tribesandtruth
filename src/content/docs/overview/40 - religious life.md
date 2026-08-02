@@ -31,6 +31,8 @@ slug: religious-life
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
+- Despite sharing much theology with conservative Christianity, and despite the additional similarities listed below, the Tribes strongly condemn Christianity.
+
 - Like certain groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
 
 - Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots), the Tribes put some Jewish Old Testament teachings into modern practice.
@@ -62,7 +64,7 @@ slug: religious-life
 
 - The Tribes add a third (middle) category of humanity:[^3] people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
 
-- Unique pieces of endtimes theology: (1) True believers will end up ruling galaxies or planets. (2) True believers can end up paying for their own sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God. (3) Some who leave the Twelve Tribes are considered condemned to hell for eternity.
+- Unique pieces of end times theology: (1) True believers will end up ruling galaxies or planets. (2) True believers can end up paying for their own sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God. (3) Some who leave the Twelve Tribes are considered condemned to hell for eternity.
 
 
 ## Religious Gatherings
@@ -71,7 +73,7 @@ slug: religious-life
 
 - **Friday evening:** The Sabbath begins at sundown with a festive celebration designed for inviting & evangelizing outsiders. The evening includes a meal, circle dancing, and folk music.
 
-- **Saturday night:** The "Breaking of Bread" begins at 10:00pm and is only for baptized members. This ceremony is expanded beyond the traditional Lord's Supper that most Christians would recognize. Candles are lit and members participate barefoot (in past years, they were required to wash their feet ahead of time). Soup is provided with the bread.[^4] The ceremony includes bowing, prayer, singing, and sharing about how the past week went.
+- **Saturday night:** The "Breaking of Bread" begins at 10:00pm with the sounding of a shofar, and is only for baptized members. This ceremony is somewhat similar to the traditional "Communion" (Lord's Supper) that most Christians would recognize, but with several adjustments. Candles are lit and members participate barefoot.[^4] Soup is provided with the bread.[^5] The ceremony includes bowing, prayer, and singing. After self-examination, participants drink a "Victory Cup"[^6] if they lived a life of purity and unity during the past week, and they share about their spiritual victories or defeats.
 
 - **Jewish Holidays:** The Tribes celebrate New Moon Festivals, Passover, Pentecost, the Day of Atonement, Bar Mitzvah and Bat Mitzvah, etc.
 
@@ -84,4 +86,8 @@ slug: religious-life
 
 [^3]: Most of Christianity has traditionally taught that there are only two categories of people: everyone who is guilty of sin, and everyone who has sinned but has accepted God's offer of forgiveness/salvation.
 
-[^4]: Though members are not allowed to dip the bread in the soup.
+[^4]: In past years, participants were required to wash their feet prior to the ceremony.
+
+[^5]: Though members are not allowed to dip the bread in the soup.
+
+[^6]: This "cup" is considered to be *not the same* as the Christian "cup" of the Lord's Supper.
