@@ -32,6 +32,8 @@ slug: social-life
 
 - The group is known for their folk-style music and dancing, simple and "natural" esthetic, and rejection of other organized religions.
 
+- They are instructed not to use "How are you?" when greeting people.
+
 - The Tribes have a negative view of dogs and generally do not have pets.
 
 
