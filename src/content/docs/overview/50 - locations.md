@@ -10,11 +10,13 @@ slug: locations
 :::tip[Overview]{icon="sun"}
 - The group has divided itself up into "Tribes" (regions of the world), which are then divided up into "Clans" (communities).
 
-- The names of the "Tribes" are based on the twelve tribes of Israel as listed in [^1].
+- The names of the various "Tribes" are based on the twelve tribes of Israel as listed in the Bible[^1].
 
-- The defined region of each "Tribe" has sometimes been adjusted. Likewise, new "Clans" have periodically opened and a number of them have closed.[^2]
+- The defined region of each "Tribe" has sometimes been adjusted over time. For example, the tribe of "Levi" used to be associated [only with Germany](https://web.archive.org/web/20030402141129/http://www.twelvetribes.com/whereweare/index.htm), but is now associated only with the Czech Republic.
 
-- Headquarters have moved from Chattanooga TN to Island Pond VT to [Hiddenite NC](https://www.google.com/maps/@35.9080766,-81.0918391,3a,15y,39.69h,87.91t/data=!3m7!1e1!3m5!1sT9MLb9ImMb52VfA__rFcdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0934441949268177%26panoid%3DT9MLb9ImMb52VfA__rFcdQ%26yaw%3D39.686394287600514!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D).
+- Likewise, new "Clans" have periodically opened and a significant number of them have closed.[^2]
+
+- The Tribes' international headquarters have moved from Chattanooga TN to Island Pond VT to [Hiddenite NC](https://www.google.com/maps/@35.9080766,-81.0918391,3a,15y,39.69h,87.91t/data=!3m7!1e1!3m5!1sT9MLb9ImMb52VfA__rFcdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.clients6.google.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.0934441949268177%26panoid%3DT9MLb9ImMb52VfA__rFcdQ%26yaw%3D39.686394287600514!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D).
 
 - The Northeastern United States plays a major role in the early history of the Tribes and contains the highest number of Clans (communities). The Southeastern U.S. contains the next-highest number of clans.
 :::
@@ -82,7 +84,7 @@ Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England
 - [New Sprout Farm](https://web.archive.org/web/20171113170407/http://twelvetribes.org/community/new-sprout-farm) in Merville, British Colombia.
 - [The community](https://web.archive.org/web/20171113191254/http://twelvetribes.org/community/fort-myers) in Fort Myers, Florida.
 - [Bear Creek Farm](https://web.archive.org/web/20171113191221/http://twelvetribes.org/community/marshall) in Marshall, Michigan.
-- [BOJ Farms](https://web.archive.org/web/20171113183041/http://twelvetribes.org/community/raynham) in Raynham, Massachusetts.
+- [BOJ Farms](https://web.archive.org/web/20171113183041/http://twelvetribes.org/community/raynham) / [Pleasant Street Farm](https://web.archive.org/web/20220626195019/https://twelvetribes.org/farms#map) in Raynham, Massachusetts.
 - [The community](https://web.archive.org/web/20171113204923/http://twelvetribes.org/community/irun) in Irun, Spain.
 - [The community](https://web.archive.org/web/20171113170303/http://twelvetribes.org/community/community-aquiraz) in Aquiraz, Brazil.
 - [The community](https://web.archive.org/web/20171113191057/http://twelvetribes.org/community/coledale) in Coledale, Australia.
@@ -92,3 +94,5 @@ Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England
 - [The community](https://web.archive.org/web/19990202052811/http://www.twelvetribes.com/Community%20in%20Oberbronnen.html) in Stödtlen-Oberbronnen, Germany.
 - [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Osterholz-Scharmbeck-Pennigbüttel, Germany
 - [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Zeberio, Spain.
+- [Gatherings Grove Farm](https://web.archive.org/web/20220626195019/https://twelvetribes.org/farms) in Bokeelia, Florida.
+- [The community](https://web.archive.org/web/20041024230116/http://twelvetribes.org/whereweare/coloradosprings.html) in Loveland, Colorado.
