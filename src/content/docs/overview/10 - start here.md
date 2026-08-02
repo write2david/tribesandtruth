@@ -49,13 +49,13 @@ slug: start
 
 - Recruitment and public outreach often happen in local communities (especially during Friday evening events), in their Yellow Deli restaurant chain, during "Open Forum" events, in their large "Peacemaker" buses & [ship](https://en.wikipedia.org/wiki/Peacemaker_(ship)), and during other outreach efforts.
 
-- Membership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men the group, on multiple continents, over a 20-year period.
+- Membership in the Tribes declined after it came out that the founder's wife had sexual relationships with multiple younger men in the group, on multiple continents, over a 20-year period.
 
-- Further disillusionment has come from difficult situations including child abuse, harsh leadership, a homicide within the community, an elder convicted of child rape & battery, and the death of the founder.
+- Further disillusionment has come from situations of child abuse, harsh leadership, a homicide within the community, an elder convicted of child rape & battery, and the death of the founder.
 
 - Yet, leaving the Tribes is often very difficult for primarily 5 reasons:
 
-  1. Members of the Tribes are taught that exiting the group will result in tragedies related to health, morals, and safety, as well as going to hell after dying. Fear is often a powerful motivation for staying.
+  1. Members of the Tribes are taught that exiting the group will result in various types of tragedies (related to health, morals, and safety), as well as going to hell after dying. Fear is often a powerful motivation for staying in the group.
   
   2. Members who grew up in the Tribes often struggle to know how to function in society apart from the group, since they have never lived independently.
   
