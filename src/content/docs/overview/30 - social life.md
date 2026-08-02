@@ -41,7 +41,7 @@ slug: social-life
 
 - Clothing must be made primarily from wool, cotton, or linen.
 
-- Women wear dresses (or "sus pants") and religious head coverings.
+- Women wear dresses (or "sus pants") and religious head coverings. They are not supposed to shave their legs.
 
 - Men must have beards.[^1] They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
 
@@ -78,9 +78,9 @@ slug: social-life
 
 - They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
 
-- They prefer goat milk rather than cow milk.[^3]
+- They prefer goat milk rather than cow milk.[^3]  Member are restricted from eating lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
-- Also restricted from consumption: lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
+- A variety of foods, such as pumpkin seeds, are promoted for their supposed[^5] health benefits.
 
 
 ## Healthcare
@@ -132,3 +132,5 @@ slug: social-life
 [^3]: Additional comments from the Tribe's internal documents: "lots of dairy products will make a person fat like a little cow" and "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious."
 
 [^4]: Occasionally spelled "qahal" or "chahal," this is a *judgment meeting* that can be called as needed.
+
+[^5]: From the Tribes' internal literature: "People have been complaining of pinworms... Our Father [God] told us many years ago to eat pumpkin seeds. There is something in the pumpkin seeds that deals with those pinworms. If you get the medicine in the drugstore it is made from pumpkin seeds."
