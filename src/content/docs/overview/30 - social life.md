@@ -17,7 +17,7 @@ slug: social-life
 
 ## In The Commune
 
-- When joining, new members move into the Tribe's housing, giving the group all their money & belongings. From then on, their are to receive their physical needs from the community, and are not allowed to borrow anything from non-members.
+- When joining the group, new members move into the Tribe's housing, giving up all their money & belongings. From then on, they are to receive all their physical needs from the Tribes, and are not allowed to borrow anything from non-members.
 
 - Members typically live together in large, extended-family households where access to TV's, radio, and the Internet is either limited or non-existent.
 

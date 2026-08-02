@@ -9,6 +9,10 @@ slug: locations
 
 :::tip[Overview]{icon="sun"}
 - The group has divided itself up into "Tribes" (regions of the world), which are then divided up into "Clans" (communities).
+
+- The defined region of each "Tribe" has sometimes been adjusted. Likewise, "Clans" have periodically grown, shrunk, opened, and closed.
+
+- The Northeastern United States plays a major role in the early history of the Tribes and contains the highest number of Clans (communities).
 :::
 
 ## The Locations of the Twelve Tribes
@@ -29,13 +33,13 @@ Primary locations include general association with the Midwest; specific communi
 
 Primary locations include Chilliwack, Courtenay, and Nelson (British Columbia); Kingston (Ontario); Winnipeg (Manitoba).
 
-### Issachar: South America (especially Spanish-speaking South America)
+### Issachar: Spanish-Speaking South America
 
 Primary locations include Buenos Aires area, General Rodríguez, and Sierra de los Padres (Argentina).
 
-### Levi: Eastern and Central Europe
+### Levi: Czech Republic
 
-Primary locations include Mšecké Žehrovice, Skalná, and Hvězdlice (Czech Republic); Cluj-Napoca (Romania).
+Primary locations include Mšecké Žehrovice, Skalná, and Prague.
 
 ### Manasseh: Midwestern United States and Colorado
 
@@ -45,9 +49,9 @@ Primary locations include Overbrook and Lawrence (Kansas); Warsaw (Missouri); Bo
 
 Primary locations include Campo Largo, General Carneiro, and Londrina (Paraná); Itapecerica da Serra (São Paulo).
 
-### Reuben: France and Southeast Europe
+### Reuben: France and Romania
 
-Primary locations include Sus (near Navarrenx, France); Romania and related Southeast European locations.
+Primary locations include Sus (near Navarrenx, France) and Romania. Due to legal pushback, the Tribes moved most of their members (including all children) out of France.
 
 ### Shimon (Simeon): Spain and North Africa
 

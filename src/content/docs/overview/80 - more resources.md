@@ -51,8 +51,6 @@ slug: more
 
 - **"Let's Talk About Sects" -** [Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
 
-- **"Let's Talk About Sects" -** [Thomas Parsons](https://www.ltaspod.com/thomas-parsons) (former member)
-
 - **Daughter of Tribes' Cofounder -** [Podcast Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Podcast Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
 - **A&E Investigates** [Official Link](https://www.youtube.com/watch?v=aM4Yl1CzV_I).  *Sections:* [Part 1](https://www.dailymotion.com/video/x7n1z6s) | [Part 2](https://vimeo.com/373983374) | [Part 3](https://www.dailymotion.com/video/x7n1zv9) | [Part 4](https://www.dailymotion.com/video/x7n1zjj)
