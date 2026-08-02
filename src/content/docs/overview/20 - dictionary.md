@@ -126,4 +126,4 @@ slug: dictionary
 
 **Yoneq:** The Hebrew name for the group’s founder, Gene Spriggs, who is viewed as the primary spiritual authority and teacher.
 
-[^1]: Some of the Tribes' terms have biblical connections, though many of them have been given different definitions compared to biblical usage. Some religious terms are not found in biblical Scripture at all. The Tribes sometimes uses Hebrew for terms that the New Testament does not use Hebrew for.
+[^1]: Some of the Tribes' terms have biblical connections, though many of them have been given different definitions compared to biblical usage. Some of the Tribes' religious terms are not found in biblical Scripture at all. The Tribes sometimes uses Hebrew for terms that the New Testament does not use Hebrew for.

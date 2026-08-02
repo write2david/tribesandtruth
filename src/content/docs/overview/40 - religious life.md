@@ -18,7 +18,7 @@ slug: religious-life
 
 ## Teachings
 
-- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions (and re-interpretations) provided by new "revelations."[^1]
+- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions (and biblical re-interpretations) provided by new "revelations."[^1]
 
 - "Freepapers" are magazine-style publications intended to convey the Tribes' beliefs & perspectives (for both public use and internal use).
 
@@ -31,11 +31,9 @@ slug: religious-life
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- Despite sharing much theology with conservative Christianity, and despite the additional similarities listed below, the Tribes strongly condemn Christianity (despite the fact that "Christian" was part of a previous official name of their group).
+- The Tribes strongly condemn Christianity, regardless of the fact that they share much of their theology with conservative Christianity (including the additional similarities listed below), and despite having "Christian" an part of a previous *official* name for their group.
 
-- The Tribes often provides Scripture references for their teaching. While the Scripture normally has some topical connection to their teaching, the Scripture often does not actually support the Tribes' statement.
-
-- Like certain groups, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
+- Similar to a number of other sects, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
 
 - Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots), the Tribes put some Jewish Old Testament teachings into modern practice.
 
@@ -44,6 +42,8 @@ slug: religious-life
 - The Tribes are one of many groups within the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), believing that they have restored the original Church from the Book of Acts.[^2]
 
 - The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions have sometimes been made for certain events or business opportunities).
+
+- The Tribes often provides Scripture references for their teaching. While the Scripture references normally have some topical connection to the Tribes' teaching, the Scripture references sometimes do not actually support the Tribes' teaching.
 
 
 ## Top Unconventional Beliefs
@@ -56,7 +56,7 @@ slug: religious-life
 
 - There are no true believers in the world apart from the Tribes. Salvation is found only in the Tribes.
 
-- Jesus is not the eternal second Person of the Trinity who became a human at His birth (in contrast with the majority belief within Christianity). Rather, He was a regular human with a miraculous birth and who "housed" Divinity (a view typically known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
+- Jesus is not the eternal second Person of the Trinity who became a human at His birth (in contrast with the majority belief within Christianity). Rather, He began his existence via a miraculous birth, though which he was able to "house" Divinity within Himself (an uncommon view typically known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
 
 - God provides new revelations (beyond the Bible) to the Tribes' leadership.
 

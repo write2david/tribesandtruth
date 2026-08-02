@@ -23,7 +23,7 @@ slug: social-life
 
 - New members are given Hebrew names. Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
 
-- Despite statements to the contrary, some upper leadership enjoy additional privileges such as having their own houses, pool, TV, and even an island in Florida.
+- Some upper leadership enjoy additional privileges (despite statements to the contrary), including having their own houses, pool, TV, and even a separate island off the coast of Florida.
 
 
 ## Internal Culture
@@ -47,7 +47,7 @@ slug: social-life
 
 - Men must have beards.[^1] They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
 
-- Shirts must hang down long enough that the person's belly button doesn't show when they lift their hands in worship.
+- Shirts must hang down long enough that the person's belly button doesn't show when they lift their hands above their heads.
 
 
 ## Race & Ethnicity
@@ -91,9 +91,9 @@ slug: social-life
 
 - Most babies are delivered at home rather than in a hospital.
 
-- Babies and children in the Tribes do not get vaccinated. 
+- Most babies and children in the Tribes do not get vaccinated. 
 
-- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The suffering is considered God's punishment, and person is called to confess and repent (with additional punishing consequences provided by the Tribes). Mothers who have a stillbirth are sometimes told their child died because of the mother's sin.
+- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The sickness or injury is considered God's punishment, and person is called to confess and repent (with additional punishing consequences sometimes provided by the Tribes). Mothers who have a stillbirth are sometimes told their child died because of the mother's sin.
 
 
 ## Motivation
