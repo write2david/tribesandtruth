@@ -91,9 +91,8 @@ Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England
 - [The community](https://web.archive.org/web/20171113191057/http://twelvetribes.org/community/coledale) in Coledale, Australia.
 - [Peppercorn Creek Farm](https://web.archive.org/web/20180101150837/http://twelvetribes.org/community/peppercorn-creek-farm) in Picton, Australia.
 - [The community](https://web.archive.org/web/19990202045609/http://www.twelvetribes.com/Community%20in%20Boston.html) in Boston (Dorchester), Massachusetts.
-- [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Coxsackie, New York.
 - [The community](https://web.archive.org/web/19990202052811/http://www.twelvetribes.com/Community%20in%20Oberbronnen.html) in Stödtlen-Oberbronnen, Germany.
-- [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Osterholz-Scharmbeck-Pennigbüttel, Germany
+- [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Osterholz-Scharmbeck-Pennigbüttel, Germany.
 - [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Zeberio, Spain.
 - [Gatherings Grove Farm](https://web.archive.org/web/20220626195019/https://twelvetribes.org/farms) in Bokeelia, Florida.
 - [The community](https://web.archive.org/web/20041024230116/http://twelvetribes.org/whereweare/coloradosprings.html) in Loveland, Colorado.
