@@ -79,7 +79,6 @@ Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England
 - [Stepping Stone Farm](https://web.archive.org/web/20130530193751/http://twelvetribes.org/community/stepping-stone-farm) in Weaubleau, Missouri.
 - [The community](https://web.archive.org/web/20000929180426/http://www.twelvetribes.com/Community%20in%20Palenville.html) in Palenville, New York.
 - [Jog Run Farm](https://web.archive.org/web/20000929180436/http://www.twelvetribes.com/Jog%20Run%20Farm.htm) in West Palm Beach, Florida.
-- [Morning Star Ranch](https://web.archive.org/web/20171113195446/http://twelvetribes.org/community/morning-star-ranch) in Valley Center, California.
 - [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Colorado Springs, Colorado.
 - [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in St. Joseph, Missouri.
 - [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Harrisonburg, Virginia.
