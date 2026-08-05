@@ -15,7 +15,7 @@ slug: dictionary
 - Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.[^1]
 
 - Terminology sometimes changes over time. For example, the word "Christian" was included in a previous (official) name for the Tribes, but they now strongly condemn "Christian." The tribe named "Yehudah" was previously called "Judah." The tribe of "Levi" used to be identified as [the country of Germany](https://web.archive.org/web/20030402141129/http://www.twelvetribes.com/whereweare/index.htm), but is now identified as the Czech Republic.
-::
+:::
 
 ## Glossary of Twelve Tribes Terminology
 
