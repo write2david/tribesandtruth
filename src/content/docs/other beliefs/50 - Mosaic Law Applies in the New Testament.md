@@ -15,13 +15,14 @@ banner:
 
 ## Response
   
-1. Quote from the Book of Mark: "he pronounced all foods clean"
-
+The Mosaic Law was given to the Jews and does not apply to Christians.
 
 <br>
 
 ***
 
 ## Explanation
-- Text goes here.
 
+1. Quote from the Book of Mark: "he pronounced all foods clean."  The Tribes attempt to get around this by saying that "unclean foods" are not actually "foods." The problem with that is that the Bible uses the word "foods" when describing "unclean foods."
+
+2. Luke 16 says that "the law and the prophets were *until* John [the Baptist]."

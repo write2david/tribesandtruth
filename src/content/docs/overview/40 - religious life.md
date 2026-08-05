@@ -31,9 +31,9 @@ slug: religious-life
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- The Tribes strongly condemn Christianity, regardless of the fact that they share much of their theology with conservative Christianity (including the additional similarities listed below), and despite having "Christian" an part of a previous *official* name for their group.
+- However, the Tribes strongly condemn Christianity despite having "Christian" an part of a previous *official* name for their group, and despite the additional similarities listed below.
 
-- Similar to a number of other sects, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
+- Along with a number of other sects, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
 
 - Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots), the Tribes put some Jewish Old Testament teachings into modern practice.
 
@@ -42,6 +42,8 @@ slug: religious-life
 - The Tribes are one of many groups within the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), believing that they have restored the original Church from the Book of Acts.[^2]
 
 - The Tribes align with [Sabbath-keeping churches](https://en.wikipedia.org/wiki/List_of_Seventh-day_Sabbath-keeping_churches) by resting from [Friday evening to Saturday evening](https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches) (though exceptions have sometimes been made for certain events or business opportunities).
+
+- The Tribes are one of many [intentional religious communities](https://en.wikipedia.org/wiki/Religious_intentional_community) and are sometimes compared to the [Bruderhof](https://en.wikipedia.org/wiki/Bruderhof_Communities).
 
 - The Tribes often provides Scripture references for their teaching. While the Scripture references normally have some topical connection to the Tribes' teaching, the Scripture references sometimes do not actually support the Tribes' teaching.
 

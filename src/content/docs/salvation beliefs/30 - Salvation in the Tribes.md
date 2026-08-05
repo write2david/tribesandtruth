@@ -13,7 +13,7 @@ banner:
 - The Tribes believe that a person must believe in Jesus, be baptized,  give up all their possessions, and live in community to be saved.
 - But they also believe that a person who does these things apart from the Twelve Tribes is still not saved.
 - And so the Tribes is the only place to be saved, according to them.
-- Pull in the topic of someone supposedly being inable to be saved by reading the Bible.
+- The Tribes believe that people are unable to be saved by reading the Bible, and that someone can come to salvation only by meeting a member of the Tribes.
 :::
 
 ## Response
@@ -26,5 +26,5 @@ banner:
 ***
 
 ## Explanation
-- Text goes here.
 
+1. The Tribes point to themselves as the only visible expression of God's kingdom on earth.  Luke 17: the kingdom of God is not coming in a way that can be observed, in contrast to how the tribes like to point to themselves as the observable Church, the one place that you can see God on Earth.

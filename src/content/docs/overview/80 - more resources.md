@@ -26,6 +26,7 @@ slug: more
 - **Tamara Mathieu** (former member):
   - [TikTok](https://www.tiktok.com/discover/tamara-mathieu)
   - [YouTube Interview](https://www.youtube.com/watch?v=a5GP5q0bidY)
+  - [YouTube Interview + son](https://www.youtube.com/live/fbSuXB-Tenc)
   - [Facebook](https://www.facebook.com/people/Tamara-Mathieu-Author/61558399027295/)
   - [Book](https://www.amazon.com/gp/product/1578691176/)
 
@@ -65,7 +66,7 @@ slug: more
 - **Germany:** ["Cameras catch ‘cold and systematic’ child-beating"](https://www.independent.co.uk/news/world/europe/in-germany-s-twelve-tribes-sect-cameras-catch-cold-and-systematic-childbeating-8807438.html)
 
 - **Massachusetts:** [Tribes elder sentenced for child rape & battery](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/).
-  - Convicted of 25 charges across multiple Tribes communities, only after [non-members reported it to authorities](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
+  - Convicted of [25 charges](https://www.boston.com/news/local-news/2024/10/02/south-shore-cult-elder-guilty-of-child-rape-to-serve-at-least-30-years-in-prison/) across multiple Tribes communities, only after [non-members reported it to authorities](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
 
 <br>
 
@@ -88,6 +89,8 @@ slug: more
 - **US & Canada:** [Video news articles from the 1990's](https://question12tribes.com/12-tribes-us-tv-news/)
 
 - **Australia:** [Interview with former Tribes elder](https://www.youtube.com/watch?v=918Su4VgiY4) who was [later murdered](https://www.nine.com.au/australia-news/a-current-affair/controversial-twelve-tribes-cult-elder-has-died-in-allegedly-deliberately-lit-fire-on-rural-property-20200901-p5r3zz.html) after the Tribes property [was raided by police](https://www.facebook.com/watch/?v=168340141285211).
+
+- **Florida:** [Yellow Deli worker arrested](https://www.sheriff-okaloosa.org/shalimar-on-the-run-since-2007-finally-in-custody/) for past unlawful sexual activity with a minor.
 
 
 ## Books About the Tribes
