@@ -11,6 +11,15 @@ export default defineConfig({
 		starlight({
 
 			title: 'Twelve Tribes Info',
+			
+			social: [
+        {
+          icon: 'facebook',
+          label: 'Facebook Page',
+          href: 'https://www.facebook.com/TwelveTribesInfo',
+        },
+      ],
+
       
 			favicon: '/favicon.png',
 
