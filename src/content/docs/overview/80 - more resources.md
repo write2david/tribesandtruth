@@ -19,7 +19,7 @@ slug: more
 
 - [**Our Facebook Page**](https://www.facebook.com/TwelveTribesInfo)
 
-- [**Our Facebook Group**](https://www.facebook.com/groups/twelvetribes)
+- [**Our Facebook Discussion Group**](https://www.facebook.com/groups/twelvetribes)
 
 - [**"Question 12 Tribes" Facebook Group**](https://www.facebook.com/groups/question12tribes)
 

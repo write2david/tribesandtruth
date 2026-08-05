@@ -14,7 +14,7 @@ slug: start
 
 - To read additional topics, use the menu (on the left or at the top). Or the "Next" button at the bottom of each page.
 
-- Send your feedback or questions via <a href="https://www.facebook.com/TwelveTribesInfo">Facebook Messenger</a> or join [the Facebook Group](https://www.facebook.com/groups/twelvetribes).
+- Send your feedback or questions via <a href="https://www.facebook.com/TwelveTribesInfo">Facebook Messenger</a> or join our [Facebook Discussion Group](https://www.facebook.com/groups/twelvetribes).
 :::
 
 
