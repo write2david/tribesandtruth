@@ -92,6 +92,7 @@ slug: more
 
 - **Florida:** [Yellow Deli worker arrested](https://www.sheriff-okaloosa.org/shalimar-on-the-run-since-2007-finally-in-custody/) for past unlawful sexual activity with a minor.
 
+- **[Southern Poverty Law Center](https://en.wikipedia.org/wiki/Southern_Poverty_Law_Center):** [Into The Darkness](https://www.splcenter.org/resources/reports/darkness/)
 
 ## Books About the Tribes
 
