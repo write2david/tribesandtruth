@@ -14,6 +14,10 @@ slug: dictionary
 
 - Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.[^1]
 
+- Regions of the world are referred to by the name of the Tribe associated with that region. Instead of saying "Canada," members would say "Gad."
+
+- Ethnicities are referred to using \[artificial\] Hebrew terms, based on their \[incorrect\] biblical origins. White people are "Shemites." Black people are "Chamites." Asians are "Yapheth."
+
 - Terminology sometimes changes over time. For example, the word "Christian" was included in a previous (official) name for the Tribes, but they now strongly condemn "Christian." The tribe named "Yehudah" was previously called "Judah." The tribe of "Levi" used to be identified as [the country of Germany](https://web.archive.org/web/20030402141129/http://www.twelvetribes.com/whereweare/index.htm), but is now identified as the Czech Republic.
 :::
 
@@ -57,6 +61,7 @@ slug: dictionary
 
 **Freepaper:** Literature produced by the communities to spread their message and invite outsiders to visit their homes or farms.
 
+**Friday Night:** The beginning of the Saturday Sabbath, which includes an evening "gathering" (larger event geared partially intended for recruitment of new members) with a nicer meal ("evening shadows" is the name given to the hors d’oeuvres served at this meal). The day prior is "Preparation Day" in which the whole house is cleaned.
 
 **Grafting:** The spiritual process by which individuals from "the nations" are brought into the group to become part of the restored Twelve Tribes.
 
@@ -69,6 +74,7 @@ slug: dictionary
 
 **Israel:** Within the community, this refers to their restored twelve-tribed spiritual nation rather than the modern political state in the Middle East.
 
+**Intertribal News:** A publication (abbreviation "ITN") produced by the Tribes and distributed to members, geared toward providing updates from various tribes/communities/members and to teach the Tribes' beliefs and perspectives.
 
 **Lawlessness:** Any "independent action" or movement by a member that occurs outside the direction of their spiritual authority or the community’s government.
 
