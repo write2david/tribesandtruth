@@ -28,8 +28,6 @@ banner:
 
 - The offspring of a cow is a cow. The child of a human is a human. The eternal son of God is divine.
 
-<br>
-
 ***
 
 ## Explanation
