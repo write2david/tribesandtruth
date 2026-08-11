@@ -53,7 +53,7 @@ banner:
    When people got renamed in the New Testament, it seems they got renamed to Greek names even if they had Hebrew names previously. Examples of Jews receiving non-Hebrew names: Saul was called Paul (Acts 13:9), Simon was called Peter (Matthew 10:2), Simeon was called Niger (Acts 13:1), and Jesus (a name from Hebrew) was called Justus (from Latin) in Colossians 4:11. Even the Messiah was called Christ (John 4:25).
 
 5. **Aramaic, Not Hebrew, Was the Common Spoken Language in Jesus' Day.**
-   In fact, the Gospels are full of examples where Aramaic, and not Hebrew, was used by Jesus and the Jews.
+   In fact, the Gospels are full of examples where Aramaic, and not Hebrew, was used by Jesus and the Jews. Even the word "Abba" (used frequently within the Tribes) was Aramaic, and was adopted by the Hebrew language only after Jesus' time on earth.
 
     - **Matthew 5:22** – *Raca* ("Fool", "empty-headed", or "worthless person")
     - **Matthew 6:24** – *Mammon* ("Money", "wealth", or "possessions")
@@ -74,6 +74,7 @@ banner:
     - **1 Corinthians 16:22** – *Maranatha* ("Our Lord, come!" or "The Lord has come")
     - **Galatians 4:6** – *Abba* ("Father" or "the Father")
 
+
 6. **Early Believers Used Standard Greek Terms.**
    Believers in the early church used the word “Jesus” and the word “Christ” when talking to other believers (example: 1 Clement 21:6).
 
@@ -81,7 +82,7 @@ banner:
    Unlike the Tribes, the New Testament does not use the word "Edah" to refer to church or community. And the New Testament word for "church" does not come from Hebrew.
 
 8. **The New Testament Manuscripts Are Written Entirely in Koine Greek.**
-   The ultimate proof that early Christians did not adopt a "Hebrew-only" vocabulary is that the Holy Spirit inspired the entire New Testament to be written and preserved in Koine Greek rather than Hebrew. Even when writing to predominantly Jewish-Christian audiences (such as the Epistles of Hebrews, James, and Peter), the authors wrote in Greek rather than Hebrew.
+   The ultimate proof that early Christians did not adopt a "Hebrew-only" vocabulary is that the Holy Spirit inspired the entire New Testament to be written and preserved in Koine Greek rather than Hebrew. Even when writing to predominantly Jewish-Christian audiences (such as the Epistles of Hebrews, James, and Peter), the authors used Greek terms instead of Hebrew terms.
 
 9. **The Greek Septuagint (LXX) Was the Standard Bible of the Early Church.**
     When Jesus, the Apostles, and early Christians quoted Old Testament scriptures, they overwhelmingly quoted from the Septuagint — the Greek translation of the Old Testament. They routinely used the Greek title ***Kyrios*** ("Lord") and ***Theos*** ("God") to translate Yahweh/Elohim rather than using the original Hebrew letters or pronunciation.
