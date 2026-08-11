@@ -36,17 +36,18 @@ banner:
 ## Explanation
 
 1. **The Apostles Used Greek Names and Terminology.**
-   When reading the New Testament, we observe that the Apostles used Greek (and not Hebrew) when referring to each other and to the Messiah.God inspired the Apostle Paul to use only the Greek name for Jesus (and to use it often). Notice at all the Greek names in Romans 16. When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins:
+   Unlike the Tribes, God inspired the Apostles to use Greek (and not Hebrew) when referring to each other and to Jesus. Notice at all the non-Hebrew names in Romans 16! When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins. For example:
     - **Apollos** (Acts 18:24) – Named after the Greek god Apollo.
     - **Phoebe** (Romans 16:1) – Meaning "bright/radiant," associated with the Greek goddess Artemis/Diana.
     - **Hermes** (Romans 16:14) – Named directly after the Greek messenger god.
     - **Titus, Epaphroditus, Demetrius, and Aristarchus** all retained their standard Greco-Roman names throughout their Christian service.
 
+
 2. **Early Church Writings Did Not Use Hebrew Translations.**
    Hebrew translations were also not used in the early Church writings.
 
 3. **The Twelve Tribes Originally Used English Only.**
-   The Tribes themselves went many years using English only. Creating new Hebrew names for members, and using Hebrew for a few other terms, was not introduced until well after the Tribes were established as an organization. Even after switching to Hebrew usage, the Tribes still used 
+   The Tribes themselves went many years using English only. Creating new Hebrew names for members, and using Hebrew for a few other terms, was not introduced until well after the Tribes were established as an organization. Even after switching to Hebrew usage, the Tribes still used the English word "Judah" (for both the names of individuals and the name of their largest Tribe) and only eventually switched to Yehudah (the transliterated Hebrew version).
 
 4. **New Testament Names Shifted to Greek, Not Hebrew.**
    When people got renamed in the New Testament, it seems they got renamed to Greek names even if they had Hebrew names previously. Examples of Jews receiving non-Hebrew names: Saul was called Paul (Acts 13:9), Simon was called Peter (Matthew 10:2), Simeon was called Niger (Acts 13:1), and Jesus (a name from Hebrew) was called Justus (from Latin) in Colossians 4:11. Even the Messiah was called Christ (John 4:25).
