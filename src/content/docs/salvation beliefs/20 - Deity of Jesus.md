@@ -4,7 +4,7 @@ description: Description
 sidebar:
   label: The Deity of Jesus
   order: 20
-slug: deity-of-jesus
+slug: divinity
 banner:
   content: "<b>This answer is still being written.</b>"
 ---
@@ -36,9 +36,9 @@ banner:
 
 2. Jesus did things that Adam could never have done. Jesus talked about Himself in ways that Adam would have never talked.
 
-3. John 1: The man Jesus existed before John the Baptist, and in context, He is identified as eternal.
+3. The man Jesus existed before John the Baptist, and in context, He is identified as eternal (John 1:15, John 1:30).
 
-4. John 3: The Son of Man descended from heaven and "comes from above."
+4. The Son of Man descended from heaven and "comes from above" (John 3:13, John 3:31).
 
 5. The Trinity is referenced in Genesis 1:26 when God says "Let us make man in our image" (see also Genesis 3:22).
 
@@ -46,7 +46,7 @@ banner:
 
 7. Jesus is called "God over all" and is praised forever (Romans 9:5).
 
-8. God the Father explicitly addresses Jesus as "God" (Hebrews 1:8) and calls Him "YHWH" or "LORD" (Hebrews 1:10).
+8. God the Father explicitly addresses Jesus as "God" (Hebrews 1:8) and calls Him "Yahweh" or "LORD" (Hebrews 1:10).
 
 9. Jesus possesses the full "fullness of deity" in Himself, confirming His nature as uncreated God (Colossians 2:9).
 
@@ -58,42 +58,38 @@ banner:
 
 13. Jesus is prophetically titled the "mighty God" (Isaiah 9:6).
 
-14. Jesus claims divine Old Testament titles reserved exclusively for YHWH, specifically "the first and the last" and "Alpha and Omega" (Isaiah 41:4, Isaiah 44:6, Revelation 1:17, Revelation 2:8, Revelation 22:13).
+14. Jesus claims divine Old Testament titles reserved exclusively for Yahweh, specifically "the first and the last" and "Alpha and Omega" (Isaiah 41:4, Isaiah 44:6, Revelation 1:17, Revelation 2:8, Revelation 22:13).
 
 15. Jesus explicitly claims the divine identity of the Old Testament God, stating "I Am" (Exodus 3:14, John 8:58).
 
 16. The enemies of Jesus recognized that He was claiming to be equal with God (John 5:18, John 10:33).
 
-17. Isaiah's vision of YHWH seated on the heavenly throne was specifically a vision of the pre-incarnate glory of Jesus (Isaiah 6:1–6, John 12:38–41).
+17. Isaiah's vision of Yahweh seated on the heavenly throne was specifically a vision of the pre-incarnate glory of Jesus (Isaiah 6:1–6, John 12:38–41).
 
-18. Jesus shared in the unique glory of YHWH prior to the creation of the world (John 17:1–5).
+18. Jesus shared in the unique glory of Yahweh prior to the creation of the world (John 17:1–5).
 
 19. Jesus is the active Creator through whom all things—including the physical world and everything in Heaven and on earth—were made, excluding Him from being a created thing (John 1:1–3, John 1:10, Colossians 1:15–17).
 
-20. All things exist and endure through Jesus, as He personally laid the foundations of the earth in the beginning (1 Corinthians 15:17, Hebrews 1:10, Hebrews 2:10).
+20. All things exist and endure through Jesus, as He personally laid the foundations of the earth in the beginning (1 Corinthians 8:6, Colossians 1:16–17, Hebrews 1:10, Hebrews 2:10).
 
 21. Jesus is the dynamic source and "Author of life," and God the Father created the entire universe through Him (Acts 3:15, Hebrews 1:2).
 
 22. Jesus holds the divine authority to judge the living and the dead, standing at the center of final judgment alongside God (Psalm 50:6, John 5:22, John 5:27, Romans 14:10, 1 Corinthians 5:12–13, 2 Timothy 4:1, Hebrews 10:31, Hebrews 12:23, Hebrews 13:4, 1 Peter 1:17, 1 Peter 2:23, Revelation 16:5–7, Revelation 18:8, Revelation 18:20, Revelation 19:1–2).
 
-23. Jesus sits at the center of the heavenly throne as the divine Lamb and Shepherd who receives worship (Revelation 7:10, Revelation 7:17).
+23. Jesus sits at the center of the heavenly throne as the divine Lamb and Shepherd who receives worship, sharing the singular heavenly throne and divine glory with the Father as the unified source of eternal light (Revelation 7:10, Revelation 7:17, Revelation 21:23, Revelation 22:1, Revelation 22:3).
 
-24. Jesus shares the singular heavenly throne and divine glory with the Father, acting as the unified source of eternal light (Revelation 21:23, Revelation 22:1, Revelation 22:3).
+24. Jesus is explicitly titled "Lord of lords and King of kings," a designation belonging only to God Almighty (Deuteronomy 10:17, Psalm 136:3, 1 Timothy 6:15, Revelation 5:6–10, Revelation 17:14, Revelation 19:16).
 
-25. Jesus is explicitly titled "Lord of lords and King of kings," a designation belonging only to God Almighty (Deuteronomy 10:17, Psalm 136:3, 1 Timothy 6:15, Revelation 5:6–10, Revelation 17:14, Revelation 19:16).
+25. Jesus dispatching "His angel" identifies Him directly with the God of the prophets who sends "His angel" (Revelation 22:6, Revelation 22:16).
 
-26. Jesus dispatching "His angel" identifies Him directly with the God of the prophets who sends "His angel" (Revelation 22:6, Revelation 22:16).
+26. Jesus is identified directly as "the true God and eternal life" (1 John 5:20).
 
-27. Jesus is identified directly as "the true God and eternal life" (1 John 5:20).
+27. Jesus' statement that "the Father is greater than I" refers to His temporary earthly subordination and human position, not a difference in essential nature (Galatians 4:4–5, John 14:28, Hebrews 2:9, Hebrews 2:14–18).
 
-28. Jesus is designated as the "Son of God," a Semitic idiom denoting equality of nature, order, and essence with God (1 Kings 20:35, Nehemiah 12:28).
+28. Jesus challenged the young ruler on the absolute goodness of God to reveal His own divine identity, as He alone is sinless and truly good (Matthew 19:16–17, Mark 10:17–18, Luke 18:18–19, Hebrews 5:9, Hebrews 7:28).
 
-29. Jesus' statement that "the Father is greater than I" refers to His temporary earthly subordination and human position, not a difference in essential nature (Galatians 4:4–5, John 14:28, Hebrews 2:9, Hebrews 2:14–18).
+29. Plural titles and pronouns used for God in the Old Testament point to the divine plurality of the Trinity, which includes the Son (Genesis 1:26, Genesis 3:22, Genesis 11:7, Ecclesiastes 12:1, Isaiah 6:8, Isaiah 54:5, Hebrews 1:8).
 
-30. Jesus challenged the young ruler on the absolute goodness of God to reveal His own divine identity, as He alone is sinless and truly good (Matthew 19:16–17, Mark 10:17–18, Luke 18:18–19, Hebrews 5:9, Hebrews 7:28).
+30. The "Angel of Yahweh" in the Old Testament represents a manifestation of the pre-incarnate Christ appearing as God Himself (Genesis 16:7–13, Genesis 22:11–18, Exodus 3:2–6, Judges 6:11–24, Judges 13:15–22).
 
-31. Plural titles and pronouns used for God in the Old Testament point to the divine plurality of the Trinity, which includes the Son (Genesis 1:26, Genesis 3:22, Genesis 11:7, Ecclesiastes 12:1, Isaiah 6:8, Isaiah 54:5, Hebrews 1:8).
-
-32. The "Angel of Yahweh" in the Old Testament represents a manifestation of the pre-incarnate Christ appearing as God Himself.
-
-33. Early apostolic fathers such as Polycarp and Ignatius of Antioch affirmed Jesus as eternal God and Christ (Polycarp, *Martyrdom of Polycarp* 14; Ignatius, *To the Ephesians* 7).
+31. Early apostolic fathers such as Polycarp and Ignatius of Antioch affirmed Jesus as eternal God and Christ (Polycarp, *Martyrdom of Polycarp* 14 and *Letter to the Philippians* 12:2; Ignatius, *To the Ephesians* 7).

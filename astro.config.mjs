@@ -9,6 +9,7 @@ export default defineConfig({
 
 redirects: {
     '/using-hebrew': '/hebrew',
+    '/deity-of-jesus': '/divinity',
   },
 
 	integrations: [
