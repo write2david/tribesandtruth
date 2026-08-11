@@ -7,6 +7,10 @@ export default defineConfig({
   site: 'https://www.twelvetribesinfo.com', // Your URL
   base: '/',               // Your Repo Name
 
+redirects: {
+    '/using-hebrew': '/hebrew',
+  },
+
 	integrations: [
 		starlight({
 
