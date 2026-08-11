@@ -26,7 +26,7 @@ banner:
 
 - This view is not what God tells us in the Bible. There are a long list of passages that show that Jesus was existing as the Son of God prior to His birth.
 
-- The offspring of a cow is a cow. The child of a human is a human. The eternal son of God is divine.
+- The offspring of a bird is: a bird. The child of a human is: a human (Genesis 5:3). And the eternal son of God is: divine (John 10:36).
 
 ***
 
@@ -76,7 +76,7 @@ banner:
 
 22. Jesus holds the divine authority to judge the living and the dead, standing at the center of final judgment alongside God (Psalm 50:6, John 5:22, John 5:27, Romans 14:10, 1 Corinthians 5:12–13, 2 Timothy 4:1, Hebrews 10:31, Hebrews 12:23, Hebrews 13:4, 1 Peter 1:17, 1 Peter 2:23, Revelation 16:5–7, Revelation 18:8, Revelation 18:20, Revelation 19:1–2).
 
-23. Jesus sits at the center of the heavenly throne as the divine Lamb and Shepherd who receives worship with God (Revelation 7:10, Revelation 7:17).
+23. Jesus sits at the center of the heavenly throne as the divine Lamb and Shepherd who receives worship (Revelation 7:10, Revelation 7:17).
 
 24. Jesus shares the singular heavenly throne and divine glory with the Father, acting as the unified source of eternal light (Revelation 21:23, Revelation 22:1, Revelation 22:3).
 
