@@ -175,7 +175,7 @@ h2#footnote-label {
 
 
 
-/* Apply only on mobile screens (Starlight's mobile breakpoint is 50rem / 800px) */
+/* Replace the hamburger menu, on mobile screens, with the word "Menu" in order to reduce user confusion */
 @media (max-width: 50rem) {
   starlight-menu-button button {
     display: inline-flex;

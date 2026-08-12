@@ -20,24 +20,24 @@ slug: religious-life
 
 - The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions provided by new "revelations."[^1]
 
-- "Freepapers" are magazine-style publications intended to convey the Tribes' beliefs & perspectives (for both public use and internal use).
+- "Freepapers" are magazine-style publications distributed by the Tribes in order to convey the Tribes' unique beliefs & perspectives. They are geared for both public use and internal use.
 
-- The "InterTribal News" is published & distributed for internal use.
+- The Tribes also publishes the "InterTribal News" and it is distributed primarily for internal use (members).
 
-- Hundreds of teachings from the founder are also intended for internal use (and are further studied at their "School of Prophets").
+- Hundreds of "teachings" from the founder are also intended for internal use (and are further studied at their "School of Prophets").
 
 
 ## Theology
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- However, the Tribes strongly condemn Christianity despite having "Christian" an part of a previous *official* name for their group, and despite the additional similarities listed below.
+- However, the Tribes strongly condemn Christianity (despite having "Christian" an part of a previous *official* name for their group, and despite the additional similarities listed below).
 
 - Along with a number of other sects, the Tribes adhere to the concept of [continuous revelation](https://en.wikipedia.org/wiki/Continuous_revelation). Some of their new "revelations" cause them to depart from traditional Christian beliefs.
 
 - Borrowing from the [Hebrew Roots Movement](https://en.wikipedia.org/wiki/Hebrew_Roots), the Tribes put some Jewish Old Testament teachings into modern practice.
 
-- In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrews names for "God" and "Jesus."
+- In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrew names for "God" and "Jesus."
 
 - The Tribes are one of many groups within the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), believing that they have restored the original Church from the Book of Acts.[^2]
 
