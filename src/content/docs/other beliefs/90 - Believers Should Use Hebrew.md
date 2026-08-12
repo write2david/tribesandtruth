@@ -50,64 +50,65 @@ slug: hebrew
       - **Titus, Epaphroditus, Demetrius, and Aristarchus** all retained their standard Greco-Roman names.
 	  - **Priscilla and Aquila** were a married Christian couple who worked with Paul (Acts 18; Romans 16:3) and who had non-Hebrew names, even after they were saved.
 
+<br><br>
 
 2. **The writings of the Early Church also did not use Hebrew names.** Believers in the early church used the word “Jesus” and the word “Christ” when talking to other believers (example: 1 Clement 21:6).
 
 
 3. **Originally, the Twelve Tribes themselves did not use Hebrew.**
 
-  - The Tribes themselves went many years using English only.
+    - The Tribes themselves went many years using English only.
 
-  - Creating new Hebrew names for members, and using Hebrew for a few other terms, was not introduced until well after the Tribes were established as an organization.
+    - Creating new Hebrew names for members, and using Hebrew for a few other terms, was not introduced until well after the Tribes were established as an organization.
 
 
-4. **Nowadays, the Tribes still use many non-Hebrew terms when Hebrew terms are available.**.
+4. **Nowadays, the Tribes are still inconsistent with the use of Hebrew.**
  
- - Even after switching to Hebrew names, the Tribes still used the English word "Judah" (for both individuals and their largest Tribe) for a number of years.
+    - Even after switching to Hebrew names, the Tribes still used the English word "Judah" (for both individuals and their largest Tribe) for a number of years.
  
- - The Tribes eventually switched from "Judah" to *Yehudah* (the transliterated Hebrew version).
+    - The Tribes eventually switched from "Judah" to *Yehudah* (the transliterated Hebrew version).
  
- - However, they still use the word "Messiah" (instead of the transliterated *Māšīaḥ*). They use "Hallelujah" instead of *Halləlū-Yāh.* They use "Armageddon" instead of *Harmagedōn.*  Plus, the English word "Messiah" came from the Greek Μεσσίας (*Messias*), and not directly from Hebrew.
+    - However, they still use the word "Messiah" (instead of the transliterated *Māšīaḥ*). They use "Hallelujah" instead of *Halləlū-Yāh.* They use "Armageddon" instead of *Harmagedōn.*  Plus, the English word "Messiah" came from the Greek Μεσσίας (*Messias*), and not directly from Hebrew.
 
- - Hebrew is used for *some* words in the daily lifestyle of the Tribes. But Hebrew is *not* used in *most* aspects of their daily lifestyle.
+    - Hebrew is used for *some* words in the daily lifestyle of the Tribes. But Hebrew is *not* used in *most* aspects of their daily lifestyle.
 
- - Some members are given new names after they join the Tribes, but the new names are not Hebrew. For example, the elder Ricky Kendricks is well-known in the Tribes as "Aquila" (a name that is from Latin).
+    - People are given new names after they join the Tribes, but sometimes the new names are not Hebrew. For example, the elder Ricky Kendricks is well-known in the Tribes as "Aquila" (a name that is from Latin).
 
 
 4. **The New Testament practice was actually to *leave* Hebrew.**
 
-  - When people got renamed in the New Testament, they often got renamed to Greek names even if they had Hebrew names previously.
+    - When people got renamed in the New Testament, they often got renamed to Greek names even if they had Hebrew names previously.
   
-  - Examples of Jews receiving non-Hebrew names: Saul was called *Paul* (Acts 13:9), Simon was called *Peter* (Matthew 10:2), Simeon was called *Niger* (Acts 13:1), and Jesus (a name from Hebrew) was called *Justus* (from Latin) in Colossians 4:11.
+    - Examples of Jews receiving non-Hebrew names: Saul was called *Paul* (Acts 13:9), Simon was called *Peter* (Matthew 10:2), Simeon was called *Niger* (Acts 13:1), and Jesus (a name from Hebrew) was called *Justus* (from Latin) in Colossians 4:11.
   
-  - Even the Messiah was called Christ (John 4:25).
+    - Even the Messiah was called Christ (John 4:25).
 
 
 5. **Aramaic, mot Hebrew, was the common spoken language of Jesus' day.**
 
-  - In fact, the Gospels are full of examples where Aramaic (and not Hebrew) was used by Jesus, the Jews, and the early Christians.
+    - In fact, the Gospels are full of examples where Aramaic (and not Hebrew) was used by Jesus, the Jews, and the early Christians.
 
-  - The Hebrew terms that do exist in the New Testament (like "Emmanuel" and "Messiah") are often present only due to Old Testament connections.
+    - The Hebrew terms that do exist in the New Testament (like "Emmanuel" and "Messiah") are often present only due to Old Testament connections.
   
-  - Even the word "Abba" (used frequently within the Tribes) was Aramaic, and was adopted by the Hebrew language only after Jesus' time on earth.
+    - Even the word "Abba" (used frequently within the Tribes) was Aramaic, and was adopted by the Hebrew language only after Jesus' time on earth.
 
-  - Here are some examples of Aramaic (not Hebrew) words used in the New Testament:
+    - Here are some examples of Aramaic (not Hebrew) words used in the New Testament:
   
-    - **Matthew 5:22** – *Raca* ("Fool", "empty-headed", or "worthless person")
-    - **Matthew 6:24** – *Mammon* ("Money", "wealth", or "possessions")
-    - **Matthew 27:33, John 19:17, Mark 15:22** – *Golgotha* ("Place of the skull")
-    - **Mark 3:17** – *Boanerges* ("Sons of Thunder")
-    - **Mark 5:41** – *Talitha cumi* ("Little girl, arise")
-    - **Mark 7:34** – *Ephphatha* ("Be opened")
-    - **Mark 10:51, John 20:16** – *Rabboni* ("My Master" or "Teacher")
-    - **Mark 14:36** – *Abba* ("Father" or "the Father")  -- though, this term came into Hebrew later on in history
-    - **Mark 15:34** – *Eloi, Eloi, lema sabachthani* ("My God, my God, why have you forsaken me?")
-    - **Luke 16:9, 11, 13** – *Mammon* ("Money", "wealth", or "possessions")
-    - **John 1:42** – *Cephas* ("Rock")
-    - **Acts 1:19** – *Akeldama* ("Field of Blood")
-    - **Romans 8:15** – *Abba* ("Father" or "the Father")
-    - **1 Corinthians 16:22** – *Maranatha* ("Our Lord, come!" or "The Lord has come")
-    - **Galatians 4:6** – *Abba* ("Father" or "the Father")
+      - **Matthew 5:22** – *Raca* ("Fool", "empty-headed", or "worthless person")
+      - **Matthew 6:24** – *Mammon* ("Money", "wealth", or "possessions")
+      - **Matthew 27:33, John 19:17, Mark 15:22** – *Golgotha* ("Place of the skull")
+      - **Mark 3:17** – *Boanerges* ("Sons of Thunder")
+      - **Mark 5:41** – *Talitha cumi* ("Little girl, arise")
+      - **Mark 7:34** – *Ephphatha* ("Be opened")
+      - **Mark 10:51, John 20:16** – *Rabboni* ("My Master" or "Teacher")
+      - **Mark 14:36** – *Abba* ("Father" or "the Father")  -- though, this term came into Hebrew later on in history
+      - **Mark 15:34** – *Eloi, Eloi, lema sabachthani* ("My God, my God, why have you forsaken me?")
+      - **Luke 16:9, 11, 13** – *Mammon* ("Money", "wealth", or "possessions")
+      - **John 1:42** – *Cephas* ("Rock")
+      - **Acts 1:19** – *Akeldama* ("Field of Blood")
+      - **Romans 8:15** – *Abba* ("Father" or "the Father")
+      - **1 Corinthians 16:22** – *Maranatha* ("Our Lord, come!" or "The Lord has come")
+      - **Galatians 4:6** – *Abba* ("Father" or "the Father")
 
 
 6. **"Edah" and Hebrew Church Terminology Are Absent from the New Testament.**
@@ -122,6 +123,8 @@ slug: hebrew
     - **Presbyteros** (*Elder*) – A general Greek term for age and governance.
     - **Diakonos** (*Deacon / Servant*) – A common Greek word for a waiter or assistant.
     - **Ekklesia** (*Church / Assembly*) – A secular Greek word for a public assembly or gathering, completely bypassing Hebrew synagogue terminology.
+
+<br><br>
 
 9. **Scripture simply doesn't teach that Hebrew will be the language of Heaven (or "the Eternal Age").**
 
