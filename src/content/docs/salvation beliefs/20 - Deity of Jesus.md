@@ -14,10 +14,9 @@ banner:
 
 - Other members will say that Jesus is not God. And others aren't sure.
 
-- The official doctrine of the Tribes is that Jesus was conceived as a pure/sinless human (similar to the first man, Adam) and then became a container for Divinity.
+- Historically, the Tribes' official beliefs (regarding Jesus and the Trinity) have evolved over time. Presumably, when Gene Spriggs was still in Chattanooga (and associated with a Presbyterian church), his organization held to a traditional view of the Trinity. Even in July 1994, a teaching called "The Trinity" was produced by Spriggs in Boston, which comfortably used terms like "Trinity" and "Godhead." It stated that "God is three in one" and "God is one in His essential being. In this being there are three persons..." Yet, Spriggs had begun asking questions about the exact nature of the Trinity, and eventually pursued those questions in a direction that caused him to depart from this traditional view of the Trinity.
 
-- They believe the Trinity is not that Father, Son, and Holy Spirit but is instead the Father, Word, and Holy Spirit. They believe that “the Word” is God and that the Word was united with “the man Yahshua” who was just human.
-
+- Currently, the official doctrine of the Tribes is that Jesus was conceived as a pure/sinless human (similar to the first man, Adam) and then became a container for Divinity. He had no existence prior to His birth. They believe the Trinity is not the "Father, Son, and Holy Spirit" but rather the "Father, Word, and Holy Spirit." They believe that “the Word” is God and that the Word was united with “the man Yahshua” who was merely human.
 :::
 
 ## Response

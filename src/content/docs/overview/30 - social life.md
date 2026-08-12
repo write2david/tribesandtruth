@@ -115,7 +115,7 @@ slug: social-life
   
 - The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council made up of Apostolic Workers (3 leaders from each tribe = 36 total). There are Community Coordinators for each town, and Household Heads for each home. "Elders" oversee spiritual matters in a community, and "Sextons" oversee physical matters.
 
-- Some of the upper-level leadership have included: Gene Spriggs ("Yoneq") and wife Marsha Spriggs ("Ha-Emeq"), Eddie Wiseman ("Hakam") and wife Jean Swantko Wiseman ("Havah"), David Burleigh ("David Zerubabbel"), Timothy Kroehler ("Mevaser"), and William Nunnally ("Nun"). 
+- Some of the upper-level leadership have included: Gene Spriggs ("Yoneq") and wife Marsha Spriggs ("Ha-Emeq"), Eddie Wiseman ("Hakam") and wife Jean Swantko Wiseman ("Havah"), David Burleigh ("David Zerubabbel"), Timothy Kroehler ("Mevaser"), Ricky Kendricks ("Aquila"), and William Nunnally ("Nun"). 
 
 - Obeying authorities within the group is expected and required. Areas of submission include: where to live, what work to do, who to marry, and the daily schedule. All members have a "covering" -- a person(s) who provides guidance and oversight.
 
