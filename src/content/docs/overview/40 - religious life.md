@@ -31,7 +31,7 @@ slug: religious-life
 
 - The Tribes receive many of their beliefs from [conservative Christian teachings & values](https://en.wikipedia.org/wiki/Conservative_Christianity).
 
-- However, the Tribes strongly condemn Christianity (despite having "Christian" an part of a previous *official* name for their group, and despite the additional similarities listed below).
+- However, the Tribes strongly condemn Christianity nowadays (despite having "Christian" as part of a previous *official* name for their group, and despite the additional similarities listed below).
 
 - The Tribes believe they are the one and *only* true Church on Earth (a belief also held by [several other religious groups](https://en.wikipedia.org/wiki/One_true_church)). They believe that salvation cannot be found apart from the Tribes.
 

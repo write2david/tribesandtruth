@@ -50,8 +50,7 @@ slug: hebrew
       - **Titus, Epaphroditus, Demetrius, and Aristarchus** all retained their standard Greco-Roman names.
 	  - **Priscilla and Aquila** were a married Christian couple who worked with Paul (Acts 18; Romans 16:3) and who had non-Hebrew names, even after they were saved.
 
-<br><br>
-
+<br>
 2. **The writings of the Early Church also did not use Hebrew names.** Believers in the early church used the word “Jesus” and the word “Christ” when talking to other believers (example: 1 Clement 21:6).
 
 
@@ -110,10 +109,11 @@ slug: hebrew
       - **1 Corinthians 16:22** – *Maranatha* ("Our Lord, come!" or "The Lord has come")
       - **Galatians 4:6** – *Abba* ("Father" or "the Father")
 
-
+<br>
 6. **"Edah" and Hebrew Church Terminology Are Absent from the New Testament.**
    Unlike the Tribes, the New Testament does not use the word "Edah" to refer to church or community. And the New Testament word for "church" does not come from Hebrew.
 
+<br>
 7. **The Greek Septuagint (LXX) Was the Standard Bible of the Early Church.**
     When Jesus, the Apostles, and early Christians quoted Old Testament scriptures, they overwhelmingly quoted from the Septuagint — the Greek translation of the Old Testament. They routinely used the Greek title ***Kyrios*** ("Lord") and ***Theos*** ("God") to translate Yahweh/Elohim rather than using the original Hebrew letters or pronunciation.
 
@@ -124,8 +124,7 @@ slug: hebrew
     - **Diakonos** (*Deacon / Servant*) – A common Greek word for a waiter or assistant.
     - **Ekklesia** (*Church / Assembly*) – A secular Greek word for a public assembly or gathering, completely bypassing Hebrew synagogue terminology.
 
-<br><br>
-
+<br>
 9. **Scripture simply doesn't teach that Hebrew will be the language of Heaven (or "the Eternal Age").**
 
 [^1]: “Israel was surrounded by people speaking the cognate Aramaic, the language of Aram, a district including northern Mesopotamia, Syria, and a large portion of Arabia Petræa. The pressure of these Semitic tribes was increased after the fall of Samaria and the disappearance of the Northern Kingdom (B.C. 722) [when Babylon invaded and took over Israel] and Hebrew began to suffer a process of decay which ended in its extinction as a spoken language. It was still the language of Jerusalem in the time of Nehemiah, about B.C. 430, but long before the time of Christ it had been entirely superseded by Aramaic, and its literature was intelligible only to scholars.” ~ *The Handbook to the Bible*
