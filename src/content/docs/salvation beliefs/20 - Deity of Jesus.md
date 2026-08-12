@@ -26,7 +26,7 @@ banner:
 
 - This view is not what God tells us in the Bible. There are a long list of passages that show that Jesus was existing as the Son of God prior to His birth.
 
-- The offspring of a bird is: a bird. The child of a human is: a human (Genesis 5:3). And the eternal son of God is: divine (John 10:36).
+- The offspring of a bird is: a bird. The child of a human is: a human. And the eternal son of God is: divine.
 
 ***
 
@@ -40,7 +40,7 @@ banner:
 
 4. The Son of Man descended from heaven and "comes from above" (John 3:13, John 3:31).
 
-5. The Trinity is referenced in Genesis 1:26 when God says "Let us make man in our image" (see also Genesis 3:22).
+5. The Trinity (including the eternal Son) is referenced in Genesis 1:26 when God says "Let us make man in our image" (see also Genesis 3:22).
 
 6. Jesus is explicitly called "God" (John 1:1, John 1:3). Jesus is called "the only God" (John 1:18). Jesus existed in the beginning as "the Word" who was both "with God" and "was God" (John 1:1–3).
 

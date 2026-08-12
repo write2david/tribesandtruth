@@ -113,7 +113,7 @@ slug: social-life
 
 - Until his death in 2021, founder Gene Spriggs was the lead apostle. As the primary mediator between the Tribes and God, this role was roughly equivalent to the Catholic Pope. Similar to the Apostles who wrote books of the New Testament, Spriggs provided new "revelations" to his people.
   
-- The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council (3 leaders from each tribe = 36 total). Locally, there are Community Coordinators, as well as shepherds/elders (overseeing spiritual matters) and sextons (overseeing physical matters).
+- The "3-Cord" (3 apostles) reported to Gene Spriggs. Under them is the Tribal Council made up of Apostolic Workers (3 leaders from each tribe = 36 total). There are Community Coordinators for each town, and Household Heads for each home. "Elders" oversee spiritual matters in a community, and "Sextons" oversee physical matters.
 
 - Some of the upper-level leadership have included: Gene Spriggs ("Yoneq") and wife Marsha Spriggs ("Ha-Emeq"), Eddie Wiseman ("Hakam") and wife Jean Swantko Wiseman ("Havah"), David Burleigh ("David Zerubabbel"), Timothy Kroehler ("Mevaser"), and William Nunnally ("Nun"). 
 

@@ -14,7 +14,7 @@ slug: dictionary
 
 - Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.[^1]
 
-- Regions of the world are referred to by the name of the Tribe associated with that region. Instead of saying "Canada," members would say "Gad."
+- Regions of the world are called by the name of the Tribe associated with that region.  For example, instead of saying "Canada," members would say "Gad."
 
 - Ethnicities are referred to using \[artificial\] Hebrew terms, based on their \[incorrect\] biblical origins. White people are "Shemites." Black people are "Chamites." Asians are "Yapheth."
 

@@ -1,12 +1,10 @@
 ---
-title: Modern Believers Should Use Hebrew
+title: Modern Believers Should Use Hebrew?
 description: Description
 sidebar:
   label: Using Hebrew
   order: 90
 slug: hebrew
-banner:
-  content: <b>This answer is still being written.</b>
 ---
 
 :::tip[Overview]{icon="sun"}
@@ -27,7 +25,9 @@ banner:
 
 - Instead, the Bible uses non-Hebrew terms in places where the Tribes use Hebrew.
 
-- The Bible also reflects the reality that it was Aramaic, not Hebrew, that was in common use during the time of Jesus.
+- The Bible itself reflects the reality that it was Aramaic, not Hebrew, that was in common use during the time of Jesus.
+
+- Almost all members of the Tribes don't know how to read/write Hebrew or speak Hebrew (apart from their names and a few individual words).
 
 <br>
 
@@ -93,6 +93,8 @@ banner:
     - **Presbyteros** (*Elder*) – A general Greek term for age and governance.
     - **Diakonos** (*Deacon / Servant*) – A common Greek word for a waiter or assistant.
     - **Ekklesia** (*Church / Assembly*) – A secular Greek word for a public assembly or gathering, completely bypassing Hebrew synagogue terminology.
+
+11. **Scripture simply doesn't teach that Hebrew will be the language of Heaven (or "the Eternal Age"to).**
 
 [^1]: “Israel was surrounded by people speaking the cognate Aramaic, the language of Aram, a district including northern Mesopotamia, Syria, and a large portion of Arabia Petræa. The pressure of these Semitic tribes was increased after the fall of Samaria and the disappearance of the Northern Kingdom (B.C. 722) [when Babylon invaded and took over Israel] and Hebrew began to suffer a process of decay which ended in its extinction as a spoken language. It was still the language of Jerusalem in the time of Nehemiah, about B.C. 430, but long before the time of Christ it had been entirely superseded by Aramaic, and its literature was intelligible only to scholars.” ~ *The Handbook to the Bible*
     
