@@ -37,18 +37,18 @@ slug: hebrew
 
 1. **Unlike the Tribes, the Apostles in the New Testament used Greek names.**
 
-  - Notice how the Apostle Paul uses a long list of non-Hebrew names when referring to believers (Romans 16:1-23).
+    - Notice how the Apostle Paul uses a long list of non-Hebrew names when referring to believers (Romans 16:1-23).
 
-  - The writers of the New Testament did not use "Yahshua" when referring to Jesus.
+    - The writers of the New Testament did not use "Yahshua" when referring to Jesus.
 
-  - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins.
+    - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins.
 
-  - Some more specific examples:
-    - **Apollos** (Acts 18:24) – Named after the Greek god Apollo.
-    - **Phoebe** (Romans 16:1) – Meaning "bright/radiant," associated with the Greek goddess Artemis/Diana.
-    - **Hermes** (Romans 16:14) – Named directly after the Greek messenger god.
-    - **Titus, Epaphroditus, Demetrius, and Aristarchus** all retained their standard Greco-Roman names.
-	- **Priscilla and Aquila** were a married Christian couple who worked with Paul (Acts 18; Romans 16:3) and who had non-Hebrew names, even after they were saved.
+    - Some more specific examples:
+      - **Apollos** (Acts 18:24) – Named after the Greek god Apollo.
+      - **Phoebe** (Romans 16:1) – Meaning "bright/radiant," associated with the Greek goddess Artemis/Diana.
+      - **Hermes** (Romans 16:14) – Named directly after the Greek messenger god.
+      - **Titus, Epaphroditus, Demetrius, and Aristarchus** all retained their standard Greco-Roman names.
+	  - **Priscilla and Aquila** were a married Christian couple who worked with Paul (Acts 18; Romans 16:3) and who had non-Hebrew names, even after they were saved.
 
 
 2. **The writings of the Early Church also did not use Hebrew names.** Believers in the early church used the word “Jesus” and the word “Christ” when talking to other believers (example: 1 Clement 21:6).
