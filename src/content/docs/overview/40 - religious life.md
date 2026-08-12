@@ -18,7 +18,7 @@ slug: religious-life
 
 ## Teachings
 
-- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions (and biblical re-interpretations) provided by new "revelations."[^1]
+- The Tribe's beliefs come primarily from the Christian Bible *plus* hundreds of additions provided by new "revelations."[^1]
 
 - "Freepapers" are magazine-style publications intended to convey the Tribes' beliefs & perspectives (for both public use and internal use).
 
