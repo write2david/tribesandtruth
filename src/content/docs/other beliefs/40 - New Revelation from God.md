@@ -5,6 +5,7 @@ sidebar:
   label: New Revelation From God
   order: 40
 slug: new-revelation
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

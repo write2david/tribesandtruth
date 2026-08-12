@@ -5,6 +5,7 @@ sidebar:
   label: The Tribes Alone
   order: 30
 slug: only-the-Tribes
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

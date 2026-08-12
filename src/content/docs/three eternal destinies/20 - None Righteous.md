@@ -5,6 +5,7 @@ sidebar:
   label: Are There Any Righteous People?
   order: 20
 slug: none-righteous
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

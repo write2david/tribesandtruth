@@ -4,7 +4,8 @@ description: Description
 sidebar:
   label: Giving Up All Possessions
   order: 40
-slug: giving-up-possessions
+slug: possessions
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

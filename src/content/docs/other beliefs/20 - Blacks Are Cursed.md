@@ -5,6 +5,7 @@ sidebar:
   label: Blacks Are Cursed
   order: 20
 slug: blacks
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

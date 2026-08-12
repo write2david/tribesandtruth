@@ -4,7 +4,8 @@ description: Description
 sidebar:
   label: Christianity Is Apostate
   order: 80
-slug: apostate-christianity
+slug: apostate
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

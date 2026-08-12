@@ -5,6 +5,7 @@ sidebar:
   label: Salvation of the Righteous
   order: 40
 slug: righteous-saved
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

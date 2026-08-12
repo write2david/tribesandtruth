@@ -5,6 +5,7 @@ sidebar:
   label: Christianity Died Globally
   order: 30
 slug: christianity-died
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

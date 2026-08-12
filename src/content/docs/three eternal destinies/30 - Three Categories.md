@@ -5,6 +5,7 @@ sidebar:
   label: Three Categories of People
   order: 30
 slug: three-categories
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---

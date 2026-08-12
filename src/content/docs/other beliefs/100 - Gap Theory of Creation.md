@@ -5,6 +5,7 @@ sidebar:
   label: The Gap Theory of Creation
   order: 100
 slug: gap-theory
+draft: true
 banner:
   content: <b>This answer is still being written.</b>
 ---
