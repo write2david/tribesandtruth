@@ -70,7 +70,7 @@ slug: hebrew
 
 <br>
 
-5. **The Tribes' usage of "Edah" is not accurate nor biblical.**
+5. **The Tribes' use of the word "Edah" is not biblical nor accurate.**
 
     - Unlike the Tribes, the New Testament does not use the word "Edah" to refer to church or community.
 
