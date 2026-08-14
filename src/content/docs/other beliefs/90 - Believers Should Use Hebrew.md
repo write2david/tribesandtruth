@@ -138,6 +138,6 @@ slug: hebrew
 
     By the time of Jesus, Aramaic had become the dominant language within Israel's Jewish population. It was used in daily life at markets, in homes, and within communities.
 
-    This is why a variety of Aramaic phrases (such as *Abba*, *Cephas*, and *Golgotha*) appear in the Gospels -- as well as in other New Testament books (such as Maranatha).
+    This is why a variety of Aramaic phrases (such as *Abba*, *Cephas*, and *Golgotha*) appear in the Gospels -- as well as in other New Testament books (such as *Maranatha*).
 
     By 200-400 AD, Hebrew had largely died out as a mother tongue across the nation.
