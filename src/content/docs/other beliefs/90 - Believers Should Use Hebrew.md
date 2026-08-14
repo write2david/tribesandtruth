@@ -14,32 +14,29 @@ slug: hebrew
 
 - Hebrew is also used in the Tribes for terms such as Jesus, God, mother, father, etc.
 
-- The Tribes use "Edah" to refer to the local church or "community."
-
 - The Tribes strongly promote "Yahshua" as the only correct & appropriate name for Jesus. They state: "The name Jesus is an abomination."
 :::
 
 ## Response
 
-- The Bible doesn't command, or even demonstrate, the need for believers to use Hebrew.
+- The Bible doesn't command (or even demonstrate) the need for believers to use Hebrew.
 
-- Instead, the Bible uses non-Hebrew terms in places where the Tribes use Hebrew terms.
+- Instead, in places where the Tribes use Hebrew, the Bible often does *not* use Hebrew.
 
-- Aramaic (not Hebrew) was most commonly spoken during the time of Jesus, and the Bible itself reflects that.
+- Aramaic (not Hebrew) was more commonly spoken in Israel during the time of Jesus, and the Bible itself reflects that.
 
-- Despite the Tribes championing the Hebrew language, the Tribes' own use of Hebrew is actually very minimal (primarily limited to names and a few translated words).
+- Despite the Tribes championing the Hebrew language, the Tribes' own use of Hebrew is actually very minimal.
 
 <br>
 
 ***
-
 ## Explanation
 
 1. **Unlike the Tribes, Christians in the New Testament used Greek names.**
 
-    - When writing to believers, the Apostle Paul used non-Hebrew names when referring to other believers (example: a lengthy list of names is found in Romans 16:1-23).
+    - When writing to believers, the Apostle Paul used non-Hebrew names when referring to other believers. Among many examples, a lengthy list of names (of believers) is found in Romans 16:1-23.
 
-    - The writers of the New Testament did not use "Yahshua" when referring to Jesus (including letters  written to believers).
+    - The writers of the New Testament did not use "Yahshua" when referring to Jesus, even when writing letters from one saved believer to another.
 
     - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They often retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins. Examples include Apollos (Acts 18:24), Priscilla (Acts 18; Romans 16:3), Aquilla (Acts 18; Romans 16:3), Titus (Titus 1:4, Galatians 2:1), and Aristarchus (Colossians 4:10, Philemon 1:24).
 	
@@ -47,6 +44,7 @@ slug: hebrew
 
 
 <br>
+
 2. **The writings of the Early Church also did not use Hebrew names.** Believers in the early church used the word “Jesus” and the word “Christ” when communicating to other believers (example: 1 Clement 21:6, which was written before 100 AD).
 
 
@@ -76,6 +74,7 @@ slug: hebrew
 
 
 <br>
+
 6. **Aramaic, not Hebrew, was the primary spoken language among the Israelites of Jesus' day.**
 
     - The rise of Aramaic, and the decline of Hebrew, is a fascinating history.[^1]
@@ -102,6 +101,7 @@ slug: hebrew
       - **Maranatha** – "Our Lord, come!" or "The Lord has come" (1 Corinthians 16:22)
 
 <br>
+
 7. **Greek was often preferred over Hebrew.**
 
     - The New Testament primarily quotes the Greek version of the Old Testament, not the Hebrew version. Many Jews in Jesus' day had lost fluency in Hebrew, but Greek had become the universal language of that region of the world. Biblical writers routinely used the Greek title *Kyrios* ("Lord") and *Theos* ("God") to translate Yahweh/Elohim rather than using the original Hebrew letters or pronunciation.
@@ -113,7 +113,6 @@ slug: hebrew
       - **Ekklesia** (*Church / Assembly*) – A secular Greek word for a public assembly or gathering.
 
 <br>
-
 
 8. **The Twelve Tribes often use *English versions* of Hebrew words, instead of the *actual* Hebrew words.**
 
