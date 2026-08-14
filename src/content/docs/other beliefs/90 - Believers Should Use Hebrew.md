@@ -32,8 +32,9 @@ slug: hebrew
 ***
 ## Explanation
 
+<br>
 
-2. **Unlike the Tribes, New Testament believers weren't given Hebrew names.**
+1. **Unlike the Tribes, New Testament believers weren't given Hebrew names.**
 
     - When writing to believers, the Apostle Paul used non-Hebrew names when referring to other believers. Among many examples, a lengthy list of names (of believers) is found in Romans 16:1-23.
 
