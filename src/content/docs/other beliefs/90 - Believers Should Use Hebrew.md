@@ -27,7 +27,6 @@ slug: hebrew
 
 - Despite the Tribes championing the Hebrew language, the Tribes' own use of Hebrew is actually very minimal.
 
-<br>
 
 ***
 ## Explanation
@@ -36,7 +35,7 @@ slug: hebrew
 
 1. **Unlike the Tribes, New Testament believers weren't given Hebrew names.**
 
-    - In his letter to churches, the Apostle Paul used non-Hebrew names to refer to believers. Romans 16:1-23 includes a lengthy list of names. There are many other examples among Paul's writings.
+    - In his letters to churches, the Apostle Paul used non-Hebrew names to refer to believers. Romans 16:1-23 includes a lengthy list of people who are saved, but who don't have Hebrew names. There are many other examples among Paul's writings.
 
     - The writers of the New Testament did not use "Yahshua" when referring to Jesus.
 
