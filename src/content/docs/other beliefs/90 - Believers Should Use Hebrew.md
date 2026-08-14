@@ -63,7 +63,7 @@ slug: hebrew
 
     - People are given new names after they join the Tribes, but sometimes the new names are not actually Hebrew. For example, the elder Ricky Kendricks is well-known in the Tribes as "Aquila" (a Latin name).
 
-	- When the Tribes gives a Hebrew "name" to a new member, often the Hebrew names are not actually *names.* They are just regular Hebrew words. The Tribes assign them as "names" instead of using actual Hebrew names.
+	- When the Tribes gives a Hebrew "name" to a new member, sometimes the Hebrew names are not actually *names.* They are just regular Hebrew words. The Tribes assign them as "names" instead of using actual Hebrew names.
 
     - Almost all members of the Tribes don't know how to read, write, or speak Hebrew (apart from their "names" and a few other individual words).
 
@@ -109,7 +109,7 @@ slug: hebrew
 
 7. **Greek was often preferred over Hebrew.**
 
-    - The New Testament primarily quotes the Greek version of the Old Testament, not the Hebrew version. Many Jews in Jesus' day had lost fluency in Hebrew, but Greek had become the universal language in that region of the world. Biblical writers routinely used the Greek title *Kyrios* ("Lord") and *Theos* ("God") to translate the Old Testament words *Yahweh* and *Elohim* rather than using the original Hebrew letters/wording.
+    -  Many Jews in Jesus' day had lost fluency in Hebrew, but Greek had become the universal language in that region of the world. The New Testament primarily quotes the Greek translation of the Old Testament, not the Hebrew version. Biblical writers routinely used the Greek title *Kyrios* ("Lord") and *Theos* ("God") to translate the Old Testament words *Yahweh* and *Elohim* rather than using the original Hebrew letters/wording.
 
     - When the Apostles established leadership positions in the local churches, they chose standard Greek administrative terms rather than Old Testament Hebrew temple terms:
       - **Episkopos** (*Bishop / Overseer*) – A standard Greek civic term.
