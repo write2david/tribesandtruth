@@ -8,7 +8,7 @@ slug: hebrew
 ---
 
 :::tip[Overview]{icon="sun"}
-- The Tribes believe that Hebrew will be the language of Heaven ("the Eternal Age").
+- The Twelve Tribes Communities believe that Hebrew will be the language of Heaven ("the Eternal Age").
 
 - When someone joins the Tribes, they are given a Hebrew name.
 
@@ -16,18 +16,18 @@ slug: hebrew
 
 - The Tribes use "Edah" to refer to the local church or "community."
 
-- The Tribes repeatedly promote "Yahshua" as the only correct & appropriate name for Jesus. They state: "The name Jesus is an abomination."
+- The Tribes strongly promote "Yahshua" as the only correct & appropriate name for Jesus. They state: "The name Jesus is an abomination."
 :::
 
 ## Response
 
 - The Bible doesn't command, or even demonstrate, the need for believers to use Hebrew.
 
-- Instead, the Bible uses non-Hebrew terms in places where the Tribes use Hebrew.
+- Instead, the Bible uses non-Hebrew terms in places where the Tribes use Hebrew terms.
 
-- The Bible itself reflects the reality that it was Aramaic, not Hebrew, that was in common use during the time of Jesus.
+- Aramaic (not Hebrew) was most commonly spoken during the time of Jesus, and the Bible itself reflects that.
 
-- Almost all members of the Tribes don't know how to read/write Hebrew or speak Hebrew (apart from their names and a few individual words).
+- Despite the Tribes championing the Hebrew language, the Tribes' own use of Hebrew is actually very minimal (primarily limited to names and a few translated words).
 
 <br>
 
@@ -35,87 +35,84 @@ slug: hebrew
 
 ## Explanation
 
-1. **Unlike the Tribes, the Apostles in the New Testament used Greek names.**
+1. **Unlike the Tribes, Christians in the New Testament used Greek names.**
 
-    - Notice how the Apostle Paul uses a long list of non-Hebrew names when referring to believers (Romans 16:1-23).
+    - When writing to believers, the Apostle Paul used a long list of non-Hebrew names when referring to believers (Romans 16:1-23).
 
     - The writers of the New Testament did not use "Yahshua" when referring to Jesus.
 
-    - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins.
+    - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They often retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins. Examples include Apollos (Acts 18:24), Priscilla (Acts 18; Romans 16:3), Aquilla (Acts 18; Romans 16:3), Titus (Titus 1:4, Galatians 2:1), and Aristarchus (Colossians 4:10, Philemon 1:24).
+	
+    - In fact, when people got renamed in the New Testament, they often got renamed *to* Greek names even if they *had* Hebrew names previously. Examples of Jews receiving non-Hebrew names: Saul was called *Paul* (Acts 13:9), Simon was called *Peter* (Matthew 10:2), Simeon was called *Niger* (Acts 13:1), and a believer named Jesus was called *Justus* (Latin) in Colossians 4:11. Even the Messiah was called *Christ* (John 4:25).
 
-    - Some more specific examples:
-      - **Apollos** (Acts 18:24) – Named after the Greek god Apollo.
-      - **Phoebe** (Romans 16:1) – Meaning "bright/radiant," associated with the Greek goddess Artemis/Diana.
-      - **Hermes** (Romans 16:14) – Named directly after the Greek messenger god.
-      - **Titus, Epaphroditus, Demetrius, and Aristarchus** all retained their standard Greco-Roman names.
-	  - **Priscilla and Aquila** were a married Christian couple who worked with Paul (Acts 18; Romans 16:3) and who had non-Hebrew names, even after they were saved.
 
 <br>
-2. **The writings of the Early Church also did not use Hebrew names.** Believers in the early church used the word “Jesus” and the word “Christ” when talking to other believers (example: 1 Clement 21:6).
+2. **The writings of the Early Church also did not use Hebrew names.** Believers in the early church used the word “Jesus” and the word “Christ” when communicating to other believers (example: 1 Clement 21:6, which was written before 100 AD).
 
 
 3. **Originally, the Twelve Tribes themselves did not use Hebrew.**
 
-    - The Tribes themselves went many years using English only.
+    - The Tribes went many years using only English names and terms.
 
-    - Creating new Hebrew names for members, and using Hebrew for a few other terms, was not introduced until well after the Tribes were established as an organization.
+    - The pattern of assigning new Hebrew names for members (and using Hebrew for a few other terms) was not introduced until well after the Tribes were established as an organization.
 
 
-4. **Nowadays, the Tribes are still inconsistent with the use of Hebrew.**
+4. **The Twelve Tribes often use *English versions* of Hebrew words, instead of the *actual* Hebrew words.**
+
+    - Even after switching to Hebrew names, the Tribes still used "Judah" (English spelling) for years. "Judah" was used as a name for individuals and as the name for their largest Tribe. The Tribes eventually switched from "Judah" to *Yehudah* (the transliterated Hebrew version).
  
-    - Even after switching to Hebrew names, the Tribes still used the English word "Judah" (for both individuals and their largest Tribe) for a number of years.
- 
-    - The Tribes eventually switched from "Judah" to *Yehudah* (the transliterated Hebrew version).
- 
-    - However, they still use the word "Messiah" (instead of the transliterated *Māšīaḥ*). They use "Hallelujah" instead of *Halləlū-Yāh.* They use "Armageddon" instead of *Harmagedōn.*  Plus, the English word "Messiah" came from the Greek Μεσσίας (*Messias*), and not directly from Hebrew.
-
-    - Hebrew is used for *some* words in the daily lifestyle of the Tribes. But Hebrew is *not* used in *most* aspects of their daily lifestyle.
-
-    - People are given new names after they join the Tribes, but sometimes the new names are not Hebrew. For example, the elder Ricky Kendricks is well-known in the Tribes as "Aquila" (a name that is from Latin).
+    - However, the Tribes still use the word "Hallelujah" instead of the transliterated *Halləlū-Yāh.* They use "Armageddon" instead of *Harmagedōn.*
+	
+	- The Tribes use the English word "Messiah" as if it came directly from Hebrew. But it's actually an English word derived from the Greek word Μεσσίας, which itself came from Hebrew. If they wanted to use Hebrew directly, they'd use *Māšīaḥ* instead.
 
 
-4. **The New Testament practice was actually to *leave* Hebrew.**
+5. **The Tribes are inconsistent in their use of Hebrew.**
 
-    - When people got renamed in the New Testament, they often got renamed to Greek names even if they had Hebrew names previously.
+    - People are given new names after they join the Tribes, but sometimes the new names are not Hebrew. For example, the elder Ricky Kendricks is well-known in the Tribes as "Aquila" (a Latin name).
+
+	- When the Tribes gives a Hebrew "name" to a new member, often the Hebrew names are not actually *names.* They are just regular Hebrew words, which the Tribes decide to use as "names" (instead of using actual Hebrew names). 
+
+    - Almost all members of the Tribes don't know how to read, write, or speak Hebrew (apart from their "names" and a few other individual words).
+
+
+5. **Aramaic, not Hebrew, was the primary spoken language of Jesus' day.**
+
+    - The rise of Aramaic, and the decline of Hebrew, is a fascinating history.[^1]
+
+    - The New Testament provides a variety of cases in which Aramaic (and not Hebrew) was used by Jesus, the Jews, and the early Christians.
+
+    - The Hebrew terms that do exist in the New Testament (like "Emmanuel" and "Messiah") are often present due to Old Testament connections.
   
-    - Examples of Jews receiving non-Hebrew names: Saul was called *Paul* (Acts 13:9), Simon was called *Peter* (Matthew 10:2), Simeon was called *Niger* (Acts 13:1), and Jesus (a name from Hebrew) was called *Justus* (from Latin) in Colossians 4:11.
+    - Even the word "Abba" (used frequently within the Tribes) was an Aramaic term during the time of Jesus, though it was eventually adopted by the Hebrew language.
+
+    - Examples of Aramaic (not Hebrew) words being used in the New Testament:
   
-    - Even the Messiah was called Christ (John 4:25).
-
-
-5. **Aramaic, mot Hebrew, was the common spoken language of Jesus' day.**
-
-    - In fact, the Gospels are full of examples where Aramaic (and not Hebrew) was used by Jesus, the Jews, and the early Christians.
-
-    - The Hebrew terms that do exist in the New Testament (like "Emmanuel" and "Messiah") are often present only due to Old Testament connections.
-  
-    - Even the word "Abba" (used frequently within the Tribes) was Aramaic, and was adopted by the Hebrew language only after Jesus' time on earth.
-
-    - Here are some examples of Aramaic (not Hebrew) words used in the New Testament:
-  
-      - **Matthew 5:22** – *Raca* ("Fool", "empty-headed", or "worthless person")
-      - **Matthew 6:24** – *Mammon* ("Money", "wealth", or "possessions")
-      - **Matthew 27:33, John 19:17, Mark 15:22** – *Golgotha* ("Place of the skull")
-      - **Mark 3:17** – *Boanerges* ("Sons of Thunder")
-      - **Mark 5:41** – *Talitha cumi* ("Little girl, arise")
-      - **Mark 7:34** – *Ephphatha* ("Be opened")
-      - **Mark 10:51, John 20:16** – *Rabboni* ("My Master" or "Teacher")
-      - **Mark 14:36** – *Abba* ("Father" or "the Father")  -- though, this term came into Hebrew later on in history
-      - **Mark 15:34** – *Eloi, Eloi, lema sabachthani* ("My God, my God, why have you forsaken me?")
-      - **Luke 16:9, 11, 13** – *Mammon* ("Money", "wealth", or "possessions")
-      - **John 1:42** – *Cephas* ("Rock")
-      - **Acts 1:19** – *Akeldama* ("Field of Blood")
-      - **Romans 8:15** – *Abba* ("Father" or "the Father")
-      - **1 Corinthians 16:22** – *Maranatha* ("Our Lord, come!" or "The Lord has come")
-      - **Galatians 4:6** – *Abba* ("Father" or "the Father")
+      - **Raca** – "Fool", "empty-headed", or "worthless person" (Matthew 5:22)
+      - **Mammon** – "Money", "wealth", or "possessions" (Matthew 6:24, Luke 16:9, Luke 16:11, Luke 16:13)
+      - **Golgotha** – "Place of the skull" (Matthew 27:33, John 19:17, Mark 15:22)
+      - **Boanerges** – "Sons of Thunder" (Mark 3:17)
+      - **Talitha cumi** – "Little girl, arise" (Mark 5:41)
+      - **Ephphatha** – "Be opened" (Mark 7:34)
+      - **Rabboni** – "My Master" or "Teacher" (Mark 10:51, John 20:16)
+      - **Abba** – "Father" (Mark 14:36, Romans 8:15, Galatians 4:6)
+      - **Eloi, Eloi, lema sabachthani** – "My God, my God, why have you forsaken me?" (Mark 15:34)
+      - **Cephas** – "Rock" (John 1:42)
+      - **Akeldama** – "Field of Blood" (Acts 1:19)
+      - **Maranatha** – "Our Lord, come!" or "The Lord has come" (1 Corinthians 16:22)
 
 <br>
-6. **"Edah" and Hebrew Church Terminology Are Absent from the New Testament.**
-   Unlike the Tribes, the New Testament does not use the word "Edah" to refer to church or community. And the New Testament word for "church" does not come from Hebrew.
+6. **The Tribes' usage of "Edah" is not biblical.**
+
+    - Unlike the Tribes, the New Testament does not use the word "Edah" to refer to church or community.
+
+    - The New Testament word for "church" does not come from Hebrew.
+
+	- Incidentally, the Hebrew word "Edah" does not mean "beehive" even though the Tribes say that it does.
 
 <br>
 7. **The Greek Septuagint (LXX) Was the Standard Bible of the Early Church.**
     When Jesus, the Apostles, and early Christians quoted Old Testament scriptures, they overwhelmingly quoted from the Septuagint — the Greek translation of the Old Testament. They routinely used the Greek title ***Kyrios*** ("Lord") and ***Theos*** ("God") to translate Yahweh/Elohim rather than using the original Hebrew letters or pronunciation.
+
 
 8. **Key Church Leadership Titles Were Greco-Roman, Not Hebrew.**
     When the Apostles established order and leadership positions in the local churches, they chose standard Greek administrative terms rather than Old Testament Hebrew temple terms:
@@ -127,8 +124,12 @@ slug: hebrew
 <br>
 9. **Scripture simply doesn't teach that Hebrew will be the language of Heaven (or "the Eternal Age").**
 
-[^1]: “Israel was surrounded by people speaking the cognate Aramaic, the language of Aram, a district including northern Mesopotamia, Syria, and a large portion of Arabia Petræa. The pressure of these Semitic tribes was increased after the fall of Samaria and the disappearance of the Northern Kingdom (B.C. 722) [when Babylon invaded and took over Israel] and Hebrew began to suffer a process of decay which ended in its extinction as a spoken language. It was still the language of Jerusalem in the time of Nehemiah, about B.C. 430, but long before the time of Christ it had been entirely superseded by Aramaic, and its literature was intelligible only to scholars.” ~ *The Handbook to the Bible*
-    
-    “250 B.C. ~ The Septuagint was translated. This was a Greek translation of the Old Testament. Greek was the common language of that time so this was a BIG deal. Jesus and His disciples probably used this translation.” ~ *The Ultimate Guide to the Bible*
-    
-    “The Greek language was spoken throughout the civilized world ... [Jesus] surely knew Greek, though He used Aramaic commonly.” ~ *The New Smith Bible Dictionary*
+[^1]: Over 500 years before Christ, the Jewish nation was exiled to Babylon. They began adopting the regional Aramaic language for their daily life, trade, and diplomacy.
+
+    This helps explain why biblical books like Daniel and Ezra contain substantial Aramaic sections.
+
+    By the time of Jesus, Aramaic had become the dominant language within Israel's Jewish population. It was used in daily life at markets, in homes, and within communities.
+
+    This is why a variety of Aramaic phrases (such as Abba, Cephas, and Golgotha)appear in the Gospels -- as well as in other New Testament books (such as Maranatha).
+
+    By 200-400 AD, Hebrew had largely died out as a mother tongue across the nation.
