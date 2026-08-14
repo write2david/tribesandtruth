@@ -21,7 +21,7 @@ slug: hebrew
 
 - The Bible doesn't command (or even demonstrate) the need for believers to use Hebrew.
 
-- Instead, in places where the Tribes use Hebrew, the Bible often does *not* use Hebrew.
+- Instead, in places where *the Tribes* use Hebrew, the Bible often does **not** use Hebrew.
 
 - Aramaic (not Hebrew) was more commonly spoken in Israel during the time of Jesus, and the Bible itself reflects that.
 
@@ -32,15 +32,16 @@ slug: hebrew
 ***
 ## Explanation
 
-1. **Unlike the Tribes, Christians in the New Testament used Greek names.**
+
+2. **Unlike the Tribes, New Testament believers weren't given Hebrew names.**
 
     - When writing to believers, the Apostle Paul used non-Hebrew names when referring to other believers. Among many examples, a lengthy list of names (of believers) is found in Romans 16:1-23.
 
-    - The writers of the New Testament did not use "Yahshua" when referring to Jesus, even when writing letters from one saved believer to another.
+    - The writers of the New Testament did not use "Yahshua" when referring to Jesus.
 
-    - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They often retained their Greek and Roman names — many of which were originally derived from Greek gods or pagan origins. Examples include Apollos (Acts 18:24), Priscilla (Acts 18; Romans 16:3), Aquilla (Acts 18; Romans 16:3), Titus (Titus 1:4, Galatians 2:1), and Aristarchus (Colossians 4:10, Philemon 1:24).
+    - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They often retained their original Greek and Roman names (many of which were originally derived from Greek gods or pagan origins). Examples include Apollos (Acts 18:24), Priscilla (Acts 18; Romans 16:3), Aquilla (Acts 18; Romans 16:3), Titus (Titus 1:4, Galatians 2:1), and Aristarchus (Colossians 4:10, Philemon 1:24).
 	
-    - In fact, when people got renamed in the New Testament, they often got renamed *to* Greek names even if they *had* Hebrew names previously. Examples of Jews receiving non-Hebrew names: Saul was called *Paul* (Acts 13:9), Simon was called *Peter* (Matthew 10:2), Simeon was called *Niger* (Acts 13:1), and a believer named Jesus was called *Justus* (Latin) in Colossians 4:11. Even the Messiah was called *Christ* (John 4:25).
+    - When people got renamed in the New Testament, they often got renamed *to* Greek names even if they *had* Hebrew names previously. Examples of Jews receiving non-Hebrew names: Saul was called *Paul* (Acts 13:9), Simon was called *Peter* (Matthew 10:2), Simeon was called *Niger* (Acts 13:1), and a believer named Jesus was called *Justus* (Latin) in Colossians 4:11. Even the Messiah was called *Christ* (John 4:25).
 
 
 <br>
