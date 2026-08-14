@@ -36,7 +36,7 @@ slug: hebrew
 
 1. **Unlike the Tribes, New Testament believers weren't given Hebrew names.**
 
-    - When writing to believers, the Apostle Paul used non-Hebrew names. A lengthy list of names (of believers) is found in Romans 16:1-23. There are many other examples.
+    - In his letter to churches, the Apostle Paul used non-Hebrew names to refer to believers. Romans 16:1-23 includes a lengthy list of names. There are many other examples among Paul's writings.
 
     - The writers of the New Testament did not use "Yahshua" when referring to Jesus.
 
@@ -47,13 +47,14 @@ slug: hebrew
 
 <br>
 
-2. **The writings of the Early Church also did not use Hebrew names.** Believers used the word “Jesus” and the word “Christ” when communicating to other believers (example: 1 Clement 21:6, which was written before 100 AD).
+2. **The writings of the Early Church also did not use Hebrew names.** Believers used the word “Jesus” and the word “Christ” (example: 1 Clement 21:6, which was written before 100 AD).
+
 
 <br>
 
 3. **Originally, the Twelve Tribes themselves did not use Hebrew.**
 
-    - The Tribes went many years using only English names and terms.
+    - The Tribes went years with using only English names and terms.
 
     - The pattern of assigning new Hebrew names for members (and using Hebrew for a few other terms) was not introduced until well after the organization was established.
 
