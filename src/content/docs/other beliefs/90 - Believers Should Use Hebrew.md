@@ -46,8 +46,9 @@ slug: hebrew
 
 <br>
 
-2. **The writings of the Early Church also did not use Hebrew names.** Believers in the early church used the word “Jesus” and the word “Christ” when communicating to other believers (example: 1 Clement 21:6, which was written before 100 AD).
+2. **The writings of the Early Church also did not use Hebrew names.** Believers used the word “Jesus” and the word “Christ” when communicating to other believers (example: 1 Clement 21:6, which was written before 100 AD).
 
+<br>
 
 3. **Originally, the Twelve Tribes themselves did not use Hebrew.**
 
@@ -55,6 +56,7 @@ slug: hebrew
 
     - The pattern of assigning new Hebrew names for members (and using Hebrew for a few other terms) was not introduced until well after the organization was established.
 
+<br>
 
 4. **The Tribes are inconsistent in their use of Hebrew.**
 
@@ -64,6 +66,7 @@ slug: hebrew
 
     - Almost all members of the Tribes don't know how to read, write, or speak Hebrew (apart from their "names" and a few other individual words).
 
+<br>
 
 5. **The Tribes' usage of "Edah" is not accurate nor biblical.**
 
@@ -80,7 +83,7 @@ slug: hebrew
 
     - The rise of Aramaic, and the decline of Hebrew, is a fascinating history.[^1]
 
-    - The New Testament provides a variety of cases in which Aramaic (and not Hebrew) was used by Jesus, the Jews, and the early Christians.
+    - The New Testament provides a variety of examples in which Aramaic (and not Hebrew) was used by Jesus, the Jews, and the early Christians.
 
     - The Hebrew terms that do exist in the New Testament (like "Emmanuel" and "Messiah") are often present due to Old Testament connections.
  
@@ -88,8 +91,8 @@ slug: hebrew
 
     - Examples of Aramaic (not Hebrew) words being used in the New Testament:
   
-      - **Raca** – "Fool", "empty-headed", or "worthless person" (Matthew 5:22)
-      - **Mammon** – "Money", "wealth", or "possessions" (Matthew 6:24, Luke 16:9, Luke 16:11, Luke 16:13)
+      - **Raca** – "Fool" or "empty-headed" (Matthew 5:22)
+      - **Mammon** – "Money" or "wealth" (Matthew 6:24, Luke 16:9, Luke 16:11, Luke 16:13)
       - **Golgotha** – "Place of the skull" (Matthew 27:33, John 19:17, Mark 15:22)
       - **Boanerges** – "Sons of Thunder" (Mark 3:17)
       - **Talitha cumi** – "Little girl, arise" (Mark 5:41)
@@ -105,9 +108,9 @@ slug: hebrew
 
 7. **Greek was often preferred over Hebrew.**
 
-    - The New Testament primarily quotes the Greek version of the Old Testament, not the Hebrew version. Many Jews in Jesus' day had lost fluency in Hebrew, but Greek had become the universal language of that region of the world. Biblical writers routinely used the Greek title *Kyrios* ("Lord") and *Theos* ("God") to translate Yahweh/Elohim rather than using the original Hebrew letters or pronunciation.
+    - The New Testament primarily quotes the Greek version of the Old Testament, not the Hebrew version. Many Jews in Jesus' day had lost fluency in Hebrew, but Greek had become the universal language in that region of the world. Biblical writers routinely used the Greek title *Kyrios* ("Lord") and *Theos* ("God") to translate the Old Testament words *Yahweh* and *Elohim* rather than using the original Hebrew letters/wording.
 
-    - When the Apostles established order and leadership positions in the local churches, they chose standard Greek administrative terms rather than Old Testament Hebrew temple terms:
+    - When the Apostles established leadership positions in the local churches, they chose standard Greek administrative terms rather than Old Testament Hebrew temple terms:
       - **Episkopos** (*Bishop / Overseer*) – A standard Greek civic term.
       - **Presbyteros** (*Elder*) – A general Greek term for age and governance.
       - **Diakonos** (*Deacon / Servant*) – A common Greek word for a waiter or assistant.
@@ -121,11 +124,12 @@ slug: hebrew
  
     - However, the Tribes still use the word "Hallelujah" instead of the actual Hebrew *Halləlū-Yāh.* They use "Armageddon" instead of *Harmagedōn.*
 	
-	- The Tribes use the English word "Messiah" as if it came directly from Hebrew. But it's actually an English word derived from the Greek word Μεσσίας, which itself came from Hebrew. If they wanted to use Hebrew directly, they'd use *Māšīaḥ* instead.
+	- The Tribes use the English word "Messiah" as if it came directly from Hebrew. It's actually an English word derived from the Greek word Μεσσίας, which itself came from Hebrew. If they wanted to use Hebrew directly, they'd use *Māšīaḥ* instead.
 
 
 9. **Scripture simply doesn't teach that Hebrew will be the language of Heaven (or "the Eternal Age").**
 
+<br>
 
 [^1]: Over 500 years before Christ, the Jewish nation was exiled to Babylon. They began adopting the regional Aramaic language for their daily life, trade, and diplomacy.
 
@@ -133,6 +137,6 @@ slug: hebrew
 
     By the time of Jesus, Aramaic had become the dominant language within Israel's Jewish population. It was used in daily life at markets, in homes, and within communities.
 
-    This is why a variety of Aramaic phrases (such as Abba, Cephas, and Golgotha)appear in the Gospels -- as well as in other New Testament books (such as Maranatha).
+    This is why a variety of Aramaic phrases (such as *Abba*, *Cephas*, and *Golgotha*) appear in the Gospels -- as well as in other New Testament books (such as Maranatha).
 
     By 200-400 AD, Hebrew had largely died out as a mother tongue across the nation.
