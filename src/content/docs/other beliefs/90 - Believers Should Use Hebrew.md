@@ -37,7 +37,7 @@ slug: hebrew
 
     - In his letters to churches, the Apostle Paul used non-Hebrew names to refer to believers. Romans 16:1-23 includes a lengthy list of people who are saved, but who don't have Hebrew names. There are many other examples among Paul's writings.
 
-    - The writers of the New Testament did not use "Yahshua" when referring to Jesus.
+    - The writers of the New Testament did not use "Yahshua" when referring to Jesus. Instead, they used the Greek word Ἰησοῦς (Acts 2:36, Acts 9:5, Acts 17:3, Romans 8:11, etc), which eventually makes its way into English as "Jesus."
 
     - When Gentiles got saved in the book of Acts and the Epistles, they were not re-baptized with new Hebrew names. They often retained their original Greek and Roman names (many of which were originally derived from Greek gods or pagan origins). Examples include Apollos (Acts 18:24), Priscilla (Acts 18; Romans 16:3), Aquilla (Acts 18; Romans 16:3), Titus (Titus 1:4, Galatians 2:1), and Aristarchus (Colossians 4:10, Philemon 1:24).
 	
