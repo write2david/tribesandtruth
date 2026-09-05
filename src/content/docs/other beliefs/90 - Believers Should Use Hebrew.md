@@ -75,7 +75,7 @@ slug: hebrew
 
     - The New Testament word for "church" does not come from Hebrew.
 
-	- The Hebrew word "Edah" does not mean "beehive" even though the Tribes say that it does.
+	- The Hebrew word "Edah" does not also mean "beehive" even though the Tribes say that it does.
 
 
 <br>
@@ -84,7 +84,7 @@ slug: hebrew
 
     - The rise of Aramaic, and the decline of Hebrew, is a fascinating history.[^1]
 
-    - The New Testament provides a variety of examples in which Aramaic (and not Hebrew) was used by Jesus, the Jews, and the early Christians.
+    - The New Testament provides a variety of examples in which Aramaic was used by Jesus, the Jews, and the early Christians.
 
     - The Hebrew terms that do exist in the New Testament (like "Emmanuel" and "Messiah") are often present due to Old Testament connections.
  

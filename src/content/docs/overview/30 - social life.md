@@ -65,7 +65,7 @@ slug: social-life
 
 - Adults are required to use corporal punishment when disciplining children. There have been many reports of child abuse committed under the banner of "discipline," including severe beatings, locking children in rooms for days, and depriving children of food.
 
-- Children attend school only up to grade 8, with all classes taught on Tribes' property by group members.
+- Children attend school ("training")  only up to grade 8, with all classes taught on Tribes' property by group members.
 
 - Kids are not allowed to have toys and dolls, and are prohibited from playing organized sports and video games. They are supposed to stay busy enough that they they don't have time for "playing pretend." They are typically not allowed to use phones and computers. They are not allowed to read fiction or watch TV. They are often prohibited from interacting with other children their age, in order to prevent "foolishness."
 
@@ -89,11 +89,13 @@ slug: social-life
 
 - The Tribes generally prefer natural remedies rather than going to doctors trained in Western medicine.
 
+- Wives are not allowed to sleep in the same bed as their husbands during their monthly cycle.
+
 - Most babies are delivered at home rather than in a hospital.
 
 - Most babies and children in the Tribes do not get vaccinated. 
 
-- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The sickness or injury is considered God's punishment, and person is called to confess and repent (with additional punishing consequences sometimes provided by the Tribes). Mothers who have a stillbirth are sometimes told their child died because of the mother's sin.
+- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The sickness or injury is seen as God's punishment, and person is called to confess and repent (with additional punishing consequences sometimes provided by the Tribes). Mothers who have a stillbirth are sometimes told their child died because of the mother's sin.
 
 
 ## Motivation
