@@ -32,9 +32,15 @@ slug: social-life
 
 - The group is known for their folk-style music and dancing, simple and "natural" esthetic, and rejection of other organized religions.
 
-- They are instructed not to use "How are you?" when greeting people.
-
 - The Tribes have a negative view of dogs and generally do not have pets.
+
+- The Tribe have their own [insider terminology](/dictionary). They have also redefined some words in order to match up with their beliefs.[^1]
+
+- The Tribes are a fairly-closed social system, and so there are numerous common phrases and patterns of speaking.
+
+  - For example, they are instructed not to use "How are you?" when greeting people.
+  
+  - Common phrases include "It's better to be wrong together than right alone" and "They are coming against The Anointing."
 
 
 ## Dress Code
@@ -131,12 +137,14 @@ slug: social-life
 - Non-members (and most members) are also not permitted to attend "councils," "apostolic workers meetings," "kahals,"[^4] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
 
 
-[^1]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
+[^1]: Here are some examples of the Tribes seeking to redefine terms/reality: (1) Since they reject food that is "unclean" according to the Old Testament, they consider unclean food to not to be "food" at all (in order to avoid the New Testament permission to eat unclean food). (2) Since they promote the term "Yahshua" instead of "Jesus," they have created a false etymology of "Jesus" to tie that name with the pagan "Zeus." (3) They often use the word "Gospel" in relation to works-based behavior that the Bible doesn't use the word "Gospel" for. (4) In order to avoid the idea that Jesus is Divine, they classify certain statements of His as being spoke by God the Father though Jesus, and other statements of His as being spoken only by Jesus the man.
 
-[^2]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
+[^2]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
 
-[^3]: Additional comments from the Tribe's internal documents: "lots of dairy products will make a person fat like a little cow" and "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious."
+[^3]: Yerba mate was previously thought by some to have included a non-caffeine chemical ("mateine") that provided an energy boost without the side-effects of caffeine. The Tribes bought into this idea and promoted it internally and publicly. However, scientific studies (such as [this one](https://www.unl.edu.ar/noticias/leer/8809/La_mateina_no_existe.html) by an Argentinian university) have shown that "mateine" does not exist. The most generous explanation would be that [additional chemicals in yerba mate](https://www.latienda.ee/post/debunking-yerba-mate-myths) provide additional biological effects (beyond caffeine-related effects). However, the claim that yerba mate contains no caffeine is [completely false](https://www.ncbi.nlm.nih.gov/books/NBK507022/).
 
-[^4]: Occasionally spelled "qahal" or "chahal," this is a *judgment meeting* that can be called as needed.
+[^4]: Additional comments from the Tribe's internal documents: "lots of dairy products will make a person fat like a little cow" and "Unfortunately, a person can drink pasteurized milk till they're blue in the face and gain no calcium from it... And without calcium, folks can be pretty up-tight, restless or anxious."
 
-[^5]: From the Tribes' internal literature: "People have been complaining of pinworms... Our Father [God] told us many years ago to eat pumpkin seeds. There is something in the pumpkin seeds that deals with those pinworms. If you get the medicine in the drugstore it is made from pumpkin seeds."
+[^5]: Occasionally spelled "qahal" or "chahal," this is a *judgment meeting* that can be called as needed.
+
+[^6]: From the Tribes' internal literature: "People have been complaining of pinworms... Our Father [God] told us many years ago to eat pumpkin seeds. There is something in the pumpkin seeds that deals with those pinworms. If you get the medicine in the drugstore it is made from pumpkin seeds."
