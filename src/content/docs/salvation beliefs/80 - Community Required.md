@@ -3,7 +3,7 @@ title: Is living in community required for salvation?
 description: Description
 sidebar:
   label: Community requirement
-  order: 70
+  order: 80
 slug: community
 draft: true
 banner:
@@ -11,7 +11,7 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-- Overview
+- [check the wording to make sure this quote is accurate]  "Obeying this gospel entails one doing “all he could.” Of course, you cannot do that if you are not in the Body. You are not even saved if you are not in the Body. One can only give “all” in the Body. The Body is the Community, and the Community is the Body of Messiah, according to Col 1:18 and Eph 1:22-23. "
 :::
 
 ## Response

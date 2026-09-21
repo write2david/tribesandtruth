@@ -17,6 +17,7 @@ banner:
 ## Response
   
 1. We are slaves to sin. Our willness changes only after we get saved. And at that point, it's not that we're willing, it's that He starts to *make* us willing. "He works in us to will and to act according to His good pleasure."
+2. (add the argument from the upside down tree )
 
 <br>
 

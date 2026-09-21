@@ -15,6 +15,8 @@ banner:
 
 ## Response
 
+The Tribes re-define the Gospel in many ways. It's the kingdom of God. It's community. It's surrender. It's everything besides the good news of Jesus reconciling us to God.
+
 The Tribes believe they are worthy of being God's special people...
 
 ...because they've made difficult psychological choices...
