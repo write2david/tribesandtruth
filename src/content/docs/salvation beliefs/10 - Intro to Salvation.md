@@ -14,11 +14,13 @@ Salvation happens via the Gospel.
 
 The Tribes expand the definition of "the Gospel" (and partially re-define the Gospel) in many ways, compared to what Scripture teaches.
 
-The reason they do this is because they conflate the root of the Gospel (faith) with the fruit of the Gospel (a changed life). See [The Upside Down Tree](https://docs.google.com/document/d/1dsy4d5ATrpShBE9S_UJgzD1Ggx2JOYLCw3x6TvV2gqI/edit?usp=sharing).
+The reason they do this is because they conflate the **root** of the Gospel (faith) with the **fruit** of the Gospel (a changed life). See [The Upside Down Tree](https://docs.google.com/document/d/1dsy4d5ATrpShBE9S_UJgzD1Ggx2JOYLCw3x6TvV2gqI/edit?usp=sharing).
 
 Further, they specify that specific fruit (and not always biblically-required fruit) is part of that root.
 
-For the Tribes, salvation happens when you give up your possessions and entrust your life to other people. The Gospel is its own community. It's surrender. It's a lot of things beyond the good news of Jesus loves you enough that He died to personally offer you reconciliation with God through faith in Himself.
+It's a lot of things beyond the good news of Jesus loves you enough that He died to personally offer you reconciliation with God through faith in Himself.
+
+They also conflate the "Messiah" (Jesus/Yahshua) with "the Body of Messiah" (the Tribes). Surrendering to Messiah is considered the same surrendering to the Tribes. Being baptized into Jesus is the same as being baptized into the Tribes. The act of making a commitment to the Messiah is also a commitment to the Tribes. Forsaking worldly possessions to follow Jesus means giving all your possessions to the Tribes. Entrusting your entire life to Jesus means entrusting your entire life to the Tribes' leadership. 
 :::
 
 ## Response
