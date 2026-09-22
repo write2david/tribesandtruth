@@ -8,13 +8,15 @@ slug: baptism
 ---
 
 :::tip[Overview]{icon="sun"}
-- The Twelve Tribes Communities teach that water baptism ("immersion") is a necessary step for salvation. "Baptism is not something we do after we are saved. Baptism is the actual event of salvation."
+- The Twelve Tribes Communities teach that water baptism ("immersion") is a necessary step for salvation. As their own writing says: "Baptism is not something we do after we are saved. Baptism is the actual event of salvation."
 
-- This view is called "baptismal regeneration." On this point, the Twelve Tribes align with most Roman Catholics, Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans). This is much different than the traditional Protestant belief that baptism is simply a public statement of identifying with Christ via the Gospel.
+- This view is called "baptismal regeneration." Other groups that hold to this belief include most Roman Catholics, Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans).
 
-- However, the Tribes go one step further than traditional baptismal regeneration, because a person's connection to the Tribes is viewed as the primary indicator of salvation. So, they view water baptism as also the step of being "immersed" into the *Body of Messiah* (aka the Tribes). Their founder said: "We need to quit saying *baptized.* Use the word *immersed* into Messiah."
+- This perspective on baptism is much different than the traditional Protestant belief that baptism is simply a symbolic public statement of identifying with Christ via the Gospel.
 
-- In other words, they tie baptism to both the moment of salvation (from Jesus) *and* the decision to "entrust our lives" to the other members of the Twelve Tribes. "This transfer of kingdoms, which is salvation itself, happens in baptism where we renounce and forsake our old life and possessions, calling upon Yahshua to save us, and then we entrust our lives into the hands of his body on earth."
+- However, the Tribes go one step further than most groups that hold to baptismal regeneration. They believe that a person's connection to the Tribes is viewed as the primary indicator of salvation. So, they view water baptism as **also** the step of being "immersed" into the *Body of Messiah* (aka the Tribes). Their founder said: "We need to quit saying *baptized.* Use the word *immersed* into Messiah."
+
+- In other words, they tie baptism to both the moment of salvation *and* the decision to "entrust our lives" to the other members of the Twelve Tribes. "This transfer of kingdoms, which is salvation itself, happens in baptism where we renounce and forsake our old life and possessions, calling upon Yahshua to save us, and then we entrust our lives into the hands of his body on earth."
 :::
 
 ## Response
