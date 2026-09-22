@@ -20,7 +20,7 @@ Further, they specify that specific fruit (and not always biblically-required fr
 
 It's a lot of things beyond the good news of Jesus loves you enough that He died to personally offer you reconciliation with God through faith in Himself.
 
-They also conflate the "Messiah" (Jesus/Yahshua) with "the Body of Messiah" (the Tribes). Surrendering to Messiah is considered the same surrendering to the Tribes. Being baptized into Jesus is the same as being baptized into the Tribes. The act of making a commitment to the Messiah is also a commitment to the Tribes. Forsaking worldly possessions to follow Jesus means giving all your possessions to the Tribes. Entrusting your entire life to Jesus means entrusting your entire life to the Tribes' leadership. 
+They also conflate the "Messiah" (Jesus/Yahshua) with "the Body of Messiah" (the Tribes). Surrendering to Messiah = surrendering to the Tribes. Being baptized into Jesus is the same as being baptized into the Tribes. The act of making a lifelong commitment to the Messiah is also a lifelong covenant to the Tribes. Forsaking worldly possessions to follow Jesus means giving all your possessions to the Tribes. Entrusting your entire life to Jesus means entrusting your entire life to the Tribes' leadership. Changing your own opinions to match up with God's objective truth (His definition of reality) means changing your opinions to match up with whatever the Tribes' leadership says.
 :::
 
 ## Response
