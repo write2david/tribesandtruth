@@ -21,13 +21,17 @@ slug: baptism
 
 ## Response
 
-- Salvation comes by grace, through faith, apart from works — including the work of being baptized.
+- The Bible teaches that salvation comes by grace, through faith, apart from works — including the work of being baptized.
 
-- **Ephesians 2:8–9** — We are saved by grace through faith, "not a result of works, so that no one may boast."
-- **Romans 4:5** — Our righteousness is credited to the one who simply trusts God.
-- **Titus 3:5** — God saved us "not because of works done by us in righteousness, but according to his own mercy."
-- **Romans 1:16** — The Gospel is "the power of God for salvation to everyone who believes." So if someone believes apart from baptism, they can still be saved.
-- **John 3:16** — Belief, not baptism, is the one stated requirement for salvation.
+  - Ephesians 2:8–9 — We are saved by grace through faith, "not a result of works, so that no one may boast."
+
+  - Romans 4:5 — Our righteousness is credited to the one who simply trusts God.
+
+  - Titus 3:5 — God saved us "not because of works done by us in righteousness, but according to his own mercy."
+
+  - Romans 1:16 — The Gospel is "the power of God for salvation to everyone who believes." So if someone believes apart from baptism, they can still be saved.
+
+  - John 3:16 — Belief, not baptism, is the one stated requirement for salvation.
 
 - Adding any "work" (including baptism) on top of faith reopens the door to the "boasting" that Ephesians 2:9 rules out.
 
@@ -41,15 +45,7 @@ Scripture repeatedly shows people saved, forgiven, and justified with no baptism
 
 - **The thief on the cross** (Luke 23:39–43). Jesus tells the dying criminal, "Today you will be with me in paradise." Baptism did not happen.
 
-- **Abraham** (Genesis 15:6; Romans 4). Abraham was credited with righteousness through faith alone, centuries before Christian baptism existed. Paul treats Abraham's case as the pattern for how anyone is justified (Romans 4:23–24).
-
-- **People Jesus forgave directly**, with no baptism in view:
-
-  - The paralytic (Matthew 9:1–7)
-  - The sinful woman (Luke 7:36–50, where Jesus says, "Your faith has saved you; go in peace")
-  - The tax collector (Luke 18:9–14)
-  - Zacchaeus (Luke 19:1–9)
-  - The woman caught in adultery (John 8:1–11)
+- **Abraham** (Genesis 15:6; Romans 4). Abraham was credited with righteousness through faith alone, without baptism. Paul treats Abraham's case as the pattern for how anyone is justified (Romans 4:23–24).
 
 - **Cornelius and his household** (Acts 10:44–48). The Holy Spirit falls on them *before* they are baptized, while Peter is still speaking. Peter later describes this as God giving them "the same gift" given to the apostles at the start (Acts 11:17), and receiving the Spirit is elsewhere tied directly to belonging to Christ (Romans 8:9). Their baptism afterward confirms a salvation already evident, rather than causing it.
 
@@ -57,14 +53,21 @@ Scripture repeatedly shows people saved, forgiven, and justified with no baptism
 
 - **Paul's own summary of the gospel** (1 Corinthians 15:1–4). Paul explains the ingredients of the Gospel as: Christ's death, burial, and resurrection, received by faith. Baptism is not listed as a core part of the saving message.
 
-- **Paul distinguishes his mission from baptizing** (1 Corinthians 1:17): "Christ did not send me to baptize but to preach the gospel." If baptism conveyed salvation, it is hard to explain an apostle treating it as secondary to his primary calling.
+- **Paul distinguishes his mission from baptizing** (1 Corinthians 1:17): "Christ did not send me to baptize but to preach the gospel." If baptism was the core moment of salvation, it is hard to explain an apostle treating it as secondary to his primary calling.
+
+- **People Jesus forgave directly**, with no baptism in view:
+  - The paralytic (Matthew 9:1–7)
+  - The sinful woman (Luke 7:36–50, where Jesus says, "Your faith has saved you; go in peace")
+  - The tax collector (Luke 18:9–14)
+  - Zacchaeus (Luke 19:1–9)
+  - The woman caught in adultery (John 8:1–11)
 
 
 ## Addressing Rebuttals
 
 ### Mark 16:16
 
-This verse states: "Whoever believes and is baptized will be saved; whoever does not believe will be condemned."
+*"Whoever believes and is baptized will be saved; whoever does not believe will be condemned."*
 
 Three points limit how much weight this verse can carry:
 
@@ -72,25 +75,25 @@ Three points limit how much weight this verse can carry:
 
 2. Most textual scholars consider Mark 16:9–20 a later addition, absent from the earliest Greek manuscripts, and so probably not part of the original inspired text of the Bible.
 
-3. If this verse meant that unbaptized-yet-believing people weren't saved, then it would contrast with the many other passages listed above.
+3. If this verse meant that unbaptized-yet-believing people aren't saved, then it would contrast with the many other passages listed above.
 
 
 ### Acts 2:38
 
-This verse states: "Repent and be baptized ... for the forgiveness of your sins."
+*"Repent and be baptized ... for the forgiveness of your sins."*
 
 The entire issue here is based on the preposition "for" (which comes from the Greek word *eis*). This Greek word can mean "in order to obtain," but it can also mean "because of" or "with reference to" something already true.
 
-- **Matthew 3:11** — John says he baptizes "for [*eis*] repentance." Baptism doesn't produce repentance; it responds to it.
+- Matthew 3:11 — John says he baptizes "for [*eis*] repentance." Baptism doesn't produce repentance; it responds to it.
 
-- **Matthew 12:41 / Luke 11:32** — the Ninevites "repented at [*eis*] the preaching of Jonah" — repentance came *in response to* the preaching, not because the preaching manufactured it.
+- Matthew 12:41 / Luke 11:32 — the Ninevites "repented at [*eis*] the preaching of Jonah" — repentance came *in response to* the preaching, not because the preaching manufactured it.
 
 Read that way, Acts 2:38 fits the same pattern: baptism marks a forgiveness already occurring, rather than causing it. This also fits Acts 10:44–48, where the Spirit is given before baptism.
 
 
 ### Acts 22:16
 
-This verse states: "Get up and be baptized, and wash away your sins, calling on His name"
+*"Get up and be baptized, and wash away your sins, calling on His name"*
 
 The grammar is instructive: "be baptized" and "wash away" are both imperatives, while "arise" and "calling" are participles.
 
@@ -101,6 +104,6 @@ That structure allows the verse to be read as, "Rising up, be baptized, and wash
 
 ### 1 Peter 3:21
 
-This verse states: "Baptism ... now saves you"
+*"Baptism ... now saves you"*
 
 Peter is referring to baptism by the Holy Spirit, not water baptism. In the very same verse, he specifies that this isn't water-baptism, as it's "not" the kind of baptism that can provide "removal of dirt from the body" but is rather it is "an appeal to God for a good conscience." The good conscience is due to existing forgiveness provided by the Gospel.
