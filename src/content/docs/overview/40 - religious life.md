@@ -89,7 +89,7 @@ slug: religious-life
 
 [^1]: As they've published: "We are grateful for each revitalizing revelation we receive through the anointing [that is, the leadership]."
 
-[^2] Despite having "Christian" as part of a previous *official* name for their group, and despite the additional similarities listed on this page.
+[^2]: Despite having "Christian" as part of a previous *official* name for their group, and despite the additional similarities listed on this page.
 
 [^3]: Among most Restorationist movements, the underlying belief is that true Christianity was lost or corrupted shortly after the death of the original Apostles — a concept known as the Great Apostasy — and that a new specific group has been appointed by God to fully restore the original 1st-century faith, doctrine, and church structure.
 
