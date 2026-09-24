@@ -12,7 +12,7 @@ slug: baptism
 
 - This view is called "baptismal regeneration." Other groups that hold to this belief include most Roman Catholics, Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans).
 
-- This perspective on baptism is much different than the traditional Protestant belief that baptism is simply a symbolic public statement of identifying with Christ via the Gospel.
+- This perspective on baptism is much different than the traditional Protestant belief that baptism is simply a symbolic public statement of identifying with Christ after having received the Gospel. They say that "there is no separation between baptism and salvation. They are simultaneous events."
 
 - However, the Tribes go one step further than most groups that hold to baptismal regeneration. They believe that a person's connection to the Tribes is viewed as the primary indicator of salvation. So, they view water baptism as **also** the step of being "immersed" into the *Body of Messiah* (aka the Tribes). Their founder said: "We need to quit saying *baptized.* Use the word *immersed* into Messiah."
 

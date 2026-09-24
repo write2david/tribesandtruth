@@ -20,6 +20,13 @@ You can live in community and give up your possessions and still not be saved be
 
 Living in community wasn't promoted as requirements for our salvation originally in the tribes.
 
+
+Christians in the Bible didn't necessarily move into a commune...
+
+- Paul moved to Arabia for 3 years after he got saved.
+
+- The Ethiopian eunuch apparently didn't join a community after getting saved (Acts 8:39).
+
   
 Question : “did any christians in the book of acts have their own home ?”
 Answer —> 

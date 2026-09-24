@@ -24,5 +24,6 @@ banner:
 ***
 
 ## Explanation
-- Text goes here.
+
+"For God has consigned everyone to disobedience so that He may have mercy on everyone." (Romans 11:32"
 

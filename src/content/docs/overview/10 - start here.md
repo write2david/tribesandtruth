@@ -24,7 +24,7 @@ slug: start
 
 - His 3rd wife Marsha (known as *Hâ-Êmeq* in the group) is very influential and is still alive today.
 
-- Gene was considered the lead apostle, and his right-hand man was Eddie Wiseman (or *Hakam*). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
+- Gene was considered the lead apostle, and his right-hand man was Charles "Eddie" Wiseman (or *Hakam*). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
 
 - Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D) but had no children with Marsha. This means that both the founder and cofounder have no children currently living in the group.
 
@@ -53,16 +53,4 @@ slug: start
 
 - Further disillusionment has come from situations of child abuse, harsh leadership, a homicide within the community, an elder convicted of child rape & battery, and the death of the founder.
 
-- Yet, leaving the Tribes is often very difficult for primarily 5 reasons:
-
-  1. FEAR OF CONSEQUENCES: Members of the Tribes are taught that exiting the group will result in various types of tragedies (related to safety, health, and morals), as well as going to hell ("Lake of Fire") after dying.
-  
-  2. STRUCTURE & PROVISION: Members who grew up in the Tribes often struggle to know how to function in society apart from the group, since they have never lived independently. And among those who didn't grow up in the Tribes: many joined the Tribes specifically in order to gain the structure that they previously lacked. Parents have often joined the Tribes believing that it would offer a better environment for raising their children. The Tribes have done extensive outreach to those who are "lost" in the world, including many who are unable to function on their own in society (sometimes due to past drug use, etc). While it may be somewhat common for members to secretly not believe the Tribes doctrines, they feel a need for what the Tribes offer.
-  
-  3. RELATIONSHIPS: Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family members and friends who remain in the Tribes. Children (and young adults) fear leaving because their relationship with their parents would be severed. Parents often stay for the same reason: if only one parent wants to leave, the Tribes have been known to move the kids (and remaining parent) to a different location to prevent the departing parent from taking the kids out of the Tribes.
-  
-  4. FINANCES: Individual ownership of money is non-existent in the Tribes (apart from some leadership, who may have property in their name). Because of this, it is a challenge to provide for oneself after leaving. Some who join the group simply has no outside support system to rely on, and they would have nowhere to go if they left the group.
-  
-  5. BELIEFS & IDENTIY: The choice to leave the Tribes is a choice to discard some major core beliefs of the Tribes. Strongly-held (and long-held) beliefs can be difficult to forsake, and major changes in worldview can be disorienting. Group-think runs strong in the Tribes and members are trained to reject individual thinking.[^1] This dynamic hinders a member from initiating the thought of leaving. Members also put up a strong wall against outside perspectives, and are trained to share outside input with whoever is supervising them, which hinders *others* from initiating any consideration of leaving. Further, self-identity is closely connected with Tribes' membership, and so departure from membership can leave former members struggling to establish a new understanding of themselves.
-  
-  [^1]: The Tribes often use the phrase: "It's better to be wrong together than to be right alone." This becomes acceptable to members because they ultimately see the Tribes itself as the source of salvation, rather than salvation being tied to objective truth. As the Tribes have written: "All servants of God must be delivered from a life of reason... Reasoning is rebellion in its highest form." [Reasoning, 11/18/90]
+- Yet, leaving the Tribes is often [very difficult](/leaving).
