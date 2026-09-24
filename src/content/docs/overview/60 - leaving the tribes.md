@@ -18,6 +18,20 @@ slug: leaving
 :::
 
 
+## Common Reasons for Leaving
+
+1. Disillusionment with the group's vision or identity (when there are integrity issues regarding the difference in preaching and behavior).
+
+2. Suffering negative consequences from being a member of the Tribes (such as being overworked, experiencing injustice, or unaddressed health concerns).
+
+3. Wanting freedom to make more personal choices than the Tribes allow.
+
+4. Conviction that the Tribes aren't following Scripture.
+
+
+
+## Fears of Leaving
+
 1. FEAR OF CONSEQUENCES: Members of the Tribes are taught that exiting the group will result in various types of tragedies (related to safety, health, and morals), as well as going to hell ("Lake of Fire") after dying.
 
   
