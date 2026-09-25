@@ -18,13 +18,17 @@ slug: joining-leaving
 
 ## Common Reasons for Joining
 
-1. Some are drawn to the Tribes due to its aesthetic and its communal "folk" lifestyle.
+### Aesthetic
+Some are drawn to the Tribes due to its  and its communal "folk" lifestyle.
 
-2. Some join the Tribes to find structure for their chaotic life, or to seek a refuge from the problems of society.
+### Shelter
+Some join the Tribes to find structure for their chaotic life, or to seek a refuge from the problems of society.
 
-3. Some parents see the Tribes as an alternative supportive environment to raise their children.
+### Parental Support
+Some parents see the Tribes as an alternative supportive environment to raise their children.
 
-4. Some join the Tribes for spiritual reasons, finding the theological perspective the Tribes to be appealing.
+### Pursuit of God
+Some join the Tribes for spiritual reasons, finding the theological perspective the Tribes to be appealing.
 
 
 ## Common Reasons for Leaving
@@ -40,23 +44,24 @@ slug: joining-leaving
 
 ## The Difficulty of Leaving
 
-### CONSEQUENCES
+### Consequences
 - Members are taught that exiting the group will result in various types of tragedies to their safety, lifestyle, and/or health
 
 - The Tribes often reinforces this fear by telling stories of tragic events that have supposedly happened to ex-members.
 
 
-### ETERNAL PUNISHMENT
+### Eternal Punishment
 Members are told that if they leave then they will go to hell ("Lake of Fire") after dying.
   
-3. STRUCTURE & PROVISION
+
+### Structure & Provision
 - Members who grew up in the Tribes often struggle to know how to function in society apart from the group since they have never lived independently.
 
 - Some who joined as adults arrived during times of hardship or addiction relying entirely on the group's daily structure and shelter.The Tribes have done extensive outreach to those who are "lost" in society and were struggling to function on their own.
 
 - While it may be somewhat common for members to secretly not believe the Tribes' doctrines, they feel a need for what the Tribes offer.
 
-4. RELATIONSHIPS:
+### Relationships
 - Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family members and friends who remain in the Tribes.
 
 - Children (and young adults) fear leaving because their relationship with their parents would be severed.
@@ -64,14 +69,14 @@ Members are told that if they leave then they will go to hell ("Lake of Fire") a
 - Parents often stay for the same reason: if only one parent wants to leave, the Tribes have been known to move the kids (and remaining parent) to a different location to prevent the departing parent from taking the kids out of the Tribes.
   
 
-5. FINANCES
+### Finances
 
 - Individual ownership of money is non-existent in the Tribes (apart from some leadership, who may have property in their name). 
 
 - Because of this, it is a challenge to provide for oneself after leaving. Some who join the group simply has no outside support system to rely on, and they would have nowhere to go if they left the group.
 
 
-6. BELIEFS & IDENTITY
+### Beliefs & Identity
 
 - The choice to leave the Tribes is a choice to discard some major core beliefs of the Tribes. Strongly-held (and long-held) beliefs can be difficult to forsake, and major changes in worldview can be disorienting.
 
