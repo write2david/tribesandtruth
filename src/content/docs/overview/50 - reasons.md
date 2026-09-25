@@ -22,13 +22,13 @@ slug: joining-leaving
 - Many members were drawn to the Tribes due to its communal "folk" lifestyle, natural aesthetic, and "common sense" values.
 
 ### Shelter
-- Some join in order to find structure for their chaotic lives, or to seek a refuge from the problems of society.
+- Some join the Tribes in order to find structure for their chaotic lives, or to seek a refuge from the problems of society.
 
 ### Parental Support
 - Some see the Tribes as an alternative supportive environment to raise their children.
 
 ### Pursuit of God
-- Some join specifically for spiritual reasons. They may find the theological perspective the Tribes to be appealing.
+- Some join specifically for spiritual reasons. They may find the theological perspectives the Tribes to be appealing.
 
 - Other arrive in pursuit of a religious outlet to satisfy spiritual yearnings that were not satisfied by prior membership in other religious groups.
 
@@ -36,19 +36,22 @@ slug: joining-leaving
 ## Common Reasons for Leaving
 
 ### Disillusionment
-- Former members often report a disconnect between the Tribes' internal practices and their publicly-promoted ideals.
+- Former members often report a disconnect between the Tribes' internal practices and the values that they so strongly promote.
 
 - Integrity issues become more difficult to accept when they include leadership, or when leadership responds poorly to such issues.
 
 ### Suffering
-- Former members sometimes report negative consequences of membership in the Tribes.
+- Former members sometimes report negative consequences of their membership in the Tribes.
 
-- Common themes include being overworked, child abuse, experiencing injustices, unaddressed medical concerns, and forced separation from family members.
+- Common concerns include: being overworked, child abuse, experiencing injustices, unaddressed medical concerns, and forced separation from family members.
 
 ### Decision & Authority
 - The Tribes makes decisions about almost every aspect of its members lives, including: where to live, how to spend time, what to wear, what to eat, how to think, and what work to do.
 
-- Former members sometimes report that they left because they lacked freedom to make personal choices while in the Tribes.
+- Members are taught to "submit" to the decisions made by leadership, but submitting to hurtful decisions can be difficult.
+
+- Former members sometimes report that they left because they lacked freedom to make personal choices that were important to them.
+
 
 ### Theological Convictions
 - Those who join the Tribes do not initially learn all the beliefs of the Tribes.
@@ -63,10 +66,9 @@ slug: joining-leaving
 
 - The Tribes often reinforces this fear by telling stories of tragic events that have supposedly happened to ex-members.
 
-
 ### Eternal Punishment
-Members are told that if they leave then they will go to hell ("Lake of Fire") after dying.
-  
+- Members are told that if they leave then they will go to hell ("Lake of Fire") after dying.
+
 
 ### Structure & Provision
 - Members who grew up in the Tribes often struggle to know how to function in society apart from the group since they have never lived independently.
@@ -82,13 +84,11 @@ Members are told that if they leave then they will go to hell ("Lake of Fire") a
 
 - Parents often stay for the same reason: if only one parent wants to leave, the Tribes have been known to move the kids (and remaining parent) to a different location to prevent the departing parent from taking the kids out of the Tribes.
   
-
 ### Finances
 
 - Individual ownership of money is non-existent in the Tribes (apart from some leadership, who may have property in their name). 
 
 - Because of this, it is a challenge to provide for oneself after leaving. Some who join the group simply has no outside support system to rely on, and they would have nowhere to go if they left the group.
-
 
 ### Beliefs & Identity
 
@@ -96,7 +96,7 @@ Members are told that if they leave then they will go to hell ("Lake of Fire") a
 
 - Group-think runs strong in the Tribes and members are trained to reject individual thinking.[^1] This dynamic hinders a member from initiating the thought of leaving.
 
-- Members often learn to put up a strong wall against outside perspectives. They are trained to share outside input with whoever is supervising them, which ends up hindering them from independent thought.
+- Members often learn to put up a strong mental wall against outside perspectives. They are trained to share outside input with whoever is supervising them, which ends up hindering them from independent thought.
 
 - Further, self-identity is closely connected with Tribes' membership, and so departure from membership can leave former members struggling to establish a new understanding of themselves.
 
