@@ -3,7 +3,7 @@ title: Where Are the Tribes Located?
 description: The regions where the Twelve Tribes Communities are located.
 sidebar:
   label: Locations
-  order: 50
+  order: 70
 slug: locations
 ---
 
