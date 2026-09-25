@@ -19,39 +19,41 @@ slug: joining-leaving
 ## Common Reasons for Joining
 
 ### Aesthetic
-Some are drawn to the Tribes due to its  and its communal "folk" lifestyle.
+- Many members were drawn to the Tribes due to its communal "folk" lifestyle, natural aesthetic, and "common sense" values.
 
 ### Shelter
-Some join the Tribes to find structure for their chaotic life, or to seek a refuge from the problems of society.
+- Some join in order to find structure for their chaotic lives, or to seek a refuge from the problems of society.
 
 ### Parental Support
-Some parents see the Tribes as an alternative supportive environment to raise their children.
+- Some see the Tribes as an alternative supportive environment to raise their children.
 
 ### Pursuit of God
-Some join the Tribes for spiritual reasons, finding the theological perspective the Tribes to be appealing.
+- Some join specifically for spiritual reasons. They may find the theological perspective the Tribes to be appealing.
+
+- Other arrive in pursuit of a religious outlet to satisfy spiritual yearnings that were not satisfied by prior membership in other religious groups.
 
 
 ## Common Reasons for Leaving
 
 ### Disillusionment
-Former members report a disconnect between the Tribes' internal practices and their publicly-promoted ideals.
+- Former members often report a disconnect between the Tribes' internal practices and their publicly-promoted ideals.
 
-Integrity issues become more difficult to accept when the include leadership, or when leadership responds poorly to them.
+- Integrity issues become more difficult to accept when they include leadership, or when leadership responds poorly to such issues.
 
 ### Suffering
-Former members often report negative consequences of their membership in the Tribes.
+- Former members sometimes report negative consequences of membership in the Tribes.
 
-Common themes include being overworked, child abuse, experiencing injustices, unaddressed medical concerns, and forced separation from family members.
+- Common themes include being overworked, child abuse, experiencing injustices, unaddressed medical concerns, and forced separation from family members.
 
 ### Decision & Authority
-The Tribes makes decisions about almost every aspect of its members life: where to live, how to spend time, what to wear, what to eat, how to think, and what work to do.
+- The Tribes makes decisions about almost every aspect of its members lives, including: where to live, how to spend time, what to wear, what to eat, how to think, and what work to do.
 
-Former members sometimes report that they left because they lacked of freedom to make personal choices while in the Tribes.
+- Former members sometimes report that they left because they lacked freedom to make personal choices while in the Tribes.
 
 ### Theological Convictions
-Those who join the Tribes do not initially learn all the beliefs of the Tribes.
+- Those who join the Tribes do not initially learn all the beliefs of the Tribes.
 
-Over time, some come to believe that the Tribes teachings & practices actually aren't aligned with Scripture.
+- Over time, some come to believe that the Tribes' teachings & practices actually aren't aligned with Scripture.
 
 
 ## The Difficulty of Leaving
@@ -69,9 +71,9 @@ Members are told that if they leave then they will go to hell ("Lake of Fire") a
 ### Structure & Provision
 - Members who grew up in the Tribes often struggle to know how to function in society apart from the group since they have never lived independently.
 
-- Some who joined as adults arrived during times of hardship or addiction relying entirely on the group's daily structure and shelter.The Tribes have done extensive outreach to those who are "lost" in society and were struggling to function on their own.
+- The Tribes have done extensive outreach to those who are "lost" in society and were struggling to function on their own. Some who joined as adults arrived during times of hardship or addiction, relying entirely on the group's daily structure and shelter.
 
-- While it may be somewhat common for members to secretly not believe the Tribes' doctrines, they feel a need for what the Tribes offer.
+- While some members may secretly disbelieve the Tribes' doctrines, they still feel a need for the structure and provision that the Tribes offer.
 
 ### Relationships
 - Due to the practice of shunning, leaving the Tribes usually causes severed relationships with family members and friends who remain in the Tribes.
