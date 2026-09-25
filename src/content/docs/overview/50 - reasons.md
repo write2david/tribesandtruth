@@ -33,13 +33,25 @@ Some join the Tribes for spiritual reasons, finding the theological perspective 
 
 ## Common Reasons for Leaving
 
-1. Disillusionment with the internal behavior of the Tribes (especially when leadership is involved, or when there is a discrepancy between the Tribes' public messaging and actual practices).
+### Disillusionment
+Former members report a disconnect between the Tribes' internal practices and their publicly-promoted ideals.
 
-2. Negative consequences from membership, such as: experiencing injustices, being overworked, child abuse, unaddressed medical concerns, or forced separation from family members.
+Integrity issues become more difficult to accept when the include leadership, or when leadership responds poorly to them.
 
-3. A lack of freedom to make personal decisions/choices regarding most aspects of life.
+### Suffering
+Former members often report negative consequences of their membership in the Tribes.
 
-4. Coming to the conviction that the Tribes teachings & practices actually aren't aligned with Scripture.
+Common themes include being overworked, child abuse, experiencing injustices, unaddressed medical concerns, and forced separation from family members.
+
+### Decision & Authority
+The Tribes makes decisions about almost every aspect of its members life: where to live, how to spend time, what to wear, what to eat, how to think, and what work to do.
+
+Former members sometimes report that they left because they lacked of freedom to make personal choices while in the Tribes.
+
+### Theological Convictions
+Those who join the Tribes do not initially learn all the beliefs of the Tribes.
+
+Over time, some come to believe that the Tribes teachings & practices actually aren't aligned with Scripture.
 
 
 ## The Difficulty of Leaving
