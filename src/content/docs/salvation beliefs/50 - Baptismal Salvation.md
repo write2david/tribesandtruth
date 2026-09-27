@@ -51,6 +51,8 @@ Scripture repeatedly shows people saved, forgiven, and justified with no baptism
 
 - **The Philippian jailer** (Acts 16:31–33). Paul and Silas tell him, "Believe in the Lord Jesus, and you will be saved" — and only later that night is he baptized.
 
+- **The Ethiopian eunuch.** He was baptized through believing that “Jesus is the son of God” completely outside of a community (and then Philip didn’t even take him to a community but God removed him from the eunuch).
+
 - **Paul's own summary of the gospel** (1 Corinthians 15:1–4). Paul explains the ingredients of the Gospel as: Christ's death, burial, and resurrection, received by faith. Baptism is not listed as a core part of the saving message.
 
 - **Paul distinguishes his mission from baptizing** (1 Corinthians 1:17): "Christ did not send me to baptize but to preach the gospel." If baptism was the core moment of salvation, it is hard to explain an apostle treating it as secondary to his primary calling.

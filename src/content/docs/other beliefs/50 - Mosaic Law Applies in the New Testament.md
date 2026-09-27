@@ -27,3 +27,5 @@ The Mosaic Law was given to the Jews and does not apply to Christians.
 1. Quote from the Book of Mark: "he pronounced all foods clean."  The Tribes attempt to get around this by saying that "unclean foods" are not actually "foods." The problem with that is that the Bible uses the word "foods" when describing "unclean foods."
 
 2. Luke 16 says that "the law and the prophets were *until* John [the Baptist]."
+
+3. I am convinced and fully persuaded in the Lord Jesus that nothing is unclean in itself. But if anyone regards something as unclean, then for him it is unclean. (Romans 14:14)
