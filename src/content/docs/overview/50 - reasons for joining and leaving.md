@@ -10,7 +10,7 @@ slug: joining-leaving
 :::tip[Overview]{icon="sun"}
 - Thousands of people have joined the Twelve Tribes Communities over the last 50+ years, often drawn by shared social and spiritual ideals.
 
-- Many have exited the Tribes as well, including some leadership (and family members of leadership). Entire communities in the Twelve Tribes have closed, as members leave or are relocated.
+- Many have exited the Tribes as well, including some leadership (and family members of leadership). Entire communities in the Twelve Tribes [have closed](/locations/#former-locations-of-the-twelve-tribes), as members leave or are relocated.
 
 - Some former members have written books, given interviews, created videos, and contributed to documentaries. Yet, leaving the Tribes is often very difficult for specific reasons.
 :::
