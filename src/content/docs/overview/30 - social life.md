@@ -12,6 +12,10 @@ slug: social-life
   style="width: 100%; max-height: 240px; object-fit: cover; border-radius: 8px; margin-bottom: 1.5rem;" 
 />
 
+
+![Header Image](../../../assets/Social-Life-Header.jpg)
+
+
 :::tip[Overview]{icon="sun"}
 - The Twelve Tribes Communities has created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations.
 
