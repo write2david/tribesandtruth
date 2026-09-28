@@ -47,7 +47,7 @@ slug: dictionary
 **Covering:** A spiritual authority figure, such as a husband or an elder, to whom a member is accountable to ensure there is "no independent action."
 
 
-**Cut Off:** The removal of a person (or group of people) from the community due to sin or attitude issues (such as rebelliousness). The rest of the community is obligated to shun them, and if they are told they are destined for eternal punishment if they do not repent.
+**Cut Off:** The temporary removal of a person (or group of people) from community participation due to sin or attitude issues (such as independent thinking or rebelliousness). They are considered an observer only, until their disciplinary consequences are fulfilled.
 
 
 **Edah:** The Hebrew word for "community."
@@ -92,6 +92,9 @@ slug: dictionary
 
 
 **Second Death:** Eternal condemnation in the Lake of Fire, which is the final destination for the "Unjust and Filthy."
+
+
+**Sent Away:** When a member is considered unrepentant after being disciplined ("cut off"), they may be expelled from the group. The rest of the community is obligated to shun them, and if they are told they are destined for eternal punishment if they do not repent.
 
 
 **Sexton:** A specific member of a community household responsible for the physical care, cleaning, and upkeep of the property.

@@ -45,6 +45,14 @@ slug: joining-leaving
 
 - Common concerns include: being overworked, child abuse, experiencing injustices, unaddressed medical concerns, and forced separation from family members.
 
+### Forced Exits (Expulsion)
+- The Tribes will occasionally "send away" members due to behavioral issues or due to independent thinking.
+
+- If the member is under the age of 18, a parent will go with the child until the parent can find a new guardian for the child, and then the parent will return to the Tribes.
+
+- However, if the Tribes deems the child's problems are caused by poor parenting, then the parents may be sent away as well.
+
+
 ### Decision & Authority
 - The Tribes makes decisions about almost every aspect of its members lives, including: where to live, how to spend time, what to wear, what to eat, how to think, and what work to do.
 
