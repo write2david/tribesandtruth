@@ -6,6 +6,7 @@ sidebar:
   order: 60
 slug: joining-leaving
 ---
+![Header Image](../../../assets/Joining-Leaving-Header.jpg)
 
 :::tip[Overview]{icon="sun"}
 - Thousands of people have joined the Twelve Tribes Communities over the last 50+ years, often drawn by shared social and spiritual ideals.
