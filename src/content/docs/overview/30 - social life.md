@@ -7,7 +7,7 @@ sidebar:
 slug: social-life
 ---
 <img 
-  src="../../assets/social-life-banner.jpg" 
+  src="../../assets/Social-Life-Header.jpg" 
   alt="Twelve Tribes Social Life Header" 
   style="width: 100%; max-height: 240px; object-fit: cover; border-radius: 8px; margin-bottom: 1.5rem;" 
 />
