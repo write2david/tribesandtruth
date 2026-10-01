@@ -23,51 +23,51 @@ slug: locations
 
 ## **Current** Locations of the Twelve Tribes
 
-### Asher: Japan and Australiasia
+#### Asher: Japan and Australiasia
 
 Primary locations include Kyoto (Japan); Katoomba (New South Wales, Australia) and other Australia/Oceania locations.
 
-### Benyamin (Benjamin): Southeastern United States
+#### Benyamin (Benjamin): Southeastern United States
 
 Primary locations include Arcadia and Pine Island (Florida); Asheville and Hiddenite (North Carolina); Brunswick and Savannah (Georgia); Chattanooga and Pulaski (Tennessee); Hillsboro (Virginia); Mobile (Alabama).
 
-### Gad: Canada
+#### Gad: Canada
 
 Primary locations include Chilliwack, Courtenay, and Nelson (British Columbia); Kingston (Ontario); Winnipeg (Manitoba).
 
-### Issachar: Spanish-Speaking South America
+#### Issachar: Spanish-Speaking South America
 
 Primary location is Buenos Aires area (Argentina).
 
-### Levi: Czech Republic
+#### Levi: Czech Republic
 
 Primary locations include Mšecké Žehrovice, Skalná, and Prague.
 
-### Manasseh: Midwestern United States and Colorado
+#### Manasseh: Midwestern United States and Colorado
 
 Primary locations include Overbrook and Lawrence (Kansas); Warsaw (Missouri); Boulder and Manitou Springs (Colorado).
 
-### Naphtali: Brazil
+#### Naphtali: Brazil
 
 Primary locations include Campo Largo, General Carneiro, and Londrina (Paraná); Itapecerica da Serra (São Paulo).
 
-### Reuben: France and Romania
+#### Reuben: France and Romania
 
 Primary locations include Sus (near Navarrenx, France) and Romania. Due to legal pushback, the Tribes moved most of their members (including all children) out of France.
 
-### Shimon (Simeon): Spain and North Africa
+#### Shimon (Simeon): Spain and North Africa
 
 Primary locations include San Sebastián, Igeldo, and Corella; broader association extending into North Africa.
 
-### Yehudah (Judah): Northeastern United States
+#### Yehudah (Judah): Northeastern United States
 
 Primary locations include Island Pond, Bellows Falls/Basin Farm, and Rutland (Vermont); Hyannis, Plymouth, and Milton (Massachusetts); Coxsackie, Ithaca, Cambridge, and Oak Hill (New York); Lancaster (New Hampshire).
 
-### Yoceph (Joseph): Western United States
+#### Yoceph (Joseph): Western United States
 
 Primary locations include Valley Center and Vista (California); Raymond (Washington); Egegik (Alaska).
 
-### Zebulun: United Kingdom and Scandinavia
+#### Zebulun: United Kingdom and Scandinavia
 
 Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England); related UK and Scandinavian locations.
 

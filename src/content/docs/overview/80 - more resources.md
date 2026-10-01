@@ -92,6 +92,8 @@ slug: more
 
 - **Florida:** [Yellow Deli worker arrested](https://www.sheriff-okaloosa.org/shalimar-on-the-run-since-2007-finally-in-custody/) for past unlawful sexual activity with a minor.
 
+- **Connecticut:** A couple "[pleaded guilty](https://apnews.com/article/70a96270b88948d2871ec6baf24a7a3d) to third-degree assault and cruelty for disciplining their children with a 30-inch (76-centimeter) fiberglass rod."
+
 - **[Southern Poverty Law Center](https://en.wikipedia.org/wiki/Southern_Poverty_Law_Center):** [Into The Darkness](https://www.splcenter.org/resources/reports/darkness/)
 
 ## Books About the Tribes
