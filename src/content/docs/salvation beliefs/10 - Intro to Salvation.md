@@ -49,6 +49,29 @@ The overall effect is:
 *To fulfill the requirements for salvation: fallen, unsaved people have the ability and responsibility to make significant changes to their own foundational choices & behavior (including giving up their desires, possessions, and self-will). This differs from Christianity, which does not believe that unsaved people are able (and often not even wanting) to accomplish major steps of biblical transformation ("sanctification") prior to salvation.
 
 
+===
+
+The Tribes say...
+
+Yahshua was only a human but he was found worthy, so he was rewarded with Sonship at his baptism, at which point God indwelt him.
+
+Similarly nowadays, the people who are found worthy are rewarded with sonship at their baptism, at which point God indwells them. 
+
+"Found worthy" = giving your whole life to the Tribes (all your money + possessions + time + mind + heart + body + decision-making + effort + relationships).
+
+
+In contrast, the Bible says...
+
+-- Jesus is God from eternity past
+
+-- No human is worthy
+
+- We are saved despite our unworthiness, not because of worthiness 
+
+- I give my whole life to Jesus Himself, not to His body
+
+- Surrendering authority over my life to Jesus is a result of my salvation (and happens progressively: spiritual growth). It's not a pre-condition of my salvation.
+
 ## Explanation
 
 From "Michael" (a former member of the Tribes)...
