@@ -82,7 +82,7 @@ slug: more
 
 - **Colorado:** [Large fire that started on Tribes property](https://www.9news.com/article/news/local/wildfire/marshall-fire/marshall-fire-investigation-twelve-tribes-bodycam-video/73-141ed049-e778-4499-be75-20879f85c9f9) destroyed 1000+ homes and killed two people.
 
-- **Sydney Morning Herald:** ["Secrets of the family"](https://www.smh.com.au/national/nsw/secrets-of-the-family-20131209-2z00t.html) and [YouTube video](https://www.youtube.com/watch?v=zbXLSH_ZOwo).
+- **Sydney Morning Herald:** ["Secrets of the family"](https://www.smh.com.au/national/nsw/secrets-of-the-family-20131209-2z00t.html) (plus [YouTube video](https://www.youtube.com/watch?v=zbXLSH_ZOwo)).
 
 - **Germany:** ["European court upholds German move to take kids from sect"](https://apnews.com/article/70a96270b88948d2871ec6baf24a7a3d)
 
