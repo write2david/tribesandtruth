@@ -90,9 +90,11 @@ slug: more
 
 - **Australia:** [Interview with former Tribes elder](https://www.youtube.com/watch?v=918Su4VgiY4) who was [later murdered](https://www.nine.com.au/australia-news/a-current-affair/controversial-twelve-tribes-cult-elder-has-died-in-allegedly-deliberately-lit-fire-on-rural-property-20200901-p5r3zz.html) after the Tribes property [was raided by police](https://www.facebook.com/watch/?v=168340141285211).
 
-- **Florida:** [Yellow Deli worker arrested](https://www.sheriff-okaloosa.org/shalimar-on-the-run-since-2007-finally-in-custody/) for past unlawful sexual activity with a minor.
+- **Florida:** [A Yellow Deli worker was arrested](https://www.sheriff-okaloosa.org/shalimar-on-the-run-since-2007-finally-in-custody/) for previous unlawful sexual activity with a minor.
 
 - **Connecticut:** A couple "[pleaded guilty](https://apnews.com/article/70a96270b88948d2871ec6baf24a7a3d) to third-degree assault and cruelty for disciplining their children with a 30-inch (76-centimeter) fiberglass rod."
+
+- **Missouri:** In response to a question about child abuse in their former St. Joseph community, a Twelve Tribes elder admits that "something unpleasant happened" and that there were "leaders responsible for it." The elder called it a "grave aberration."
 
 - **[Southern Poverty Law Center](https://en.wikipedia.org/wiki/Southern_Poverty_Law_Center):** [Into The Darkness](https://www.splcenter.org/resources/reports/darkness/)
 
