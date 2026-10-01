@@ -94,7 +94,7 @@ slug: more
 
 - **Connecticut:** A couple "[pleaded guilty](https://apnews.com/article/70a96270b88948d2871ec6baf24a7a3d) to third-degree assault and cruelty for disciplining their children with a 30-inch (76-centimeter) fiberglass rod."
 
-- **Missouri:** In response to a question about child abuse in their former St. Joseph community, a Twelve Tribes elder admits that "something unpleasant happened" and that there were "leaders responsible for it." The elder called it a "grave aberration."
+- **Missouri:** In response to [a question about child abuse](https://culteducation.com/group/1198-twelve-tribes-messianic-communities/20731-religious-community-lives-quietly-in-central-missouri-town.html) in their former St. Joseph community, [a Twelve Tribes elder admits](</documents/Kansas City Star, 2002.pdf>) that "something unpleasant happened" and that there were "leaders responsible for it." The elder called it a "grave aberration."
 
 - **[Southern Poverty Law Center](https://en.wikipedia.org/wiki/Southern_Poverty_Law_Center):** [Into The Darkness](https://www.splcenter.org/resources/reports/darkness/)
 
