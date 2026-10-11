@@ -25,8 +25,7 @@ Christians in the Bible didn't necessarily move into a commune...
 
 - Paul moved to Arabia for 3 years after he got saved.
 
-- The Ethiopian eunuch apparently didn't join a community after getting saved (Acts 8:39).
-
+- **The Ethiopian eunuch.** He was baptized through believing that “Jesus is the son of God” completely outside of a community (and then Philip didn’t even take him to a community but God removed him from the eunuch).
   
 Question : “did any christians in the book of acts have their own home ?”
 Answer —> 
