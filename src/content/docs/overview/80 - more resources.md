@@ -27,6 +27,7 @@ slug: more
   - [TikTok](https://www.tiktok.com/discover/tamara-mathieu)
   - [YouTube Interview](https://www.youtube.com/watch?v=a5GP5q0bidY)
   - [YouTube Interview + son](https://www.youtube.com/live/fbSuXB-Tenc)
+  - [VTDigger Interview](https://vtdigger.org/2024/04/24/vermont-conversation-surviving-and-escaping-the-twelve-tribes-cult/)
   - [Facebook](https://www.facebook.com/people/Tamara-Mathieu-Author/61558399027295/)
   - [Book](https://www.amazon.com/gp/product/1578691176/)
 
@@ -68,7 +69,7 @@ slug: more
 - **Massachusetts:** [Tribes elder sentenced for child rape & battery](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/).
   - Convicted of [25 charges](https://www.boston.com/news/local-news/2024/10/02/south-shore-cult-elder-guilty-of-child-rape-to-serve-at-least-30-years-in-prison/) across multiple Tribes communities, only after [non-members reported it to authorities](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
 
-<br>
+- **Plymouth, Massachusetts:** [“My time with the Twelve Tribes” — Plymouth Independent (June 14, 2026)](https://www.plymouthindependent.org/my-time-with-the-twelve-tribes/)
 
 - **France:** [Police raid results in 10 adults arrested and four children placed in foster care](https://www.ibtimes.co.uk/twelve-tribes-cult-accused-beating-children-france-1507165)
 
@@ -87,6 +88,8 @@ slug: more
 - **Germany:** ["European court upholds German move to take kids from sect"](https://apnews.com/article/70a96270b88948d2871ec6baf24a7a3d)
 
 - **US & Canada:** [Video news articles from the 1990's](https://question12tribes.com/12-tribes-us-tv-news/)
+
+- **Australia:** [Police dig up Tribes properties and find the remains of at least one baby](https://www.dailymail.co.uk/news/article-8086961/Police-body-one-baby-Twelve-Tribes-religious-sect-headquarters.html)
 
 - **Australia:** [Interview with former Tribes elder](https://www.youtube.com/watch?v=918Su4VgiY4) who was [later murdered](https://www.nine.com.au/australia-news/a-current-affair/controversial-twelve-tribes-cult-elder-has-died-in-allegedly-deliberately-lit-fire-on-rural-property-20200901-p5r3zz.html) after the Tribes property [was raided by police](https://www.facebook.com/watch/?v=168340141285211).
 
