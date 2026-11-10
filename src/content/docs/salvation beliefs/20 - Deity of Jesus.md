@@ -23,11 +23,11 @@ banner:
 
 - The Tribes hold to an uncommon view typically known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism).
 
-- This view is not what God tells us in the Bible. There are a long list of passages that show that Jesus was existing as the Son of God prior to His birth.
+- This view is not what God tells us in the Bible. There is a long list of passages that show that Jesus was existing as the Son of God prior to His birth.
 
 - The offspring of a bird is: a bird. The child of a human is: a human. And the eternal son of God is: divine.
 
-- The effect is that Jesus becomes less special, and the Tribes (seeing themselves as able to become like Jesus in nature) gain the confidence of being more special. by
+- The effect is that Jesus becomes less special, and the Tribes (seeing themselves as able to become like Jesus in nature) gain the confidence of being more special.
 
 ***
 

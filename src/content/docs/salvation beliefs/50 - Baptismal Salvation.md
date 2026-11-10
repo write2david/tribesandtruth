@@ -10,7 +10,7 @@ slug: baptism
 :::tip[Overview]{icon="sun"}
 - The Twelve Tribes Communities teach that water baptism ("immersion") is a necessary step for salvation. According to their own documents: "Baptism is not something we do after we are saved. Baptism is the actual event of salvation."
 
-- This view is called "[https://en.wikipedia.org/wiki/Baptismal_regeneration](baptismal regeneration)." Other groups that hold to this belief include most Roman Catholics, Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans). The Twelve Tribes say that "there is no separation between baptism and salvation. They are simultaneous events."
+- This view is called "[baptismal regeneration](https://en.wikipedia.org/wiki/Baptismal_regeneration)." Other groups that hold to this belief include most Roman Catholics, Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans). The Twelve Tribes say that "there is no separation between baptism and salvation. They are simultaneous events."
 
 - The majority of Protestants, and especially Evangelicals, reject baptismal regeneration. Instead, they adhere to "faith alone" for salvation and view baptism as a post-salvation act to publicly identify oneself with Christ.
 
@@ -38,11 +38,11 @@ slug: baptism
 
   - Paul specifically said that his job of preaching the Gospel (by which many people were indeed saved) did *not* include baptizing people (1 Corinthians 1:17).
 
-  - The Bible repeated explains baptism as happening after believing (not at the moment of believing) and so the two moments are separate (which is why they are usually listed separately, as in Acts 18:8).
+  - The Bible repeatedly explains baptism as happening after believing (not at the moment of believing) and so the two moments are separate (which is why they are usually listed separately, as in Acts 18:8).
 
 ### Faith Alone
 
-The Bible teaches that salvation comes by through faith alone, apart from any "works" (including the "work" of being baptized with water).
+The Bible teaches that salvation comes through faith alone, apart from any "works" (including the "work" of being baptized with water).
 
 - Titus 3:5 — God saved us "not because of works done by us in righteousness, but according to his own mercy."
 
@@ -81,7 +81,7 @@ Scripture repeatedly provides examples of salvation happening *without* baptism,
 
 - **The thief on the cross** (Luke 23:39–43). Jesus tells the dying criminal, "Today you will be with me in paradise." Baptism did not occur in this situation.
 
-- **Cornelius and his household** (Acts 10:44–48). After Paul preached the Gospel, the people of this household (1) received the Holy Spirit, (2) exalted God, and (3) spoke in tongues. Scripture says that each of three results are indicators that salvation has occurred (John 4:23–24, Mark 16:17, Acts 2:4, Romans 8:9, 1 Corinthians 12:7–11, 1 Corinthians 14:23). And as a consequences, the new Christians were *then* baptized.
+- **Cornelius and his household** (Acts 10:44–48). After Paul preached the Gospel, the people of this household (1) received the Holy Spirit, (2) exalted God, and (3) spoke in tongues. Scripture says that each of three results are indicators that salvation has occurred (John 4:23–24, Mark 16:17, Acts 2:4, Romans 8:9, 1 Corinthians 12:7–11, 1 Corinthians 14:23). And as a consequence, the new Christians were *then* baptized.
 
 ## Addressing Rebuttals
 
@@ -128,6 +128,6 @@ That structure allows the verse to be read as, "Rising up, be baptized, and wash
 
 - As discussed above, Peter is referring to baptism by the Holy Spirit, not water baptism.
 
-- In the very same verse, he specifies that this isn't water-baptism, as it's "not" the kind of baptism that can provide "removal of dirt from the body" but is rather it is "an appeal to God for a good conscience." The good conscience is due to forgiveness provided by the Gospel.
+- In the very same verse, he specifies that this isn't water-baptism, as it's "not" the kind of baptism that can provide "removal of dirt from the body" but rather it is "an appeal to God for a good conscience." The good conscience is due to forgiveness provided by the Gospel.
 
 - The Bible doesn't discuss water baptism as "saving" people. Jesus, not water, is the source of salvation.

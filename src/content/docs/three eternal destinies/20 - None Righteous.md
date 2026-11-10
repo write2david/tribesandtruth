@@ -25,5 +25,5 @@ The Tribes believe:  "Men have a natural inherent righteousness and worth that e
 
 ## Explanation
 
-"For God has consigned everyone to disobedience so that He may have mercy on everyone." (Romans 11:32"
+"For God has consigned everyone to disobedience so that He may have mercy on everyone." (Romans 11:32)
 

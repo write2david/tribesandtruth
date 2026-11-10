@@ -1,5 +1,5 @@
 ---
-title: Can I person lose their salvation by moving out of the Tribes?
+title: Can a person lose their salvation by moving out of the Tribes?
 description: Description
 sidebar:
   label: Losing Salvation

@@ -41,7 +41,7 @@ The overall effect is:
 
 1) The uniqueness of the Savior is decreased (compared to biblical Christianity)
 
-2) The requirements for gaining salvation is increased (compared to biblical Christianity)
+2) The requirements for gaining salvation are increased (compared to biblical Christianity)
 
 3) The natural human nature of people is less fallen/sinful/helpless, and more capable of following God* (compared to biblical Christianity).
 
@@ -118,6 +118,6 @@ The Twelve Tribes believe the Christian gospel of salvation by grace through fai
 
 The Twelve Tribes do not teach self-forsaking, giving up of one's possessions and a common life with other believers is the fruit of a person having been saved by God's grace, but instead teach it is the cause and condition of salvation itself.
 
-In contrast, the Bible teaches salvation is a supernatural, unconditional free gift that is given to God's people as an expression of God's love, because they are powerless to bring it about themselves on an account of being spiritually dead in sins and estranged from God (Romans 3:10, 3:24, 4:16, 5:10, 6:23. )  God provides the faith (Eph. 2:8-9) to believe the entire gospel - which is the whole truth about who God is, who mankind is, mankind's sin, and the truth about the person and work of Jesus. The Bible does not teach people must cooperate with God, meet conditions or prerequisites or perform works to bring about their salvation. The Bible teaches people to believe God, by looking away from themselves to another person - Jesus. A person is born again when God Himself quickens their dead spirit (Eph. 2:1-3), presents them with the truth in God's Word, provides the supernatural faith to believe His Word and the good news about Jesus Christ (Eph 2:8-9) and then seals them with God's spirit upon believing (Eph. 1:13).
+In contrast, the Bible teaches salvation is a supernatural, unconditional free gift that is given to God's people as an expression of God's love, because they are powerless to bring it about themselves on an account of being spiritually dead in sins and estranged from God (Romans 3:10, 3:24, 4:16, 5:10, 6:23)  God provides the faith (Eph. 2:8-9) to believe the entire gospel - which is the whole truth about who God is, who mankind is, mankind's sin, and the truth about the person and work of Jesus. The Bible does not teach people must cooperate with God, meet conditions or prerequisites or perform works to bring about their salvation. The Bible teaches people to believe God, by looking away from themselves to another person - Jesus. A person is born again when God Himself quickens their dead spirit (Eph. 2:1-3), presents them with the truth in God's Word, provides the supernatural faith to believe His Word and the good news about Jesus Christ (Eph 2:8-9) and then seals them with God's spirit upon believing (Eph. 1:13).
 
 This is something supernatural and real that is done to a person who cannot do it themselves. It comes from God, freely. The fruit is then a person desiring to lay down their lives and serve their brothers and sisters. The Twelve Tribes teach the Biblical fruit of salvation is in fact the self-willed condition of salvation.

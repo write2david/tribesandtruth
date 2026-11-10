@@ -26,11 +26,11 @@ slug: start
 
 - Gene was considered the lead apostle, and his right-hand man was Charles "Eddie" Wiseman (or *Hakam*). Eddie's wife died from untreated cancer while in the group, and all of his children have left the Tribes.
 
-- Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D) but had no children with Marsha. This means that both the founder and cofounder have no children currently living in the group.
+- Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D) but had no children with Marsha. This means that both the founder and co-founder have no children currently living in the group.
 
 - The group originally called itself the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
 
-- Being frustrated with the spiritual apathy and social pushback in their city (a story is disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
+- Being frustrated with the spiritual apathy and social pushback in their city (a story disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 
 - In 1995, the group renamed themselves again, this time to "The Twelve Tribes Communities." Periodically, "The Commonwealth of Israel" was used as a tagline. By this time, they had started to establish additional communities in various parts of North America and other continents, which were divided into regions (or "tribes").
 

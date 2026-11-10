@@ -29,9 +29,9 @@ slug: joining-leaving
 - Some see the Tribes as an alternative supportive environment to raise their children.
 
 ### Pursuit of God
-- Some join specifically for spiritual reasons. They may find the theological perspectives the Tribes to be appealing.
+- Some join specifically for spiritual reasons. They may find the theological perspectives of the Tribes to be appealing.
 
-- Other arrive in pursuit of a religious outlet to satisfy spiritual yearnings that were not satisfied by prior membership in other religious groups.
+- Others arrive in pursuit of a religious outlet to satisfy spiritual yearnings that were not satisfied by prior membership in other religious groups.
 
 
 ## Common Reasons for Leaving
@@ -55,7 +55,7 @@ slug: joining-leaving
 
 
 ### Decision & Authority
-- The Tribes makes decisions about almost every aspect of its members lives, including: where to live, how to spend time, what to wear, what to eat, how to think, and what work to do.
+- The Tribes makes decisions about almost every aspect of its members' lives, including: where to live, how to spend time, what to wear, what to eat, how to think, and what work to do.
 
 - Members are taught to "submit" to the decisions made by leadership, but submitting to hurtful decisions can be difficult.
 
@@ -71,7 +71,7 @@ slug: joining-leaving
 ## The Difficulty of Leaving
 
 ### Consequences
-- Members are taught that exiting the group will result in various types of tragedies to their safety, lifestyle, and/or health
+- Members are taught that exiting the group will result in various types of tragedies to their safety, lifestyle, and/or health.
 
 - The Tribes often reinforces this fear by telling stories of tragic events that have supposedly happened to ex-members.
 
@@ -97,7 +97,7 @@ slug: joining-leaving
 
 - Individual ownership of money is non-existent in the Tribes (apart from some leadership, who may have property in their name). 
 
-- Because of this, it is a challenge to provide for oneself after leaving. Some who join the group simply has no outside support system to rely on, and they would have nowhere to go if they left the group.
+- Because of this, it is a challenge to provide for oneself after leaving. Some who join the group simply have no outside support system to rely on, and they would have nowhere to go if they left the group.
 
 ### Beliefs & Identity
 

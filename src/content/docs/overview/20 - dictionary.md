@@ -1,6 +1,6 @@
 ---
 title: Insider Terminology of the Twelve Tribes
-description: A dictionary (glossary) of the Twelve Tribes Communities own inside terminology.
+description: A dictionary (glossary) of the Twelve Tribes Communities' own inside terminology.
 sidebar:
   label: Insider Terminology
   order: 20
@@ -61,7 +61,7 @@ slug: dictionary
 
 **Freepaper:** Literature produced by the communities to spread their message and invite outsiders to visit their homes or farms.
 
-**Friday Night:** The beginning of the Saturday Sabbath, which includes an evening "gathering" (larger event geared partially intended for recruitment of new members) with a nicer meal ("evening shadows" is the name given to the hors d’oeuvres served at this meal). The day prior is "Preparation Day" in which the whole house is cleaned.
+**Friday Night:** The beginning of the Saturday Sabbath, which includes an evening "gathering" (a larger event intended partly for recruitment of new members) with a nicer meal ("evening shadows" is the name given to the hors d’oeuvres served at this meal). The day prior is "Preparation Day" in which the whole house is cleaned.
 
 **Grafting:** The spiritual process by which individuals from "the nations" are brought into the group to become part of the restored Twelve Tribes.
 
@@ -74,7 +74,7 @@ slug: dictionary
 
 **Israel:** Within the community, this refers to their restored twelve-tribed spiritual nation rather than the modern political state in the Middle East.
 
-**Intertribal News:** A publication (abbreviation "ITN") produced by the Tribes and distributed to members, geared toward providing updates from various tribes/communities/members and to teach the Tribes' beliefs and perspectives.
+**InterTribal News:** A publication (abbreviation "ITN") produced by the Tribes and distributed to members, geared toward providing updates from various tribes/communities/members and to teach the Tribes' beliefs and perspectives.
 
 **Lawlessness:** Any "independent action" or movement by a member that occurs outside the direction of their spiritual authority or the community’s government.
 
@@ -94,7 +94,7 @@ slug: dictionary
 **Second Death:** Eternal condemnation in the Lake of Fire, which is the final destination for the "Unjust and Filthy."
 
 
-**Sent Away:** When a member is considered unrepentant after being disciplined ("cut off"), they may be expelled from the group. The rest of the community is obligated to shun them, and if they are told they are destined for eternal punishment if they do not repent.
+**Sent Away:** When a member is considered unrepentant after being disciplined ("cut off"), they may be expelled from the group. The rest of the community is obligated to shun them, and they are told they are destined for eternal punishment if they do not repent.
 
 
 **Sexton:** A specific member of a community household responsible for the physical care, cleaning, and upkeep of the property.

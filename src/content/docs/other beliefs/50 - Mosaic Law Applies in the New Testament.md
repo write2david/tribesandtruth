@@ -11,7 +11,7 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-- The Twelve Tribes doesn't eat food made from pigs (like bacon, pork chops, or hotdogs) because they believe that it is "unclean."
+- The Twelve Tribes doesn't eat food made from pigs (like bacon, pork chops, or hot dogs) because they believe that it is "unclean."
 :::
 
 ## Response

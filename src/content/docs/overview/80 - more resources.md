@@ -87,7 +87,7 @@ slug: more
 
 - **Germany:** ["European court upholds German move to take kids from sect"](https://apnews.com/article/70a96270b88948d2871ec6baf24a7a3d)
 
-- **US & Canada:** [Video news articles from the 1990's](https://question12tribes.com/12-tribes-us-tv-news/)
+- **US & Canada:** [Video news articles from the 1990s](https://question12tribes.com/12-tribes-us-tv-news/)
 
 - **Australia:** [Police dig up Tribes properties and find the remains of at least one baby](https://www.dailymail.co.uk/news/article-8086961/Police-body-one-baby-Twelve-Tribes-religious-sect-headquarters.html)
 

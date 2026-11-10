@@ -10,7 +10,7 @@ slug: social-life
 ![Header Image](../../../assets/Social-Life-Header.jpg)
 
 :::tip[Overview]{icon="sun"}
-- The Twelve Tribes Communities has created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations.
+- The Twelve Tribes Communities have created their own internal culture... complete with "insider" terminology, behaviors, schedules, and norms/expectations.
 
 - Many of their religious beliefs are tied to their social practices, and vice-versa.
 
@@ -21,7 +21,7 @@ slug: social-life
 
 - When joining the group, new members move into the Tribe's housing, giving up all their money & belongings. From then on, they are to receive all their physical needs from the Tribes, and are not allowed to borrow anything from non-members.
 
-- Members typically live together in large, extended-family households where access to TV's, radio, and the Internet is either limited or non-existent.
+- Members typically live together in large, extended-family households where access to TVs, radio, and the Internet is either limited or non-existent.
 
 - New members are given Hebrew names. Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
 
@@ -30,13 +30,13 @@ slug: social-life
 
 ## Internal Culture
 
-- The organization began in the 1970's. They have intentionally catered to reaching Hippie culture, Grateful Dead fans, and those who feel disconnected from society.
+- The organization began in the 1970s. They have intentionally catered to reaching Hippie culture, Grateful Dead fans, and those who feel disconnected from society.
 
 - The group is known for their folk-style music and dancing, simple and "natural" esthetic, and rejection of other organized religions.
 
 - The Tribes have a negative view of dogs and generally do not have pets.
 
-- The Tribe have their own [insider terminology](/dictionary). They have also redefined some words in order to match up with their beliefs.[^1]
+- The Tribe has its own [insider terminology](/dictionary). They have also redefined some words in order to match up with their beliefs.[^1]
 
 - The Tribes are a fairly-closed social system, and so there are numerous common phrases and patterns of speaking.
 
@@ -60,7 +60,7 @@ slug: social-life
 
 ## Race & Ethnicity
 
-- The Tribes believe that people of African decent are cursed and are intended for servitude.
+- The Tribes believe that people of African descent are cursed and are intended for servitude.
 
 - Interracial marriage was previously prohibited, but is now permitted.
 
@@ -75,7 +75,7 @@ slug: social-life
 
 - Children attend school ("training")  only up to grade 8, with all classes taught on Tribes' property by group members.
 
-- Kids are not allowed to have toys and dolls, and are prohibited from playing organized sports and video games. They are supposed to stay busy enough that they they don't have time for "playing pretend." They are typically not allowed to use phones and computers. They are not allowed to read fiction or watch TV. They are often prohibited from interacting with other children their age, in order to prevent "foolishness."
+- Kids are not allowed to have toys and dolls, and are prohibited from playing organized sports and video games. They are supposed to stay busy enough that they don't have time for "playing pretend." They are typically not allowed to use phones and computers. They are not allowed to read fiction or watch TV. They are often prohibited from interacting with other children their age, in order to prevent "foolishness."
 
 
 ## Food
@@ -86,9 +86,9 @@ slug: social-life
 
 - The biggest meal of the week is Friday supper, a "gathering" event often used to recruit new members.
 
-- They believe that foods made from pig (pork chops, bacon bits, hotdogs, etc) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
+- They believe that foods made from pig (pork chops, bacon bits, hot dogs, etc.) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
 
-- They prefer goat milk rather than cow milk.[^3]  Member are restricted from eating lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
+- They prefer goat milk rather than cow milk.[^3]  Members are restricted from eating lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
 - A variety of foods, such as pumpkin seeds, are promoted for their supposed[^5] health benefits.
 
@@ -103,7 +103,7 @@ slug: social-life
 
 - Most babies and children in the Tribes do not get vaccinated. 
 
-- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The sickness or injury is seen as God's punishment, and person is called to confess and repent (with additional punishing consequences sometimes provided by the Tribes). Mothers who have a stillbirth are sometimes told their child died because of the mother's sin.
+- If sickness or injury occurs, the Tribes often consider this to be an indication that the person has sinned. The sickness or injury is seen as God's punishment, and the person is called to confess and repent (with additional punishing consequences sometimes provided by the Tribes). Mothers who have a stillbirth are sometimes told their child died because of the mother's sin.
 
 
 ## Motivation
@@ -139,7 +139,7 @@ slug: social-life
 - Non-members (and most members) are also not permitted to attend "councils," "apostolic workers meetings," "kahals,"[^4] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
 
 
-[^1]: Here are some examples of the Tribes seeking to redefine terms/reality: (1) Since they reject food that is "unclean" according to the Old Testament, they consider unclean food to not to be "food" at all (in order to avoid the New Testament permission to eat unclean food). (2) Since they promote the term "Yahshua" instead of "Jesus," they have created a false etymology of "Jesus" to tie that name with the pagan "Zeus." (3) They often use the word "Gospel" in relation to works-based behavior that the Bible doesn't use the word "Gospel" for. (4) In order to avoid the idea that Jesus is Divine, they classify certain statements of His as being spoke by God the Father though Jesus, and other statements of His as being spoken only by Jesus the man.
+[^1]: Here are some examples of the Tribes seeking to redefine terms/reality: (1) Since they reject food that is "unclean" according to the Old Testament, they consider unclean food not to be "food" at all (in order to avoid the New Testament permission to eat unclean food). (2) Since they promote the term "Yahshua" instead of "Jesus," they have created a false etymology of "Jesus" to tie that name with the pagan "Zeus." (3) They often use the word "Gospel" in relation to works-based behavior that the Bible doesn't use the word "Gospel" for. (4) In order to avoid the idea that Jesus is Divine, they classify certain statements of His as being spoken by God the Father through Jesus, and other statements of His as being spoken only by Jesus the man.
 
 [^2]: Trimmed regularly to avoid bringing "unnecessary persecution upon ourselves" and because "when we are in the cafés or the public and the people see us preparing our food, the way we look affects their appetite."
 

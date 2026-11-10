@@ -32,7 +32,7 @@ Each part of the body has a different role (1 Corinthians 12). Only the Head has
 
 The Bible never says to trust the Body (which includes people besides the Savior) for salvation, but rather to trust the Savior specifically.
 
-Acts 4:12 - "And there is salvation in no other, for there is not another name under heaven having been given among men by which it is necessary for us to be saved.”
+Acts 4:12 - “And there is salvation in no other, for there is not another name under heaven having been given among men by which it is necessary for us to be saved.”
 
 There's a line (it really exists) between surrendering to the Savior and surrendering to other people.
 

@@ -15,7 +15,7 @@ banner:
 
 - The Tribes believe that to be saved, a person must believe in Jesus, be baptized, give up all their possessions, live in community, and surrender to the apostolic leadership.
 
-- They also believe that a person who does these things apart from the Twelve Tribes is still not saved, and that to salvation is found only through encountering the Tribes.
+- They also believe that a person who does these things apart from the Twelve Tribes is still not saved, and that salvation is found only through encountering the Tribes.
 :::
 
 ## Response

@@ -55,13 +55,13 @@ slug: religious-life
 
 - The original Church in the New Testament died not long after it was established.
 
-- In the 1970's, God restored the original Church in the form of the Tribes.
+- In the 1970s, God restored the original Church in the form of the Tribes.
 
 - The Tribes are the only legitimate Church on earth. They strongly condemn "Christianity."
 
 - There are no true believers in the world apart from the Tribes. Salvation is found only in the Tribes' communities.
 
-- Jesus is not the eternal second Person of the Trinity who became a human at His birth (in contrast with the majority belief within Christianity). Rather, He began his existence via a miraculous birth, though which he was able to "house" Divinity within Himself (an uncommon view typically known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
+- Jesus is not the eternal second Person of the Trinity who became a human at His birth (in contrast with the majority belief within Christianity). Rather, He began his existence via a miraculous birth, through which he was able to "house" Divinity within Himself (an uncommon view typically known as [Dynamic Monarchianism](https://en.wikipedia.org/wiki/Adoptionism)).
 
 - God provides new revelations (beyond the Bible) to the Tribes' leadership.
 
@@ -69,7 +69,7 @@ slug: religious-life
 
 - Black people are cursed and are meant for servitude.
 
-- The Tribes add a third (middle) category of humanity:[^4] people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgement Day, who will give them a second life.
+- The Tribes add a third (middle) category of humanity:[^4] people who aren't saved but who are generally good. These people pay for their own sins after they die, and then face God on Judgment Day, who will give them a second life.
 
 - Unique pieces of end times theology: (1) True believers will end up ruling galaxies or planets. (2) True believers can end up paying for their own sins in a 1000-year post-death punishment, if their life on earth was not sufficiently committed to God. (3) Some who leave the Twelve Tribes are considered condemned to hell for eternity.
 

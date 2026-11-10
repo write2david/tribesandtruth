@@ -23,7 +23,7 @@ slug: locations
 
 ## Current Locations
 
-#### Asher: Japan and Australiasia
+#### Asher: Japan and Australasia
 
 Primary locations include Kyoto (Japan); Katoomba (New South Wales, Australia) and other Australia/Oceania locations.
 
@@ -88,7 +88,7 @@ Primary locations include Stentwood Farm near Honiton/Dunkeswell (Devon, England
 
 - [The community](https://web.archive.org/web/19981203025731/http://www.twelvetribes.com/Where%20We%20Are.html) in Harrisonburg, Virginia.
 
-- [New Sprout Farm](https://web.archive.org/web/20171113170407/http://twelvetribes.org/community/new-sprout-farm) in Merville, British Colombia.
+- [New Sprout Farm](https://web.archive.org/web/20171113170407/http://twelvetribes.org/community/new-sprout-farm) in Merville, British Columbia.
 
 - [The community](https://web.archive.org/web/20171113191254/http://twelvetribes.org/community/fort-myers) in Fort Myers, Florida.
 
