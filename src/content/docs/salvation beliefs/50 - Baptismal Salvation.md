@@ -27,7 +27,7 @@ slug: baptism
 
   - SPIRITUAL BAPTISM: Humans baptize "with water" (Acts 1:5, Acts 10:47) but Jesus baptizes people "with the Holy Spirit" (Matthew 3:11, Luke 3:16, Acts 1:5). When believers are "baptized into Christ" (Romans 6:3, Galatians 3:27), it "saves" them (1 Peter 3:21). At that point, believers are "buried with Him in baptism" (Colossians 2:12, cf. Romans 6:4). Being "baptized into Christ" (Romans 6:3) also baptizes a person into His body (1 Corinthians 12:13).
 
-  - PHYSICAL BAPTISM: Jesus baptizes people with the Holy Spirit, saving them and placing them into His body. In contrast, water baptism is done by humans (Matthew 3:11, Matthew 28:19, Acts 2:41, Acts 8:36–38). John the Baptist listed both kinds of baptism: "I baptize you with water, but he will baptize you with the Holy Spirit!” (Mark 1:8, cf. Luke 3:16, John 1:33). 
+  - PHYSICAL BAPTISM: Jesus baptizes people with the Holy Spirit, saving them and placing them into His body. In contrast, water baptism is done by humans (Matthew 3:11, Matthew 28:19, Acts 2:41, Acts 8:36–38). John the Baptist listed both kinds of baptism: "I baptize you with water, but he will baptize you with the Holy Spirit!" (Mark 1:8, cf. Luke 3:16, John 1:33). 
   
 
 - Could the passages that refer to water baptism also be referring to spiritual baptism, such that there is only one type of baptism in the Bible?
@@ -54,7 +54,7 @@ The Bible teaches that salvation comes through faith alone, apart from any "work
 
 - John 3:16 — The most famous verse in the Bible affirms that belief is the one stated requirement for salvation.
 
-- Acts 16:31–33 — The Philippian jailer asked Paul and Silas: “Sirs, what is necessary for me to do so that I may be saved?” The response he received was: “Believe on the Lord Jesus and you will be saved." That's all that was necessary to do.
+- Acts 16:31–33 — The Philippian jailer asked Paul and Silas: "Sirs, what is necessary for me to do so that I may be saved?" The response he received was: "Believe on the Lord Jesus and you will be saved." That's all that was necessary to do.
 
 - 1 Corinthians 1:17 — "Christ did not send me to baptize but to preach the gospel." Paul considered the Gospel to be separate from baptism.
 

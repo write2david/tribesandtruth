@@ -46,7 +46,7 @@ slug: hebrew
 
 <br>
 
-2. **The writings of the Early Church also did not use Hebrew names.** Believers used the word “Jesus” and the word “Christ” (example: 1 Clement 21:6, which was written before 100 AD).
+2. **The writings of the Early Church also did not use Hebrew names.** Believers used the word "Jesus" and the word "Christ" (example: 1 Clement 21:6, which was written before 100 AD).
 
 
 <br>

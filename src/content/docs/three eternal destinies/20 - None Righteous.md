@@ -11,7 +11,7 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-The Tribes believe:  "Men have a natural inherent righteousness and worth that enables them to atone for their own sin in the first death apart from the gospel, and they'll then be raised to eternal life."
+The Tribes believe: "Men have a natural inherent righteousness and worth that enables them to atone for their own sin in the first death apart from the gospel, and they'll then be raised to eternal life."
 :::
 
 ## Response

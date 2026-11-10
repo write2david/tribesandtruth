@@ -55,7 +55,7 @@ slug: more
 
 - **Daughter of Tribes' Cofounder -** [Podcast Part 1](https://open.spotify.com/episode/0ehfTQL04rjCEsg3Peodp8) and [Podcast Part 2](https://open.spotify.com/episode/6jObMxubPuqqpJZgryaB18)
 
-- **A&E Investigates** [Official Link](https://www.youtube.com/watch?v=aM4Yl1CzV_I).  *Sections:* [Part 1](https://www.dailymotion.com/video/x7n1z6s) | [Part 2](https://vimeo.com/373983374) | [Part 3](https://www.dailymotion.com/video/x7n1zv9) | [Part 4](https://www.dailymotion.com/video/x7n1zjj)
+- **A&E Investigates** [Official Link](https://www.youtube.com/watch?v=aM4Yl1CzV_I). *Sections:* [Part 1](https://www.dailymotion.com/video/x7n1z6s) | [Part 2](https://vimeo.com/373983374) | [Part 3](https://www.dailymotion.com/video/x7n1zv9) | [Part 4](https://www.dailymotion.com/video/x7n1zjj)
 
 - **YouTube:** [Interview with former leader](https://www.youtube.com/watch?v=XkN820N-g1E)
 
@@ -64,12 +64,12 @@ slug: more
 
 - **Tennessee:** [Homicide in the community](https://mainstreetmediatn.com/articles/local/updated-homicide-charges-filed-after-body-found/)
 
-- **Germany:** ["Cameras catch ‘cold and systematic’ child-beating"](https://www.independent.co.uk/news/world/europe/in-germany-s-twelve-tribes-sect-cameras-catch-cold-and-systematic-childbeating-8807438.html)
+- **Germany:** ["Cameras catch 'cold and systematic' child-beating"](https://www.independent.co.uk/news/world/europe/in-germany-s-twelve-tribes-sect-cameras-catch-cold-and-systematic-childbeating-8807438.html)
 
 - **Massachusetts:** [Tribes elder sentenced for child rape & battery](https://www.nbcboston.com/news/local/elder-in-religious-group-sentenced-on-child-rape-charges-in-mass/3507951/).
   - Convicted of [25 charges](https://www.boston.com/news/local-news/2024/10/02/south-shore-cult-elder-guilty-of-child-rape-to-serve-at-least-30-years-in-prison/) across multiple Tribes communities, only after [non-members reported it to authorities](https://www.wpri.com/news/local-news/se-mass/twelve-tribes-elder-sentenced-in-child-rape-case/).
 
-- **Plymouth, Massachusetts:** [“My time with the Twelve Tribes” — Plymouth Independent (June 14, 2026)](https://www.plymouthindependent.org/my-time-with-the-twelve-tribes/)
+- **Plymouth, Massachusetts:** ["My time with the Twelve Tribes" — Plymouth Independent (June 14, 2026)](https://www.plymouthindependent.org/my-time-with-the-twelve-tribes/)
 
 - **France:** [Police raid results in 10 adults arrested and four children placed in foster care](https://www.ibtimes.co.uk/twelve-tribes-cult-accused-beating-children-france-1507165)
 

@@ -2,9 +2,9 @@
 title: The Gospel can save someone only if it's presented by a member of the Tribes.
 description: Description
 sidebar:
-  label: Messenger  requirement
+  label: Messenger requirement
   order: 100
-slug: messenger-required
+slug: messenger
 draft: true
 banner:
   content: <b>This answer is still being written.</b>
