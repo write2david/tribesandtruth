@@ -4,7 +4,7 @@ description: Description
 sidebar:
   label: Messenger  requirement
   order: 100
-slug:  surrender 
+slug: messenger-required
 draft: true
 banner:
   content: <b>This answer is still being written.</b>

@@ -53,4 +53,4 @@ slug: start
 
 - Further disillusionment has come from situations of child abuse, harsh leadership, a homicide within the community, an elder convicted of child rape & battery, and the death of the founder.
 
-- Yet, leaving the Tribes is often [very difficult](/leaving).
+- Yet, leaving the Tribes is often [very difficult](/joining-leaving).
