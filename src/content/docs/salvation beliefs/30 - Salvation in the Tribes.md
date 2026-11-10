@@ -13,7 +13,7 @@ banner:
 :::tip[Overview]{icon="sun"}
 - The Tribes believe that people are unable to be saved by reading the Bible and praying and relating to God directly.
 
-- The Tribes believe that to be saved, a person must believe in Jesus, be baptized, give up all their possessions, live in community, and surrender to the apostolic leadership.
+- The Tribes believe that to be saved, a person must believe in Jesus, be [baptized](/baptism), [give up all their possessions](/possessions), [live in community](/community), and [surrender to the apostolic leadership](/surrender).
 
 - They also believe that a person who does these things apart from the Twelve Tribes is still not saved, and that salvation is found only through encountering the Tribes.
 :::
@@ -29,4 +29,4 @@ banner:
 
 ## Explanation
 
-1. The Tribes point to themselves as the only visible expression of God's kingdom on earth.  Luke 17: the kingdom of God is not coming in a way that can be observed, in contrast to how the tribes like to point to themselves as the observable Church, the one place that you can see God on Earth.
+1. The Tribes point to themselves as the only visible expression of God's kingdom on earth. Luke 17: the kingdom of God is not coming in a way that can be observed, in contrast to how the tribes like to point to themselves as the observable Church, the one place that you can see God on Earth.

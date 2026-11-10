@@ -2,7 +2,7 @@
 title: Religious Life
 description: Overview of the Twelve Tribes Communities and their religious life.
 sidebar:
-  label: Religious Life of the  Tribes
+  label: Religious Life of the Tribes
   order: 40
 slug: religious-life
 ---
@@ -10,7 +10,7 @@ slug: religious-life
 :::tip[Overview]{icon="sun"}
 - The religion of the Twelve Tribes is largely a combination of conservative Protestantism, the "Hebrew Roots" movement, the "Restorationist" movement, and their own new "revelations."
 
-- Many of their religious beliefs are tied to their social practices, and vice-versa.
+- Many of their religious beliefs are tied to their [social practices](/social-life), and vice-versa.
 
 - This page provides a summary of their religious beliefs. The menu on this site provides further details for doctrines that are not found in the Christian Bible.
 :::
@@ -40,7 +40,7 @@ slug: religious-life
 
 - BAPTISMAL REGENERATION: Like most Roman Catholics, Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans), the Tribes believe that people are saved at the time they are baptized, and cannot be saved apart from baptism.
 
-- HEBREW NAMES: In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use Hebrew names for terms such as "God" and "Jesus."
+- HEBREW NAMES: In alignment with the [Sacred Name Movement](https://www.gotquestions.org/Sacred-Name-Movement.html), the Tribes feel obligated to use [Hebrew names](/hebrew) for terms such as "God" and "Jesus."
 
 - RESTORING THE EARLY CHURCH: The Tribes are one of many groups within the [Restorationism Movement](https://en.wikipedia.org/wiki/Restorationism), believing that they have restored the original Church from the Book of Acts.[^3]
 

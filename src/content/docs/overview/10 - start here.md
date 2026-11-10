@@ -28,7 +28,7 @@ slug: start
 
 - Gene Spriggs had [one son with his first wife](https://psmag.com/social-justice/inside-the-twelve-tribes/#:~:text=A%20large%20portion%20of%20Spriggs'%20teachings%20concerned,son%20and%20hates%20the%20word%20of%20God.%E2%80%9D) but had no children with Marsha. This means that both the founder and co-founder have no children currently living in the group.
 
-- The group originally called itself the "Vine Christian Community Church" and was located in Chattanooga, Tennessee.
+- The group originally called itself the "Vine Christian Community Church" and was located in [Chattanooga, Tennessee](/locations).
 
 - Being frustrated with the spiritual apathy and social pushback in their city (a story disputed by locals), they moved their entire group to Island Pond (Vermont) and renamed themselves "Northeast Kingdom Community Church."
 

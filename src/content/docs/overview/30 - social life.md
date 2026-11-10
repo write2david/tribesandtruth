@@ -23,7 +23,7 @@ slug: social-life
 
 - Members typically live together in large, extended-family households where access to TVs, radio, and the Internet is either limited or non-existent.
 
-- New members are given Hebrew names. Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
+- New members are given [Hebrew names](/hebrew). Hebrew terms are also used for common words such as: mom, dad, Jesus, God, church, etc. 
 
 - Some upper leadership enjoy additional privileges (despite statements to the contrary), including having their own houses, pool, TV, and even a separate island off the coast of Florida.
 
@@ -73,7 +73,7 @@ slug: social-life
 
 - Adults are required to use corporal punishment when disciplining children. There have been many reports of child abuse committed under the banner of "discipline," including severe beatings, locking children in rooms for days, and depriving children of food.
 
-- Children attend school ("training")  only up to grade 8, with all classes taught on Tribes' property by group members.
+- Children attend school ("training") only up to grade 8, with all classes taught on Tribes' property by group members.
 
 - Kids are not allowed to have toys and dolls, and are prohibited from playing organized sports and video games. They are supposed to stay busy enough that they don't have time for "playing pretend." They are typically not allowed to use phones and computers. They are not allowed to read fiction or watch TV. They are often prohibited from interacting with other children their age, in order to prevent "foolishness."
 
@@ -88,7 +88,7 @@ slug: social-life
 
 - They believe that foods made from pig (pork chops, bacon bits, hot dogs, etc.) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
 
-- They prefer goat milk rather than cow milk.[^4]  Members are restricted from eating lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
+- They prefer goat milk rather than cow milk.[^4] Members are restricted from eating lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
 - A variety of foods, such as pumpkin seeds, are promoted for their supposed[^6] health benefits.
 

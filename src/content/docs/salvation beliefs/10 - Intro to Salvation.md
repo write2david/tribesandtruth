@@ -20,7 +20,7 @@ Further, they specify that specific fruit (and not always biblically-required fr
 
 It's a lot of things beyond the good news of Jesus loves you enough that He died to personally offer you reconciliation with God through faith in Himself.
 
-They also conflate the "Messiah" (Jesus/Yahshua) with "the Body of Messiah" (the Tribes). Surrendering to Messiah = surrendering to the Tribes. Being baptized into Jesus is the same as being baptized into the Tribes. The act of making a lifelong commitment to the Messiah is also a lifelong covenant to the Tribes. Forsaking worldly possessions to follow Jesus means giving all your possessions to the Tribes. Entrusting your entire life to Jesus means entrusting your entire life to the Tribes' leadership. Changing your own opinions to match up with God's objective truth (His definition of reality) means changing your opinions to match up with whatever the Tribes' leadership says.
+They also conflate the "Messiah" (Jesus/Yahshua) with "the Body of Messiah" (the Tribes). Surrendering to Messiah = surrendering to the Tribes. Being [baptized](/baptism) into Jesus is the same as being baptized into the Tribes. The act of making a lifelong commitment to the Messiah is also a lifelong covenant to the Tribes. Forsaking worldly possessions to follow Jesus means giving all your possessions to the Tribes. Entrusting your entire life to Jesus means entrusting your entire life to the Tribes' leadership. Changing your own opinions to match up with God's objective truth (His definition of reality) means changing your opinions to match up with whatever the Tribes' leadership says.
 :::
 
 ## Response
@@ -62,7 +62,7 @@ Similarly nowadays, the people who are found worthy are rewarded with sonship at
 
 In contrast, the Bible says...
 
--- Jesus is God from eternity past
+-- [Jesus is God](/divinity) from eternity past
 
 -- No human is worthy
 
@@ -78,7 +78,7 @@ From "Michael" (a former member of the Tribes)...
 
 According to the Twelve Tribes, the gospel or "good news" itself is that Jesus is offering salvation to any person on earth, if they would first meet pre-requisite conditions and qualifications to bring it about. These conditions are taught to be obedience to Jesus' commands to the rich young ruler in Mark 10 to forsake his life and possessions and follow Jesus in a communal living arrangement. The Twelve Tribes teach this work of self-forsaking brings about a person's salvation and rebirth - it is the prerequisite and condition to salvation, and besides performing this work of self-forsaking and giving up of one's life there is no salvation, without exception. The Twelve Tribes believe Eugene Spriggs was given a unique revelation of this "true gospel", that has been absent from the earth for 2000 years, and so since the Twelve Tribes are the only place on earth who understand what the gospel is, it follows these communities are the only place on earth where a person can meet the qualifications and pre-requisites of salvation - giving up all your possessions and living in a communal living arrangement - and thus be saved.
 
-"Salvation is not a free gift ... much is required to have this gift of eternal life." (Three Eternal Destinies #217, 2007)
+"Salvation is not a free gift ... much is required to have this gift of eternal life." ([Three Eternal Destinies](/3ED) #217, 2007)
 
 "You can't just "believe it", but there's a qualification - something you have to do. There are requisites, and pre-requisites to receiving the Holy Spirit." (What Will Be the Outcome? 2005)
 
@@ -88,15 +88,15 @@ According to the Twelve Tribes, the gospel or "good news" itself is that Jesus i
 
 "There is no way to be redeemed outside of the Body, and no-one is saved unless he is in the Body." (Like a Hand in a Glove, 2007)
 
-"There is not one single person in Christianity today, whether they go to church or not, who is saved. Not one person in Christianity is saved, for they don’t do all they can do. Our Master said, “She did ALL she could” (Mk 14:8); if we don’t, we’re not saved either. Giving up all is salvation. We're so thankful we're restoring THIS gospel on earth, today." (Giving up All is Salvation, 2007)
+"There is not one single person in Christianity today, whether they go to church or not, who is saved. Not one person in Christianity is saved, for they don't do all they can do. Our Master said, "She did ALL she could" (Mk 14:8); if we don't, we're not saved either. Giving up all is salvation. We're so thankful we're restoring THIS gospel on earth, today." (Giving up All is Salvation, 2007)
 
 The Twelve Tribes believe the early church were living communally as a condition for their salvation, as this was what Jesus taught the apostles - and so they "surrendered" to the gospel of self-forsaking, through joining the early church community. The Tribes teach modern Christianity is in rebellion to the true gospel, through not living communally and sharing their possessions.
 
 For the Twelve Tribes, salvation itself is the act of a person being baptized into the Twelve Tribes - where they can obey Jesus' commands.
 
-Obeying this gospel entails one doing “all he could.” Of course, you cannot do that if you are not in the Body (the Twelve Tribes communities). You are not even saved if you are not in the Body (the Twelve Tribes communities). One can only give “all” in the Body. The Body is the Community, and the Community is the Body of Messiah, according to Col 1:18 and Eph 1:22-23. (Found Wanting, 2007)
+Obeying this gospel entails one doing "all he could." Of course, you cannot do that if you are not in the Body (the Twelve Tribes communities). You are not even saved if you are not in the Body (the Twelve Tribes communities). One can only give "all" in the Body. The Body is the Community, and the Community is the Body of Messiah, according to Col 1:18 and Eph 1:22-23. (Found Wanting, 2007)
 
-Now, many people say they believe in God, but they do not trust Him to do with them as He pleases. But we do. When we say, “We trust Him,” it means we literally trust the Body of Messiah, as salvation comes through the Body (the Twelve Tribes communities). And that is eternal life. No one receives eternal life unless he trusts the Body of Messiah. (Citizens of the Commonwealth, 2007)
+Now, many people say they believe in God, but they do not trust Him to do with them as He pleases. But we do. When we say, "We trust Him," it means we literally trust the Body of Messiah, as salvation comes through the Body (the Twelve Tribes communities). And that is eternal life. No one receives eternal life unless he trusts the Body of Messiah. (Citizens of the Commonwealth, 2007)
 
 When the believers in the first century were starting to get killed, those who wanted to be part of the Body knew they would get killed too if they were baptized. But they were still baptized into Messiah, into his Body (the Twelve Tribes communities). This is the only way a person can reach his blood and be forgiven. (Baptism, 2007)
 
@@ -106,15 +106,15 @@ According to the Twelve Tribes, man's eternal destiny is a choice presented to h
 
 "To follow our Master requires that we make an irreversible decision, but our Father is the one who knows whether we have made it or not. He knows our heart. Then He imparts His Holy Spirit to us on that basis." (Repentance Means a Revolutionary Change, 2003)"
 
-"Some people are not willing to do our Father’s will, so He cannot give understanding to them. It can’t be given to them unless they are willing, as our Father doesn’t go beyond our willingness. He judges all men by their will" (Wheat and Tares, 2008)
+"Some people are not willing to do our Father's will, so He cannot give understanding to them. It can't be given to them unless they are willing, as our Father doesn't go beyond our willingness. He judges all men by their will" (Wheat and Tares, 2008)
 
-"So whether one has even heard or not, the choice of each person’s destiny is theirs alone. It would have been better if one would never have heard than to have heard and not responded to the good news, or to have rejected it" (3 Eternal Destinies #197 Worthy of their Destiny, 2002)
+"So whether one has even heard or not, the choice of each person's destiny is theirs alone. It would have been better if one would never have heard than to have heard and not responded to the good news, or to have rejected it" (3 Eternal Destinies #197 Worthy of their Destiny, 2002)
 
 "To receive him is a matter of choice, and our Father gives every human being the right and choice to choose his own eternal destiny." (Our Father's Business, 2008)
 
 The Twelve Tribes believe the Christian gospel of salvation by grace through faith without works is satanic, as they would claim those who believe it aren't "doing all that they can do".
 
-...Not one person in Christianity is saved, for they don’t do all they can do. Our Master said, “She did ALL she could” (Mk 14:8); if we don’t, we’re not saved either. Giving up all is salvation. We're so thankful we're restoring THIS gospel on earth, today." (Giving up All is Salvation, 2007)
+...Not one person in Christianity is saved, for they don't do all they can do. Our Master said, "She did ALL she could" (Mk 14:8); if we don't, we're not saved either. Giving up all is salvation. We're so thankful we're restoring THIS gospel on earth, today." (Giving up All is Salvation, 2007)
 
 The Twelve Tribes do not teach self-forsaking, giving up of one's possessions and a common life with other believers is the fruit of a person having been saved by God's grace, but instead teach it is the cause and condition of salvation itself.
 

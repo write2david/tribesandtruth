@@ -11,12 +11,12 @@ banner:
 ---
 
 :::tip[Overview]{icon="sun"}
-- [check the wording to make sure this quote is accurate]  "Obeying this gospel entails one doing “all he could.” Of course, you cannot do that if you are not in the Body. You are not even saved if you are not in the Body. One can only give “all” in the Body. The Body is the Community, and the Community is the Body of Messiah, according to Col 1:18 and Eph 1:22-23. "
+- [check the wording to make sure this quote is accurate] "Obeying this gospel entails one doing "all he could." Of course, you cannot do that if you are not in the Body. You are not even saved if you are not in the Body. One can only give "all" in the Body. The Body is the Community, and the Community is the Body of Messiah, according to Col 1:18 and Eph 1:22-23. "
 :::
 
 ## Response
 
-You can live in community and give up your possessions and still not be saved because you haven't established a relationship with God through Jesus.
+You can live in community and [give up your possessions](/possessions) and still not be saved because you haven't established a relationship with God through Jesus.
 
 Living in community wasn't promoted as requirements for our salvation originally in the tribes.
 
@@ -25,9 +25,9 @@ Christians in the Bible didn't necessarily move into a commune...
 
 - Paul moved to Arabia for 3 years after he got saved.
 
-- **The Ethiopian eunuch.** He was baptized through believing that “Jesus is the son of God” completely outside of a community (and then Philip didn’t even take him to a community but God removed him from the eunuch).
+- **The Ethiopian eunuch.** He was baptized through believing that "Jesus is the son of God" completely outside of a community (and then Philip didn't even take him to a community but God removed him from the eunuch).
   
-Question : “did any christians in the book of acts have their own home ?”
+Question : "did any christians in the book of acts have their own home ?"
 Answer —> 
 
 Yes, several Christians in the book of Acts owned or maintained their own homes, which often served as meeting places for the early church. 

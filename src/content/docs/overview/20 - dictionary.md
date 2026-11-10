@@ -14,7 +14,7 @@ slug: dictionary
 
 - Most of the Tribes' insider terms are either pulled from the Hebrew language or are English words that are given new meanings.[^1]
 
-- Regions of the world are called by the name of the Tribe associated with that region.  For example, instead of saying "Canada," members would say "Gad."
+- Regions of the world are called by the name of the Tribe associated with that region. For example, instead of saying "Canada," members would say "Gad."
 
 - Ethnicities are referred to using \[artificial\] Hebrew terms, based on their \[incorrect\] biblical origins. White people are "Shemites." Black people are "Chamites." Asians are "Yapheth."
 
@@ -23,7 +23,7 @@ slug: dictionary
 
 ## Glossary of Twelve Tribes Terminology
 
-**Anointing:** Spiritual state or authority, needed to properly understand “inner” teachings.
+**Anointing:** Spiritual state or authority, needed to properly understand "inner" teachings.
 
 
 **Apostolic Center:** A regional hub within a specific tribe where high-level leaders (such as elders and apostolic workers) are established to oversee local clans and coordinate regional activities.
@@ -61,12 +61,12 @@ slug: dictionary
 
 **Freepaper:** Literature produced by the communities to spread their message and invite outsiders to visit their homes or farms.
 
-**Friday Night:** The beginning of the Saturday Sabbath, which includes an evening "gathering" (a larger event intended partly for recruitment of new members) with a nicer meal ("evening shadows" is the name given to the hors d’oeuvres served at this meal). The day prior is "Preparation Day" in which the whole house is cleaned.
+**Friday Night:** The beginning of the Saturday Sabbath, which includes an evening "gathering" (a larger event intended partly for recruitment of new members) with a nicer meal ("evening shadows" is the name given to the hors d'oeuvres served at this meal). The day prior is "Preparation Day" in which the whole house is cleaned.
 
 **Grafting:** The spiritual process by which individuals from "the nations" are brought into the group to become part of the restored Twelve Tribes.
 
 
-**Ha-Emeq:** The Hebrew name for Marsha Spriggs, the wife of the group’s founder, who serves as a central figure in high-level leadership.
+**Ha-Emeq:** The Hebrew name for Marsha Spriggs, the wife of the group's founder, who serves as a central figure in high-level leadership.
 
 
 **Hades (or Sheol):** The temporary "unseen realm" where departed souls await final judgment after the first death.
@@ -76,7 +76,7 @@ slug: dictionary
 
 **InterTribal News:** A publication (abbreviation "ITN") produced by the Tribes and distributed to members, geared toward providing updates from various tribes/communities/members and to teach the Tribes' beliefs and perspectives.
 
-**Lawlessness:** Any "independent action" or movement by a member that occurs outside the direction of their spiritual authority or the community’s government.
+**Lawlessness:** Any "independent action" or movement by a member that occurs outside the direction of their spiritual authority or the community's government.
 
 
 **Male Child:** A prophesied group of 144,000 youth raised within the tribes to be "almost perfect" and rule the universe in the next age.
@@ -85,7 +85,7 @@ slug: dictionary
 **Minchah:** The ritualized morning and evening gatherings where members worship through song, circle dancing, and sharing of thoughts.
 
 
-**School of the Prophets:** A specialized branch of the group's government that oversees "prophecy" and ensures that the community’s music and teachings remain spiritually consistent.
+**School of the Prophets:** A specialized branch of the group's government that oversees "prophecy" and ensures that the community's music and teachings remain spiritually consistent.
 
 
 **Scions:** Mortal human beings who repent at the end of the age and live through into the next 1,000-year millennial reign without dying.
@@ -112,13 +112,13 @@ slug: dictionary
 **The Righteous:** "Good" people of the world who followed their conscience but never joined the Tribes; they are granted a "second life" in eternity.
 
 
-**The Rod:** The implement used by parents to administer "stripes that wound" to a child’s bottom to end rebellion and reach the heart.
+**The Rod:** The implement used by parents to administer "stripes that wound" to a child's bottom to end rebellion and reach the heart.
 
 
 **The Underground:** A term describing secret dissent, independent thinking, or undisclosed sins.
 
 
-**Three Eternal Destinies:** The core doctrine that there are three final states for mankind: the Holy, the Righteous, and the Unjust and Filthy.
+[**Three Eternal Destinies:**](/3ED) The core doctrine that there are three final states for mankind: the Holy, the Righteous, and the Unjust and Filthy.
 
 
 **Tribe:** One of twelve designated geographic regions worldwide, each composed of various community households and clans.
@@ -130,9 +130,9 @@ slug: dictionary
 **Way-Out House:** A transitional residence established by the community in various geographic areas as a place where seekers can begin to learn about and join the Tribes' lifestyle.
 
 
-**Yahshua:** The Hebrew name for Jesus, which the group believes is the only true name of the Savior.
+**Yahshua:** The [Hebrew name](/hebrew) for Jesus, which the group believes is the only true name of the Savior.
 
 
-**Yoneq:** The Hebrew name for the group’s founder, Gene Spriggs, who is viewed as the primary spiritual authority and teacher.
+**Yoneq:** The Hebrew name for the group's founder, Gene Spriggs, who is viewed as the primary spiritual authority and teacher.
 
 [^1]: Some of the Tribes' terms have biblical connections, though many of them have been given different definitions compared to biblical usage. Some of the Tribes' religious terms are not found in biblical Scripture at all. The Tribes sometimes uses Hebrew for terms that the New Testament does not use Hebrew for.
