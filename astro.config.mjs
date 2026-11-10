@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://twelvetribesinfo.com', // Your URL
+  site: 'https://www.twelvetribesinfo.com', // Your URL
   base: '/',               // Your Repo Name
 
 redirects: {
