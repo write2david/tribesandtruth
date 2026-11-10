@@ -53,7 +53,7 @@ slug: social-life
 
 - Women wear dresses (or "sus pants") and religious head coverings. They are not supposed to shave their legs.
 
-- Men must have beards.[^1] They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
+- Men must have beards.[^2] They must also have medium-long hair, tied back in a short ponytail roughly the size of a fist.
 
 - Shirts must hang down long enough that the person's belly button doesn't show when they lift their hands above their heads.
 
@@ -80,7 +80,7 @@ slug: social-life
 
 ## Food
 
-- Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine[^2]) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.
+- Coffee is not approved because of its "addictive" caffeine. Instead, South American [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea (which also contains [significant levels](https://en.wikipedia.org/wiki/Yerba_mate#Chemical_composition_and_properties) of caffeine[^3]) is promoted by the Tribes, sold by the Tribes, and is frequently used by members in significant amounts.
 
 - Food is eaten with chopsticks in order to appeal to Asians and for cleanliness.
 
@@ -88,9 +88,9 @@ slug: social-life
 
 - They believe that foods made from pig (pork chops, bacon bits, hot dogs, etc.) contain toxins, take twice as long to digest, and are "unclean." They believe that chocolate has negative interactions with the human body. Therefore, neither type of food is permitted.
 
-- They prefer goat milk rather than cow milk.[^3]  Members are restricted from eating lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
+- They prefer goat milk rather than cow milk.[^4]  Members are restricted from eating lobster, crab, and other shellfish, as well as refined salt, sugar, and flour.
 
-- A variety of foods, such as pumpkin seeds, are promoted for their supposed[^5] health benefits.
+- A variety of foods, such as pumpkin seeds, are promoted for their supposed[^6] health benefits.
 
 
 ## Healthcare
@@ -136,7 +136,7 @@ slug: social-life
 
 - While members are intentionally very hospitable in public, outsiders are typically not allowed to be present for the "Breaking of Bread" ceremony on Saturday night.
 
-- Non-members (and most members) are also not permitted to attend "councils," "apostolic workers meetings," "kahals,"[^4] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
+- Non-members (and most members) are also not permitted to attend "councils," "apostolic workers meetings," "kahals,"[^5] and "intertribal meetings" where leaders gather to discuss doctrine, legal issues, or community management.
 
 
 [^1]: Here are some examples of the Tribes seeking to redefine terms/reality: (1) Since they reject food that is "unclean" according to the Old Testament, they consider unclean food not to be "food" at all (in order to avoid the New Testament permission to eat unclean food). (2) Since they promote the term "Yahshua" instead of "Jesus," they have created a false etymology of "Jesus" to tie that name with the pagan "Zeus." (3) They often use the word "Gospel" in relation to works-based behavior that the Bible doesn't use the word "Gospel" for. (4) In order to avoid the idea that Jesus is Divine, they classify certain statements of His as being spoken by God the Father through Jesus, and other statements of His as being spoken only by Jesus the man.
