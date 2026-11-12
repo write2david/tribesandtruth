@@ -25,7 +25,7 @@ slug: baptism
 
 - The Bible uses "baptism" to describe two different situations: being placed into the body of Christ (spiritual), and being immersed in water (physical).
 
-  - SPIRITUAL BAPTISM: Humans baptize "with water" (Acts 1:5, Acts 10:47) but Jesus baptizes people "with the Holy Spirit" (Matthew 3:11, Luke 3:16, Acts 1:5). When believers are "baptized into Christ" (Romans 6:3, Galatians 3:27), it "saves" them (1 Peter 3:21). At that point, believers are "buried with Him in baptism" (Colossians 2:12, cf. Romans 6:4). Being "baptized into Christ" (Romans 6:3) also baptizes a person into His body (1 Corinthians 12:13).
+  - SPIRITUAL BAPTISM: Christians baptize each other "with water" (Acts 1:5, Acts 10:47) but Jesus baptizes people "with the Holy Spirit" (Matthew 3:11, Luke 3:16, Acts 1:5). When believers are "baptized into Christ" (Romans 6:3, Galatians 3:27), it "saves" them (1 Peter 3:21). At that point, believers are "buried with Him in baptism" (Colossians 2:12, cf. Romans 6:4). Being "baptized into Christ" (Romans 6:3) also baptizes a person into His body (1 Corinthians 12:13).
 
   - PHYSICAL BAPTISM: Jesus baptizes people with the Holy Spirit, saving them and placing them into His body. In contrast, water baptism is done by humans (Matthew 3:11, Matthew 28:19, Acts 2:41, Acts 8:36–38). John the Baptist listed both kinds of baptism: "I baptize you with water, but he will baptize you with the Holy Spirit!" (Mark 1:8, cf. Luke 3:16, John 1:33). 
   
