@@ -131,3 +131,23 @@ That structure allows the verse to be read as, "Rising up, be baptized, and wash
 - In the very same verse, he specifies that this isn't water-baptism, as it's "not" the kind of baptism that can provide "removal of dirt from the body" but rather it is "an appeal to God for a good conscience." The good conscience is due to forgiveness provided by the Gospel.
 
 - The Bible doesn't discuss water baptism as "saving" people. Jesus, not water, is the source of salvation.
+
+### John 3:5
+
+*"Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God."*
+
+- The verse never mentions baptism. "Water" is not identified here as baptism, and Jesus is speaking of being "born" again, not of a rite performed on a person.
+
+- The next verse explains the contrast Jesus is drawing: "That which is born of the flesh is flesh, and that which is born of the Spirit is spirit" (John 3:6). On that reading, "water" points to physical birth — the flesh — set against the Spirit's birth, which is the point of the passage.
+
+- Even if "water" is taken as a figure for cleansing (cf. Ezekiel 36:25–27, where God sprinkles clean water and gives a new spirit), the cleansing is something God does in the new birth, not a human rite — and the same conversation makes belief, not baptism, the condition for life (John 3:16, 18).
+
+### Titus 3:5
+
+*"He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit."*
+
+- The verse opens by excluding works — and it is already quoted above (Faith Alone) for exactly that point. Reading "washing" as a required water rite would make the verse contradict its own opening: a baptism required for salvation would be a work done by us in righteousness.
+
+- "Washing" is not identified as water baptism. Paul names the agent: the Holy Spirit's regenerating and renewing work (cf. 1 Corinthians 6:11 — "you were washed ... by the Spirit of our God"; Ezekiel 36:25–27, where cleansing and a new spirit come together from God).
+
+- The surrounding verses stress gift, not rite: salvation is "according to his own mercy" (v. 5), "justified by his grace" (v. 7), so that we become "heirs according to the hope of eternal life."
