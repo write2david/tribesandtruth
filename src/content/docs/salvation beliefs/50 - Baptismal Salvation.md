@@ -10,7 +10,7 @@ slug: baptism
 :::tip[Overview]{icon="sun"}
 - The Twelve Tribes Communities teach that water baptism ("immersion") is a necessary step for salvation. According to their own documents: "Baptism is not something we do after we are saved. Baptism is the actual event of salvation."
 
-- This view is called "[baptismal regeneration](https://en.wikipedia.org/wiki/Baptismal_regeneration)." Other groups that hold to this belief include most Roman Catholics, Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans). The Twelve Tribes say that "there is no separation between baptism and salvation. They are simultaneous events."
+- This view is called "[baptismal regeneration](https://en.wikipedia.org/wiki/Baptismal_regeneration)." Other groups that hold to this belief include Roman Catholics (it is official Church teaching), Eastern Orthodox, Churches of Christ, and Mormons (as well as some Lutherans and Anglicans). The Twelve Tribes say that "there is no separation between baptism and salvation. They are simultaneous events."
 
 - The majority of Protestants, and especially Evangelicals, reject baptismal regeneration. Instead, they adhere to "faith alone" for salvation and view baptism as a post-salvation act to publicly identify oneself with Christ.
 
@@ -81,7 +81,7 @@ Scripture repeatedly provides examples of salvation happening *without* baptism,
 
 - **The thief on the cross** (Luke 23:39–43). Jesus tells the dying criminal, "Today you will be with me in paradise." Baptism did not occur in this situation.
 
-- **Cornelius and his household** (Acts 10:44–48). After Paul preached the Gospel, the people of this household (1) received the Holy Spirit, (2) exalted God, and (3) spoke in tongues. Scripture says that each of three results are indicators that salvation has occurred (John 4:23–24, Mark 16:17, Acts 2:4, Romans 8:9, 1 Corinthians 12:7–11, 1 Corinthians 14:23). And as a consequence, the new Christians were *then* baptized.
+- **Cornelius and his household** (Acts 10:44–48). After Peter preached the Gospel, the people of this household (1) received the Holy Spirit, (2) exalted God, and (3) spoke in tongues. Scripture says that each of the three results is an indicator that salvation has occurred (John 4:23–24, Acts 2:4, Romans 8:9, 1 Corinthians 12:7–11, 1 Corinthians 14:23). And as a consequence, the new Christians were *then* baptized.
 
 ## Addressing Rebuttals
 
@@ -124,7 +124,7 @@ That structure allows the verse to be read as, "Rising up, be baptized, and wash
 
 ### 1 Peter 3:21
 
-*"Baptism ... now saves you"*
+*"Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ."*
 
 - As discussed above, Peter is referring to baptism by the Holy Spirit, not water baptism.
 
