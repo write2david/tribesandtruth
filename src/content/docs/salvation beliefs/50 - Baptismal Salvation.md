@@ -81,7 +81,7 @@ Scripture repeatedly provides examples of salvation happening *without* baptism,
 
 - **The thief on the cross** (Luke 23:39–43). Jesus tells the dying criminal, "Today you will be with me in paradise." Baptism did not occur in this situation.
 
-- **Cornelius and his household** (Acts 10:44–48). After Peter preached the Gospel, the people of this household (1) received the Holy Spirit, (2) exalted God, and (3) spoke in tongues. Scripture says that each of the three results is an indicator that salvation has occurred (John 4:23–24, Acts 2:4, Romans 8:9, 1 Corinthians 12:7–11, 1 Corinthians 14:23). And as a consequence, the new Christians were *then* baptized.
+- **Cornelius and his household** (Acts 10:44–48). After Peter preached the Gospel, the people of this household (1) received the Holy Spirit, (2) exalted God, and (3) spoke in tongues. Scripture says[^1] that each of the three results is an indicator that salvation has occurred. And as a consequence, the new Christians were *then* baptized.
 
 ## Addressing Rebuttals
 
@@ -151,3 +151,5 @@ That structure allows the verse to be read as, "Rising up, be baptized, and wash
 - "Washing" is not identified as water baptism. Paul names the agent: the Holy Spirit's regenerating and renewing work (cf. 1 Corinthians 6:11 — "you were washed ... by the Spirit of our God"; Ezekiel 36:25–27, where cleansing and a new spirit come together from God).
 
 - The surrounding verses stress gift, not rite: salvation is "according to his own mercy" (v. 5), "justified by his grace" (v. 7), so that we become "heirs according to the hope of eternal life."
+
+[^1]: John 4:23–24, Acts 2:4, Romans 8:9, 1 Corinthians 12:7–11, 1 Corinthians 14:23.
