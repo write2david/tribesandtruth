@@ -1,5 +1,5 @@
 ---
-title: Must a person be baptized to be saved?
+title: Is baptism required for salvation?
 description: The Twelve Tribes Communities teach that baptism is necessary for salvation. This page examines that claim against the New Testament teaching that salvation is by faith alone, apart from works, including baptism.
 sidebar:
   label: Baptism
@@ -146,9 +146,9 @@ That structure allows the verse to be read as, "Rising up, be baptized, and wash
 
 *"He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit."*
 
-- The verse opens by excluding works — and it is already quoted above (Faith Alone) for exactly that point. Reading "washing" as a required water rite would make the verse contradict its own opening: a baptism required for salvation would be a work done by us in righteousness.
+- Baptism is indeed a righteous action. But the verse itself begins by excluding righteous deeds in the act of salvation. A baptism required for salvation would be a work done by us in righteousness.
 
-- "Washing" is not identified as water baptism. Paul names the agent: the Holy Spirit's regenerating and renewing work (cf. 1 Corinthians 6:11 — "you were washed ... by the Spirit of our God"; Ezekiel 36:25–27, where cleansing and a new spirit come together from God).
+- In this verse, "washing" is not water baptism. Paul says that it is the Holy Spirit's regenerating and renewing work Notice that he uses similar wording in 1 Corinthians 6:11 — "you were washed ... by the Spirit of our God."
 
 - The surrounding verses stress gift, not rite: salvation is "according to his own mercy" (v. 5), "justified by his grace" (v. 7), so that we become "heirs according to the hope of eternal life."
 
