@@ -148,7 +148,7 @@ That structure allows the verse to be read as, "Rising up, be baptized, and wash
 
 - Baptism is indeed a righteous action. But the verse itself begins by excluding righteous deeds in the act of salvation. A baptism required for salvation would be a work done by us in righteousness.
 
-- In this verse, "washing" is not water baptism. Paul says that it is the Holy Spirit's regenerating and renewing work Notice that he uses similar wording in 1 Corinthians 6:11 — "you were washed ... by the Spirit of our God."
+- In this verse, "washing" is not water baptism. Paul says that it is the Holy Spirit's regenerating and renewing work. Notice that he uses similar wording in 1 Corinthians 6:11 — "you were washed ... by the Spirit of our God."
 
 - The surrounding verses stress gift, not rite: salvation is "according to his own mercy" (v. 5), "justified by his grace" (v. 7), so that we become "heirs according to the hope of eternal life."
 
