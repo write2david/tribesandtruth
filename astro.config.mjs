@@ -29,8 +29,15 @@ redirects: {
 			favicon: '/favicon.png',
 
 			head: [
-        			
-			      ],
+				{
+					tag: 'script',
+					attrs: { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-JM1D5N7XGX' },
+				},
+				{
+					tag: 'script',
+					content: "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-JM1D5N7XGX');",
+				},
+			],
 
 			components: {
         			// Adding footer code which includes Bible reference tagger.
