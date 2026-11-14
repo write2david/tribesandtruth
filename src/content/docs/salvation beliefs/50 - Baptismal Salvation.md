@@ -69,11 +69,11 @@ The Bible teaches that salvation comes through faith alone, apart from any "work
 
 ***
 
-## Salvation Without Baptism (or After Baptism)
+## Examples of Salvation Without Baptism
 
 Scripture repeatedly provides examples of salvation happening *without* baptism, or baptism happening *after* salvation...
 
-- **Abraham** (Genesis 15:6; Romans 4). Abraham was credited with righteousness through faith alone, without baptism. Paul treats Abraham's case as the pattern for how Christians are saved (Romans 4:23–24). Similarly, Jesus declares Zacchaeus to be saved because he is a "son of Abraham" (Luke 19:1–9).
+- **Abraham** (Genesis 15:6; Romans 4). Abraham was credited with righteousness through faith alone, without baptism. Paul treats Abraham's case as the pattern for how Christians are saved (Romans 4:23–24). Similarly, Jesus declares Zacchaeus to be saved because he is a "son of Abraham" (Luke 19:1–9), with no mention of baptism.
 
 - **The paralytic on a mat** (Matthew 9:1–7). Jesus forgave the paralytic "when Jesus saw their faith." There was no baptism in this situation, but rather forgiveness came by faith alone.
 
