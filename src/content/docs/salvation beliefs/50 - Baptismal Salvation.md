@@ -83,6 +83,8 @@ Scripture repeatedly provides examples of salvation happening *without* baptism,
 
 - **Cornelius and his household** (Acts 10:44–48). After Peter preached the Gospel, the people of this household (1) received the Holy Spirit, (2) exalted God, and (3) spoke in tongues. Scripture says[^1] that each of the three results is an indicator that salvation has occurred. And as a consequence, the new Christians were *then* baptized.
 
+- **Simon the Sorcerer** (Acts 8:9–24). Simon believed Philip's preaching and was baptized (Acts 8:13). But when he saw the Holy Spirit given through the laying on of the apostles' hands, he offered them money to buy that power for himself (Acts 8:18–19). Peter told him his heart was "not right before God" (Acts 8:21), that he stood "in the gall of bitterness and in the bondage of unrighteousness" (Acts 8:23), and called on him to repent and pray for forgiveness (Acts 8:22). The water had not changed him — and the apostle treats him as a man still lost. His case runs the other way from the rest of this list: the others were given life without ever touching it, while Simon went under and still stood outside it — proof that the act itself is not what saves.
+
 ## Addressing Rebuttals
 
 ### Mark 16:16
